@@ -3,7 +3,7 @@ title: 'אהבת ישראל — ליקוטי שיחות'
 tags:
   - concept
   - ahavat-yisrael
-  - מידות
+  - עבודת-ה
   - likkutei-sichos
 ---
 
@@ -11,218 +11,64 @@ tags:
 
 > **Love of Fellow Jews**
 >
-> ואהבת לרעך כמוך — אהבת ישראל
+> ואהבת לרעך כמוך — אהבת כל אחד מישראל, כלל גדול בתורה
 
-**204 שיחות** דנות בנושא זה
+**89 שיחות** עוסקות בנושא זה בליקוטי שיחות
 
-## שיחות העוסקות באהבת ישראל
+## עיקרי הנושא בליקוטי שיחות
 
-| כרך | שיחה | עמ' |
-|-----|------|-----|
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayechi_1|ויחי]] | 102 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bo-יו-ד_שבט_1|בא — יו״ד שבט]] | 127 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/terumah_1|תרומה]] | 162 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pekudei_1|פקודי]] | 195 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/purim-tzav_1|פורים — צו]] | 213 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/kedoshim_1|קדושים]] | 260 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/bamidbar_1|במדבר]] | 293 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shavuot_1|חה ש]] | 301 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/behaalotecha_1|בהעלותך]] | 314 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shelach_1|שלח]] | 320 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/vayelech_1|וילך]] | 407 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/simchat-torah_1|ש ת]] | 409 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shemini-atzeret-special_1|שמע צ-שמח ת]] | 433 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/noach_1|נח]] | 750 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/vayera_1|וירא]] | 765 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/yud-tes-kislev_1|י ט כסלו]] | 799 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/vayeshev_1|וישב]] | 805 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/beshalach_1|בשלח]] | 876 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/vayakhel_1|ויקהל]] | 930 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/tazria_1|תזריע]] | 979 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/emor_1|אמור]] | 995 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/bamidbar_1|במדבר]] | 1019 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/chukat_1|חוקת]] | 1056 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/balak_1|בלק]] | 1067 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/כ-ף-אב_1|כ ף אב]] | 1103 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/reeh_1|ראה]] | 1108 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/ki-tavo_1|תבוא]] | 1130 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/nitzavim_1|נצבים]] | 1139 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/יוה-כ_1|יוה כ]] | 1149 |
-| [[volumes/volume-05|כרך 5]] | [[sichos/vol05/lech-lecha_1|לך לך]] | 57 |
-| [[volumes/volume-05|כרך 5]] | [[sichos/vol05/vayechi_2|ויחי]] | 261 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/shemot_1|שמות]] | 1 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/chof-dales-tevet_1|כ ד טבת]] | 35 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/purim_1|פורים]] | 189 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/ki-tisa_2|תשא]] | 201 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/vayakhel_1|ויקהל]] | 210 |
-| [[volumes/volume-07|כרך 7]] | [[sichos/vol07/emor_1|אמור]] | 147 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/shavuot_1|חה ש]] | 21 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/naso_2|נשא]] | 41 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/chukat_2|חוקת]] | 134 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/balak_2|בלק]] | 150 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/pinchas_1|פנחס]] | 160 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/matot_2|מטות]] | 186 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/ki-tavo_1|תבא]] | 152 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/nitzavim_1|נצבים]] | 175 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/vezot-habracha_1|וזאת הברכה]] | 225 |
-| [[volumes/volume-10|כרך 10]] | [[sichos/vol10/noach_2|נח]] | 24 |
-| [[volumes/volume-10|כרך 10]] | [[sichos/vol10/vayigash_1|ויגש]] | 146 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/shemot_1|שמות]] | 1 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/beshalach_3|בשלח]] | 63 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/pekudei_1|פקודי]] | 169 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/pekudei_2|פקודי]] | 175 |
-| [[volumes/volume-12|כרך 12]] | [[sichos/vol12/acharei_1|אחרי]] | 83 |
-| [[volumes/volume-14|כרך 14]] | [[sichos/vol14/reeh_2|ראה]] | 53 |
-| [[volumes/volume-14|כרך 14]] | [[sichos/vol14/nitzavim_2|נצבים]] | 114 |
-| [[volumes/volume-14|כרך 14]] | [[sichos/vol14/vezot-habracha_2|וזאת הברכה]] | 164 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/lech-lecha_3|לך לך]] | 83 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayishlach-special_3|וישלח-י ט כסלו]] | 281 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayeshev_1|וישב]] | 302 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayeshev_3|וישב]] | 318 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayigash_3|ויגש]] | 399 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayechi_3|ויחי]] | 439 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayechi_4|ויחי]] | 447 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/shemot_1|שמות]] | 1 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/shemot_4|שמות]] | 29 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/vaera_1|וארא]] | 47 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/bo_3|בא]] | 114 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/yitro_2|יתרו]] | 203 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/terumah_1|תרומה]] | 284 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/tetzaveh_2|תצוה]] | 336 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/purim_2|פורים]] | 365 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/vayakhel_1|ויקהל]] | 424 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/vayikra_5|ויקרא]] | 34 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/kedoshim_2|קדושים]] | 215 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/emor_3|אמור]] | 255 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/behar-special_1|בהר-ל ג בעומר]] | 303 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/bechukotai_2|בחוקותי]] | 321 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/naso_4|נשא]] | 76 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/behaalotecha_2|בהעלותך]] | 104 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/shelach_2|שלח]] | 150 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/korach_3|קרח]] | 202 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/chukat-special_1|חוקת-בלק — י ב-י ג תמוז]] | 300 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/pinchas_1|פנחס]] | 326 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/devarim_1|דברים]] | 1 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/eikev_1|עקב]] | 89 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/eikev_2|עקב]] | 94 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/eikev_3|עקב]] | 106 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/shoftim_1|שופטים]] | 165 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/ki-tavo_2|תבא]] | 235 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/nitzavim_1|נצבים]] | 258 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/vayelech_1|וילך]] | 298 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/vayelech_2|וילך]] | 307 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/sukkot_1|חה ס]] | 348 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/toldot_1|תולדות]] | 100 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayishlach-special_1|וישלח-י ט כסלו]] | 166 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/yud-tes-kislev_2|י ט כסלו]] | 180 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayeshev_1|וישב]] | 185 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/shemot_3|שמות]] | 20 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/vaera_3|וארא]] | 45 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/beshalach_1|בשלח]] | 77 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_2|יתרו]] | 108 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_3|יתרו]] | 119 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/tetzaveh_1|תצוה]] | 173 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/tetzaveh_2|תצוה]] | 181 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/parshat-zachor_1|פ' זכור]] | 190 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/vayakhel_2|ויקהל]] | 244 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/ויקה-פ_1|ויקה פ]] | 250 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/tzav_2|צו]] | 21 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/shemini_1|שמיני]] | 39 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/תזו-מ_1|תזו מ]] | 70 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/kedoshim_2|קדושים]] | 108 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/emor_3|אמור]] | 132 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/lag-baomer_1|ל ג בעומר]] | 138 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/behar_1|בהר]] | 143 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/bamidbar_1|במדבר]] | 1 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/naso_2|נשא]] | 53 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/behaalotecha_1|בהעלותך]] | 62 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/shelach_2|שלח]] | 96 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/י-ב-י-ג-תמוז_1|י ב-י ג תמוז]] | 157 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/balak_2|בלק]] | 172 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/matot_1|מטות]] | 206 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/tu-beav_1|ט ו באב]] | 47 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/shoftim_4|שופטים]] | 121 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/ki-tavo_1|תבא]] | 157 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/chai-elul_1|ח י אלול]] | 178 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/haazinu-special_1|האזינו-ש ת]] | 229 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/vezot-habracha_1|ברכה]] | 253 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/noach_3|נח]] | 28 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/vayera_1|וירא]] | 70 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/chayei-sarah_1|חיי שרה]] | 91 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/yud-tes-kislev_1|י ט כסלו]] | 186 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/vayeshev_1|וישב]] | 204 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/miketz_1|מקץ]] | 220 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/miketz_2|מקץ]] | 227 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/vayigash_1|ויגש]] | 252 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/עשרה-בטבת_1|עשרה בטבת]] | 267 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/vayechi_2|ויחי]] | 275 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/vaera_2|וארא]] | 49 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/beshalach_1|בשלח]] | 85 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/beshalach_3|בשלח]] | 103 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/mishpatim_3|משפטים]] | 160 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/terumah_3|תרומה]] | 183 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/pekudei_2|פקודי]] | 280 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/vayikra_3|ויקרא]] | 16 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/tazria_2|תזריע]] | 88 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/metzora_1|מצורע]] | 101 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/metzora_2|מצורע]] | 107 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/acharei_1|אחרי]] | 116 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/kedoshim_1|קדושים]] | 141 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/emor_1|אמור]] | 158 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/ר-ח-סיון_1|ר ח סיון]] | 7 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/shavuot_1|חה ש]] | 24 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/behaalotecha_1|בהעלותך]] | 60 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/korach_1|קרח]] | 98 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/korach_3|קרח]] | 115 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/י-ב-י-ג-תמוז_1|י ב-י ג תמוז]] | 149 |
-| [[volumes/volume-29|כרך 29]] | [[sichos/vol29/devarim_1|דברים]] | 1 |
-| [[volumes/volume-29|כרך 29]] | [[sichos/vol29/devarim-special_1|דברים-שבת חזון]] | 9 |
-| [[volumes/volume-29|כרך 29]] | [[sichos/vol29/vaetchanan_2|ואתחנן]] | 33 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/lech-lecha_3|לך לך]] | 53 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/chayei-sarah_1|חיי שרה]] | 82 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/toldot_3|תולדות]] | 116 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayetzei_1|ויצא]] | 125 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayishlach_1|וישלח]] | 148 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayishlach_3|וישלח]] | 161 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayeshev_2|וישב]] | 184 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/chanukah_2|חנוכה]] | 209 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayigash_1|ויגש]] | 215 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayigash_3|ויגש]] | 229 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/vaera_1|וארא]] | 23 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/bo_1|בא]] | 46 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/beshalach_1|בשלח]] | 69 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/ניסן_1|ניסן]] | 19 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/acharei_2|אחרי]] | 106 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/lag-baomer_1|ל ג בעומר]] | 149 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/behar_2|בהר]] | 161 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shavuot_1|חה ש]] | 18 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shelach_2|שלח]] | 85 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/korach_1|קרח]] | 105 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/chukat_2|חוקת]] | 131 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/י-ב-י-ג-תמוז_1|י ב-י ג תמוז]] | 138 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/י-ב-י-ג-תמוז_2|י ב-י ג תמוז]] | 145 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/pinchas_3|פנחס]] | 176 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/masei_2|מסעי]] | 206 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/devarim_3|דברים]] | 17 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/eikev_1|עקב]] | 51 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/ki-tavo_2|תבא]] | 153 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vayelech_1|וילך]] | 187 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/sukkot_1|חה ס]] | 211 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vezot-habracha_1|ברכה]] | 217 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/noach_1|נח]] | 15 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/lech-lecha_2|לך לך]] | 45 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/miketz_2|מקץ]] | 181 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/shemot_2|שמות]] | 7 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/bo_1|בא]] | 45 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/mishpatim_2|משפטים]] | 109 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/tetzaveh_1|תצוה]] | 146 |
-| [[volumes/volume-37|כרך 37]] | [[sichos/vol37/tazria_1|תזריע]] | 33 |
-| [[volumes/volume-37|כרך 37]] | [[sichos/vol37/kedoshim_1|קדושים]] | 55 |
-| [[volumes/volume-37|כרך 37]] | [[sichos/vol37/emor_2|אמור]] | 67 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/masei_2|מסעי]] | 127 |
-| [[volumes/volume-39|כרך 39]] | [[sichos/vol39/devarim_1|דברים]] | 1 |
-| [[volumes/volume-39|כרך 39]] | [[sichos/vol39/ki-tetzei_1|תצא]] | 30 |
-| [[volumes/volume-39|כרך 39]] | [[sichos/vol39/ר_5|ר]] | 43 |
+| כרך | שיחה | עמ' | תוכן |
+|-----|------|-----|------|
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayechi_1|ויחי]] | 102 | ח. די מעלה צו וועלכער מען דערגרייכט דורך דער עבודה פון קבלת עול און מסירת נפש אויף אהבת ישראל, זאגט ער אין פ׳ ברכה אין דער ברכה פון שבט נפתלי וואס ער... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bo-יו-ד_שבט_1|בא — יו״ד שבט]] | 127 | ג. אויב אלע מצות דארף מען טאן מיט א תוקף, מכ״ש אז די מצוה פון אהבת ישראל — יסוד כל התורה), דארף מען אוודאי טאן מיט א תוקף, און פון קיינעם ניט נתפעל... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pekudei_1|פקודי]] | 195 | וואס דאס איז דאך דער ענין פון ואהבת לרעך כמוך, לויט דעם מאמר פון בעל שם טוב, אז מצות אהבת ישראל איז אויך צו א אידן וואס געפינט זיד אין עק וועלט, וואס... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/kedoshim_1|קדושים]] | 260 | כל תורה שאין עמה מלאכה סופה בטילה). מלאכה מיינט התעסקות אין אהבת ישראל. בכדי די תורה זאל האבן א קיום, מוז צו איר זיין התעסקות אין אהבת ישראל. און די... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/bamidbar_1|במדבר]] | 293 | ואף שעל ידי השלום יכולים לפעול מה שרוצים, וכמו שנאמר חבור עצבים אפרים הנח לו, וכדרז״ל) ע״פ זה, וכמו שע״י שהי׳ — שפה אחת ודברים אחדים, הרי — לא יבצר... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shavuot_1|חה ש]] | 301 | ובכללות טיילן זיי זיך אין דריי: מצוות וועלכע זיינען פארבונדן מיטן פארשטאנד, ווי ידיעת גדולת הבורא, תלמוד תורה וכו׳ — ראש. מצוות וועלכע זיינען... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/behaalotecha_1|בהעלותך]] | 314 | הגם דער תכלית איז אומעטום דער זעלבער, פונדעסטוועגן איז אָבער אַ גרויסער חילוק צי דער דרך איז בקו הגבורות, אָדער דער דרך איז לכתחילה בקו החסדים, וואָס... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shelach_1|שלח]] | 320 | אויב עס איז אזוי אין יעדער מצות פרטית, אז דורך דעם וואס מען הויבט אן מקיל זיין אין א מצוה ווערט שוין במילא א נתינת מקום צו עובר זיין אן איסור, היינט... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shemini-atzeret-special_1|שמע צ-שמח ת]] | 433 | דערמיט וועט מען אויך פארשטיין דעם מאמר הבעל שם טוב), אז אהבת ישראל מיינט, מען זאל ליב האבן א אידן כאטש ער האט אים קיינמאל ניט געזען און קיינמאל ניט... |
+| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/noach_1|נח]] | 750 | און דורך דער איצטיקער הנהגה בקוהחסד, די מדה פון אברהם אבינו, מקרב צוזיין אלע אידן מיט אהבת ישראל און דער־וועקן זיי צו אידישקייט, איז מען מגלה... |
+| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/vayera_1|וירא]] | 765 | (ב) דער רמב״ם אליין איז מאריך אין פירוש המשניות, אז אלע מצוות וועלכע מיר זיינען היינט מקיים, טוען מיר זיי נאר צוליב דעם ציווי פון דעם אויבערשטן צו... |
+| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/beshalach_1|בשלח]] | 876 | בכלל שטייט ער אין א תנועה פון יאוש. ער האלט אז ער וועט אלץ איינם גארנישט קענען אויפטאן - ניט מיט דער וועלט און אפילו ניט מיט זיך. ער וועט שוין ניט... |
+| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/chukat_1|חוקת]] | 1056 | ב) דער כללות ענין פון תורה – ווייל יסוד כל התורה איז צו ארויסגיין פון אלע ציורים, בויגן דעם אייגענעם "איך", ניט נאר דעם "איך" פון גוף נאר אויך – פון... |
+| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/כ-ף-אב_1|כ ף אב]] | 1103 | און דאן האדעוועט מען אויף א דור וואס איז גרייט צו אוועקגעבן, און אוועקגעבן בשמחה, וואס זיי האבן, צו־ ליב א צווייטן אידן. וגדולה מעלת אהבת ישראל, אהבת... |
+| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/ki-tavo_1|תבוא]] | 1130 | צווישן די שרשים וועלכע דער רמב״ם גיט בנוגע מנין המצוות, זאגט ער, אז א ציווי כולל, אזוי ווי "את חקותי תשמרו גו׳" אדער "קדושים תהיו", ווערן ניט גערעכנט... |
+| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/shemot_1|שמות]] | 1 | כי מכיון שאהבת ההורים לבנם ואהבת הבן להוריו שרשה היא אהבת הקב״ה לישראל ואהבת ישראל להקב״ה, וישראל הם בן יחיד ליחידו של עולם, לכן עיקר האהבה עצמית של... |
+| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/ki-tisa_2|תשא]] | 201 | און מאידך גיסא גיט עס א באגריף ווי ווייט ס׳איז די טייערקייט פון אהבת הבריות בכלל, און פון אהבת ישראל — בנים אתם לה׳ אלקיכם — על אחת כמה וכמה. (משיחת... |
+| [[volumes/volume-07|כרך 7]] | [[sichos/vol07/emor_1|אמור]] | 147 | ודוגמא אחת מכו״כ : מ״ע ואהבת לרעך כמוך — עיין בחדא״ג (שבת לא, א) דרק בדעלך סני לחברך לא תעביד — יש לחייבו מצד ואהבת — ממש כבנדו״ד. **) ומה ששם... |
+| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/naso_2|נשא]] | 41 | בשעת א איד שטעלט זיך דאוונען — וואס תפלות זיינען כנגד קרבנות — איז לכל לראש דארף ער אויף זיך מקבל זיין די מ״ע פון "ואהבת לרעך כמוך", וואם דאס דארף ער... |
+| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/ki-tavo_1|תבא]] | 152 | פון די ענינים העיקריים אין וועלכע דער בעש״ט מיטן אלטן רבי׳ן האבן זיך געקאכט, איז — אהבת ישראל; און דער ענין איז דאך מרומז אין ונחלת הסדרה, כנ״ל. |
+| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/vezot-habracha_1|וזאת הברכה]] | 225 | יד. אט-די אחדות וואס איז פאראן בשמחת תורה, איז מען דערנאך ממשיך בכל השנה כולה — אז דער "ואהבת לרעך כמוך" זאל זיך אויסדריקן אויך אין ענינים פשוטים, אז... |
+| [[volumes/volume-10|כרך 10]] | [[sichos/vol10/noach_2|נח]] | 24 | שהכלי לתורה הוא השלום - עד שזוכים להשראת השכינה שהיא "באהלי שם" (בבנין בית השלישי) ע״י אחדות ואהבת ישראל, ובקרוב ממש. (משיחת ש״פ בראשית, תשכ״ו) |
+| [[volumes/volume-10|כרך 10]] | [[sichos/vol10/vayigash_1|ויגש]] | 146 | (ועד כדי כך דאפילו במצות אהבת ישראל - וגם לפי המבואר בחסידות בגודל איכותה וכמותה של אהבה זו, עכ״ז הרי - האהבה אינה אלא באופן של "ואהבת לרעך כמוך",... |
+| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/beshalach_3|בשלח]] | 63 | 51) ואף שבבינונים (וכ"ש אלו שלמטה ממדריגת הבינונים) הנפה"ב „היא היא האדם עצמו" (תניא פכ"ט), הרי זהו רק בחיצוניות אבל בפנימיות ובאמתית הרי כל איש... |
+| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/pekudei_2|פקודי]] | 175 | במ“ע „הוכח תוכיח את עמיתך”, „ואהבת לרעך כמוך”. נוסף לזה: בנוגע להשפעה על חבירו בעניני תומ“צ ראי‘ נוספת, כביכול, מהנהגת הקב“ה עצמו, שאין להתחשב בזה... |
+| [[volumes/volume-14|כרך 14]] | [[sichos/vol14/reeh_2|ראה]] | 53 | ויובן בהקדים מחלוקת מוני המצות בפרטי גמ“ח הנ“ל: „ניחום אבלים, קבורת מתים, בקור חולים והלבשת ערומים“ שלפי שיטת הבה“ג (לפי פי‘ הרמב“ם) נחשבות למצות... |
+| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/lech-lecha_3|לך לך]] | 83 | אַ דריטער אופן (בדוגמת העבודה פון זמן ההכנה למ”ת, וואו ס’הערט זיך שוין אָן די שייכות פון עליונים ותחתונים) איז, אַז ער איז זיך משתדל מיט... |
+| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayishlach-special_3|וישלח-י ט כסלו]] | 281 | הוא הענין דאהבת ישראל (ראה ס׳ הערבים־הב״ד (ברך א׳) בערבו ס״ט. וש״נ) - בי אמיתיות האהדות של בל ישראל נתגלה ע״י תורת ההסידות. 56) עפ״י המבואר בפנים... |
+| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayechi_3|ויחי]] | 439 | א איד טאר זיך ניט באנוגענען מיט זיין אינגאנצן פארנומען נאר מיט שלימות עצמו, ער מוז אויך האבן די התעסקות אין אהבת ישראל, אין טאן א טובה א צווייטן... |
+| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/shemot_4|שמות]] | 29 | ד. כ"ק מו"ח אדמו"ר האָט געזאָגט בשם הבעש"ט, אַז דער חיוב פון אהבת ישראל באַציט זיך ניט נאָר צו אַ אידן וואָס ער איז מיט אים באַקאַנט, נאָר די אהבה... |
+| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/terumah_1|תרומה]] | 284 | בשעת אַ איד גייט באַווירקן אַ צווייטן אידן, אים מקרב צו זיין צו תורה ומצוות, ער גייט מקיים זיין די מצוה פון הוכח תוכיח את עמיתך, קען ער ביי זיך... |
+| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/purim_2|פורים]] | 365 | משלוח מנות: לויט ווי עס איז מבואר אין מנות הלוי, איז ענינה צו מרבה זיין שלום וריעות צווישן איין אידן מיטן צווייטן, וואס דאס איז דאך א מצוה וכללית בכל... |
+| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/kedoshim_2|קדושים]] | 215 | בנוגע דער מצוה פון אהבת ישראל זיינען דאָ צוויי לשונות (ווי געבראַכט פריער): א) דער מאמר פון רע”ק - „זה כלל גדול בתורה”. ב) דער מאמר (כמה דורות לפני... |
+| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/naso_4|נשא]] | 76 | און ס’איז מובן בפשטות פאַרוואָס דאָס איז ניט מתאים ע”פ פשש”מ, וואָרום מ’האָט דאָך שוין פריער געלערנט דעם ציווי ואהבת לרעך כמוך, איז פּונקט ווי דער... |
+| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/behaalotecha_2|בהעלותך]] | 104 | ס׳איז ידוע, אז דער ענין פון אהבת ישראל צו וועלכן אידן עס זאל נאר זיין, איז מצד דעם וואס ״כל איש ישראל .. כאיש אחד חברים", ווי דער אלטער רבי איז עס... |
+| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/shelach_2|שלח]] | 150 | 56) ראה סהמ“צ להצ“צ מצות אהבת ישראל רפ“א. ועוד. 57) עייג“כ תניא פ“ב (ושם, גם לענין ראשי אלפי ישראל שבכל דור ודור גופא). |
+| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/devarim_1|דברים]] | 1 | מוז מען זאָגן, אַז דער אָפּשלאָג אויף דער טענה פון בייתוסי (אַז מצד אהבת ישראל „עמד (משה) ותקנה אחר שבת כו’”) איז טאַקע פון דעם ענין, וואָס דער... |
+| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/eikev_1|עקב]] | 89 | אַז מען קומט צו אַ אידן און מען מאָנט ביי אים אהבת ישראל,אַז ער זאָל ליב האָבן (אפילו) אַ אידן וואָס ער האָט פון אים קיינמאָל קיין טובה ניט געהאַט... |
+| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/vayelech_1|וילך]] | 298 | די עשרת ימי תשובה זיינען אַ זמן מסוגל צו מוסיף זיין אין אהבת ישראל. בשעת דער „בהתאסף ראשי עם” איז ניט בשלימות - עס פעלט אין דער אחדות מיט אַלע אידן -... |
+| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/vayelech_2|וילך]] | 307 | במיוחד אין די עשרת המבצעים הידועים), און אַז דאָס אַלץ דאַרף זיין דורכגענומען מיט „יפוצו מעינותיך חוצה” - זיינען פאַראַן אַזעלכע וואָס טענה’ן, אַז... |
+| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/sukkot_1|חה ס]] | 348 | 26) ראה ירושלמי נדרים פ״ט ה״ד: הוה מקטע קופד ומחת סכינא לידוי תחזור ותמחי לידי/ וראה תניא פל״ב. סהמ״צ להצ״צ מצות אהבת ישראל. קונטרס אהבת ישראל. 27)... |
+| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/toldot_1|תולדות]] | 100 | 54) פרק לב. וראה בארוכה קונטרס אהבת ישראל (קה״ת, ברוקלין, תשל״ו). וש״נ. 55) מענה המשיח להבעש״ט שאז יבא. נתבאר בלקו"ש ח״ד ע׳ 1119. ובכ״מ. |
+| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/yud-tes-kislev_2|י ט כסלו]] | 180 | און דער טוב כפול איז מודגש במיוחד אין תורת החסידות, וואָס מאָנט פון אַן אידן ביידע קצוות: פון איין זייט טוט אויף חסידות — פנימיות התורה — אַז די... |
+| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayeshev_1|וישב]] | 185 | און דער געפיל פון „מחצית השקל”, וואָס ברענגט צו צירוף וחיבור ואחדות ישראל ואהבת ישראל, איז מתקן דעם עון פון מכירת יוסף וואָס איר סיבה איז געווען היפך... |
+| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/shemot_3|שמות]] | 20 | ישראל יותר מבאו”ה. וע”ד משנ”ת לענין האהבה העצמית של הורים לבנם ושל בן להוריו, שהיא בישראל יותר מבאו”ה, לפי ששרש אהבה זו היא אהבת הקב”ה לישראל ואהבת... |
+| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/vaera_3|וארא]] | 45 | 63) היום יום ע׳ קיג. וראה ס׳ הערכים־חב"ד ע׳ אהבת ישראל (ע׳ תרכג), וש"נ. קונטרס אהבת ישראל סי׳ ט ואילך. 64) ברכות נז, א. וש"נ. |
+| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/beshalach_1|בשלח]] | 77 | ועאכו”כ ווען מ’נעמט אין באַטראַכט, אַז דורך דעם וואָס מען איז „מברר” אַ אידן און מ’איז אים מקרב צו תומ”צ, וועט אויך דער איד ווערן סו”ס אַ „מברר”... |
+| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_2|יתרו]] | 108 | דער אַלטער רבי איז מבאר אין תניא, אַז דער ענין פון אהבת ישראל דאַרף זיין „לכל נפש מישראל למגדול ועד קטן”, ווייל „מצד שורש נפשם בה׳ אחד” איז „כולן... |
+| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_3|יתרו]] | 119 | ומרובה מדה טובה כו׳ — אַז אהבת ישראל, ביז צו אַן אהבה בלתי מוגבלת וואָס ברענגט צו אַ הנהגה פון מכבד זיין חבירך בתכלית הזהירות, איז דאָס (בפנימיות)... |
+| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/tetzaveh_1|תצוה]] | 173 | ההוראה מכ”ז ווי עס דאַרף זיין בעבודת כאו”א: ס׳איז ניט גענוג וואָס מ׳האָט אהבת ישראל, און צו יעדער איד (אין וואָס פאַר אַ מצב ער זאָל נאָר זיין), און... |
 
 ---
 

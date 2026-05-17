@@ -3,7 +3,7 @@ title: 'חיים — ליקוטי שיחות'
 tags:
   - concept
   - chayim
-  - ענינים-מיוחדים
+  - יסודות-החסידות
   - likkutei-sichos
 ---
 
@@ -11,34 +11,18 @@ tags:
 
 > **Life**
 >
-> ענין החיים — חיי נצח
+> חיים — ענין החיות האלוקית, חיי האדם
 
-**428 שיחות** דנות בנושא זה _(מוצגות 20 ראשונות)_
+**4 שיחות** עוסקות בנושא זה בליקוטי שיחות
 
-## שיחות העוסקות בחיים
+## עיקרי הנושא בליקוטי שיחות
 
-| כרך | שיחה | עמ' |
-|-----|------|-----|
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/noach_1|נח]] | 4 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/chayei-sarah_1|חיי שרה]] | 31 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/toldot_1|תולדות]] | 45 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayetzei_1|ויצא]] | 60 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/miketz-שבת_חנוכה_1|מקץ — שבת חנוכה]] | 85 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayigash_1|ויגש]] | 94 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayechi_1|ויחי]] | 102 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vaera_1|וארא]] | 119 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/beshalach-ט-ו_בשבט_1|בשלח — ט״ו בשבט]] | 139 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/yitro_1|יתרו]] | 148 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/mishpatim_1|משפטים]] | 155 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/ki-tisa_1|תשא]] | 178 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayikra-parshat-zachor_1|ויקרא — זכור]] | 205 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/purim-tzav_1|פורים — צו]] | 213 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/shemini_1|שמיני]] | 222 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/metzora-shabbat-hagadol_1|מצורע — שבת הגדול]] | 239 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pesach_1|חה פ]] | 244 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/behar_1|בהר]] | 273 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bechukotai-special_1|בחוקותי-ל ג בעומר]] | 281 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shavuot_1|חה ש]] | 301 |
+| כרך | שיחה | עמ' | תוכן |
+|-----|------|-----|------|
+| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/shemot_2|שמות]] | 8 | בירושלמי ש„חותמו של הקב”ה אמת” לפי שבג' האותיות א'מ'ת', הנה הא' ראשונה שבאותיות ומ' - אמצעיתן ות' - אחרונה שבאותיות, כמ”ש „אני ראשון ואני אחרון... |
+| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayechi_1|ויחי]] | 422 | ו. דער ביאור אין דעם: אמיתיות ענין החיים איז אזא חיים וואס איז אלעמאל חי - האט א קיום נצחי אן שינויים; וואס דערפאר איז די אמת׳ע מציאות פון חיים פאראן... |
+| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/ki-tavo-special_1|תבא-ח י אלול]] | 244 | 32) כידוע (המשך תער"ב ח"א פר"י. ועוד) דזה שהגוף חי הוא לא מה שנמצא בו דבר חיוני כ"א שהוא עצמו חי. וראה ד"ה יחיינו שם: דההרגש כמו הרגש זולתו בענין... |
+| [[volumes/volume-39|כרך 39]] | [[sichos/vol39/vaetchanan_1|ואתחנן]] | 14 | וכן תהי' לנו, בגלותנו זה המר, שלא זו בלבד שאין להגלות שום שליטה ח"ו על ישראל, כי ישנה ההגנה הרוחנית דערי מקלט — דברי תורה קולטין, אלא עוד זאת, ש"ונס.... |
 
 ---
 
