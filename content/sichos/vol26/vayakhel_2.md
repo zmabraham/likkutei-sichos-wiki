@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/vayakhel|ויקהל]] · **עמ':** 262
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/262_26)
-
 ---
 
 # ויקהל ב

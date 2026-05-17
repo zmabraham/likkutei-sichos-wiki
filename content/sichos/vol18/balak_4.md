@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 293
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/293_18)
-
 ---
 
 # בלק ד

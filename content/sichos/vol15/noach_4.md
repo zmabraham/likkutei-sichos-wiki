@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/noach|נח]] · **עמ':** 58
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/58_15)
-
 ---
 
 # נח ד

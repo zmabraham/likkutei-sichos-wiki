@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/tu-beav|ט ו באב]] · **עמ':** 57
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/57_24)
-
 ---
 
 # ט"ו באב ב

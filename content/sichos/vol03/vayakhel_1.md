@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/vayakhel|ויקהל]] · **עמ':** 930
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/930_3)
-
 ---
 
 # ויקהל

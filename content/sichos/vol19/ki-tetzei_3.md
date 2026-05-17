@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 215
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/215_19)
-
 ---
 
 # תצא ג

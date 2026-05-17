@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/shavuot|חה ש]] · **עמ':** 1024
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1024_4)
-
 ---
 
 # חה"ש

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 115
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/115_36)
-
 ---
 
 # משפטים ג

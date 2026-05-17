@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 106
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/106_9)
-
 ---
 
 # ראה ב

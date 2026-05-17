@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 402
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/402_16)
-
 ---
 
 # תשא ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/bamidbar|במדבר]] · **עמ':** 9
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/9_13)
-
 ---
 
 # במדבר ב

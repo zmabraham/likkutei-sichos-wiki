@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 831
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/831_3)
-
 ---
 
 # ויחי

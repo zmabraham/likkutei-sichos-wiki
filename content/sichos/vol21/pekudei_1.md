@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/pekudei|פקודי]] · **עמ':** 260
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/260_21)
-
 ---
 
 # פקודי

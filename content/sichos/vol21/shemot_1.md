@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/shemot|שמות]] · **עמ':** 1
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1_21)
-
 ---
 
 # שמות א

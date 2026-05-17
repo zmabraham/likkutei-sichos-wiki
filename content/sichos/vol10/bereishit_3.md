@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-10|כרך 10]] · **פרשה/נושא:** [[topics/bereishit|בראשית]] · **עמ':** 13
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/13_10)
-
 ---
 
 # בראשית ג

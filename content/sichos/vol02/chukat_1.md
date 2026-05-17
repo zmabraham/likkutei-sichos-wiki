@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 331
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/331_2)
-
 ---
 
 # חוקת

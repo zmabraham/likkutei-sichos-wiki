@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-37|כרך 37]] · **פרשה/נושא:** [[topics/metzora|מצורע]] · **עמ':** 42
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/42_37)
-
 ---
 
 # מצורע

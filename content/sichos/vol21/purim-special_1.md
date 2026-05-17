@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/purim-special|פורים-תצוה]] · **עמ':** 197
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/197_21)
-
 ---
 
 # פורים-תצוה

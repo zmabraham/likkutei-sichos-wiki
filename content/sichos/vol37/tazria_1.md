@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-37|כרך 37]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 33
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/33_37)
-
 ---
 
 # תזריע

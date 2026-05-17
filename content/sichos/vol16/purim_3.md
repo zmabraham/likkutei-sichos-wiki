@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/purim|פורים]] · **עמ':** 373
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/373_16)
-
 ---
 
 # פורים ג

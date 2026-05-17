@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/yud-shvat|יו ד שבט]] · **עמ':** 81
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/81_6)
-
 ---
 
 # יו"ד שבט

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/lech-lecha|לך לך]] · **עמ':** 109
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/109_15)
-
 ---
 
 # לך לך ה

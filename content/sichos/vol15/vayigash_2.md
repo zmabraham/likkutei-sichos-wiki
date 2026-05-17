@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 391
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/391_15)
-
 ---
 
 # ויגש ב

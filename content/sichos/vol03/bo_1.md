@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/bo|בא]] · **עמ':** 864
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/864_3)
-
 ---
 
 # בא

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 150
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/150_18)
-
 ---
 
 # שלח ב

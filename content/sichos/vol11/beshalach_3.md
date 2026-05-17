@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 63
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/63_11)
-
 ---
 
 # בשלח ג

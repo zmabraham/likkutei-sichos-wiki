@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/naso|נשא]] · **עמ':** 42
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/42_33)
-
 ---
 
 # נשא א

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 1148
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1148_4)
-
 ---
 
 # וילך

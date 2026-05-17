@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayishlach|וישלח]] · **עמ':** 155
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/155_30)
-
 ---
 
 # וישלח ב

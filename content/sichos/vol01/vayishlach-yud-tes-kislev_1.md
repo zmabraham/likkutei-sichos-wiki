@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/vayishlach--yud-tes-kislev|וישלח — י ט כסלו]] · **עמ':** 68
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/68_1)
-
 ---
 
 # וישלח - י"ט כסלו

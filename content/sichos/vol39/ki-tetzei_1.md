@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-39|כרך 39]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 30
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/30_39)
-
 ---
 
 # תצא

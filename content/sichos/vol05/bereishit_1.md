@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/bereishit|בראשית]] · **עמ':** 1
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1_5)
-
 ---
 
 # בראשית א

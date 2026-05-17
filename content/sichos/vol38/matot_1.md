@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/matot|מטות]] · **עמ':** 117
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/117_38)
-
 ---
 
 # מטות

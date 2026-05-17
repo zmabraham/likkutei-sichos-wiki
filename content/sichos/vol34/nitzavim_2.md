@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/nitzavim|נצבים]] · **עמ':** 173
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/173_34)
-
 ---
 
 # נצבים ב

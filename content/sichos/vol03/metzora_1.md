@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/metzora|מצורע]] · **עמ':** 983
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/983_3)
-
 ---
 
 # מצורע

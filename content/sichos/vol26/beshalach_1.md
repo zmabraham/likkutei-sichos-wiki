@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 85
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/85_26)
-
 ---
 
 # בשלח א

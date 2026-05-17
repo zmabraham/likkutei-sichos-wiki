@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 973
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/973_3)
-
 ---
 
 # שמיני

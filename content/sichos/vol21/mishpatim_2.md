@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 133
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/133_21)
-
 ---
 
 # משפטים ב

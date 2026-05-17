@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 170
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/170_33)
-
 ---
 
 # פנחס ב

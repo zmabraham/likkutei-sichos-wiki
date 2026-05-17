@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/chai-elul|ח י אלול]] · **עמ':** 1136
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1136_4)
-
 ---
 
 # ח"י אלול

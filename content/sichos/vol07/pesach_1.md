@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/pesach|חה פ]] · **עמ':** 48
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/48_7)
-
 ---
 
 # חה"פ

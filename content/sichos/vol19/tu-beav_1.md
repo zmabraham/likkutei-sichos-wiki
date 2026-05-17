@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/tu-beav|ט ו באב]] · **עמ':** 80
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/80_19)
-
 ---
 
 # ט"ו באב

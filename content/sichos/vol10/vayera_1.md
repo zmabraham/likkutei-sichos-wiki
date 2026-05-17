@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-10|כרך 10]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 49
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/49_10)
-
 ---
 
 # וירא א

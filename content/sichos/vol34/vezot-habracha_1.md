@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/vezot-habracha|ברכה]] · **עמ':** 217
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/217_34)
-
 ---
 
 # ברכה

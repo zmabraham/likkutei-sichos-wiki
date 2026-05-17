@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 923
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/923_3)
-
 ---
 
 # תשא

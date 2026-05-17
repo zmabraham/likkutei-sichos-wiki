@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 182
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/182_23)
-
 ---
 
 # פנחס א

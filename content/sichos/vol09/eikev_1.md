@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 71
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/71_9)
-
 ---
 
 # עקב א

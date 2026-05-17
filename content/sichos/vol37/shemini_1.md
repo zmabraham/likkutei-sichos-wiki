@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-37|כרך 37]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 20
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/20_37)
-
 ---
 
 # שמיני א

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 221
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/221_15)
-
 ---
 
 # תולדות ה

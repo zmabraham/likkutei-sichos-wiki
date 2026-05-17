@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 1041
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1041_4)
-
 ---
 
 # שלח

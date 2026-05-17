@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 166
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/166_23)
-
 ---
 
 # בלק א

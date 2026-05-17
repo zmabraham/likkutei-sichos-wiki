@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/matot-masei|מטו מ]] · **עמ':** 210
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/210_28)
-
 ---
 
 # מטו"מ

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-10|כרך 10]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 92
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/92_10)
-
 ---
 
 # ויצא ב

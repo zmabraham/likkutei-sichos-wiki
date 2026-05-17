@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 66
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/66_13)
-
 ---
 
 # חוקת א

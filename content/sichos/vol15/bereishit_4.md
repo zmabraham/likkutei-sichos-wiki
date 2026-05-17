@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/bereishit|בראשית]] · **עמ':** 20
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/20_15)
-
 ---
 
 # בראשית ד

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/naso|נשא]] · **עמ':** 76
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/76_18)
-
 ---
 
 # נשא ד

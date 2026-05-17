@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/tetzaveh|תצוה]] · **עמ':** 165
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/165_31)
-
 ---
 
 # תצוה ב

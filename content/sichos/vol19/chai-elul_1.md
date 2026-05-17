@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/chai-elul|ח י אלול]] · **עמ':** 250
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/250_19)
-
 ---
 
 # ח"י אלול

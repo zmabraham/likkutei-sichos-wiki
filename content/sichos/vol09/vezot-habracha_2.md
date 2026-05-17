@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/vezot-habracha|וזאת הברכה]] · **עמ':** 237
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/237_9)
-
 ---
 
 # וזאת הברכה ב

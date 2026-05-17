@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 124
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/124_26)
-
 ---
 
 # יתרו ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 139
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/139_11)
-
 ---
 
 # תשא א

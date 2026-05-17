@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 70
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/70_14)
-
 ---
 
 # שופטים ב

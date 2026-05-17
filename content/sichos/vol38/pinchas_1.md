@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 103
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/103_38)
-
 ---
 
 # פנחס א

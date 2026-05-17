@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/purim|פורים]] · **עמ':** 365
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/365_16)
-
 ---
 
 # פורים ב

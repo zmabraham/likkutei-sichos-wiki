@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 94
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/94_19)
-
 ---
 
 # עקב ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/nitzavim|נצבים]] · **עמ':** 184
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/184_9)
-
 ---
 
 # נצבים ב

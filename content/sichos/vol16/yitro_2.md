@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 203
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/203_16)
-
 ---
 
 # יתרו ב

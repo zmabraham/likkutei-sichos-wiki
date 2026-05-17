@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 66
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/66_32)
-
 ---
 
 # שמיני ג

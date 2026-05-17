@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/pesach|חה פ]] · **עמ':** 957
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/957_3)
-
 ---
 
 # חה"פ

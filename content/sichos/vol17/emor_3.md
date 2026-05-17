@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/emor|אמור]] · **עמ':** 255
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/255_17)
-
 ---
 
 # אמור ג

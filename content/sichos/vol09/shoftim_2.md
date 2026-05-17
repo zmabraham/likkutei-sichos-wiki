@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 121
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/121_9)
-
 ---
 
 # שופטים ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 439
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/439_15)
-
 ---
 
 # ויחי ג

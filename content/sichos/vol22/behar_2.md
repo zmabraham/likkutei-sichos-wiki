@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 150
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/150_22)
-
 ---
 
 # בהר ב

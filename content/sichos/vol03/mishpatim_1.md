@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 895
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/895_3)
-
 ---
 
 # משפטים

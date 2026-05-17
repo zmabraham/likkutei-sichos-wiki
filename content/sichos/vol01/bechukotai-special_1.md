@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/bechukotai-special|בחוקותי-ל ג בעומר]] · **עמ':** 281
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/281_1)
-
 ---
 
 # בחוקותי-ל"ג בעומר

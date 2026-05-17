@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/purim|פורים]] · **עמ':** 161
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/161_36)
-
 ---
 
 # פורים א

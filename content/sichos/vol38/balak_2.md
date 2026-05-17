@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 90
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/90_38)
-
 ---
 
 # בלק ב

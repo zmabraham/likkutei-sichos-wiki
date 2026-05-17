@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 78
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/78_14)
-
 ---
 
 # תצא א

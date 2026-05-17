@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 92
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/92_7)
-
 ---
 
 # תזריע ג

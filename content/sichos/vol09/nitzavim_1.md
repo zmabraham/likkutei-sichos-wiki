@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/nitzavim|נצבים]] · **עמ':** 175
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/175_9)
-
 ---
 
 # נצבים א

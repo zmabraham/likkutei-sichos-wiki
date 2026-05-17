@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/noach|נח]] · **עמ':** 16
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/16_30)
-
 ---
 
 # נח א

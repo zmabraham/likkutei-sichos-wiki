@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 172
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/172_23)
-
 ---
 
 # בלק ב

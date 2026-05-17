@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/yud-shvat|יו ד שבט]] · **עמ':** 872
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/872_3)
-
 ---
 
 # יו"ד שבט

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/vayikra|ויקרא]] · **עמ':** 7
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/7_22)
-
 ---
 
 # ויקרא ב

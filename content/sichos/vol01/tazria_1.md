@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 231
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/231_1)
-
 ---
 
 # תזריע

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/tetzaveh|תצוה]] · **עמ':** 328
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/328_16)
-
 ---
 
 # תצוה א

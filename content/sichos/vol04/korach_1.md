@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/korach|קורח]] · **עמ':** 1048
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1048_4)
-
 ---
 
 # קורח

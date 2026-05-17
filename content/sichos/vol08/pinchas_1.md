@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 160
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/160_8)
-
 ---
 
 # פנחס א

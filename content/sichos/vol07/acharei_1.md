@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 117
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/117_7)
-
 ---
 
 # אחרי א

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 285
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/285_18)
-
 ---
 
 # בלק ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/matot|מטות]] · **עמ':** 110
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/110_13)
-
 ---
 
 # מטות ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 1056
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1056_4)
-
 ---
 
 # חוקת

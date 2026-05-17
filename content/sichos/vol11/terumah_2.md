@@ -10,14 +10,10 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 116
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/116_11)
-
 ---
 
 # תרומה ב
 # חלק 11 — עמ' 116
-
-
 
 ---
 

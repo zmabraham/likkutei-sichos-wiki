@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 131
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/131_17)
-
 ---
 
 # תזריע ב

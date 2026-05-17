@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/tzav|צו]] · **עמ':** 16
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/16_22)
-
 ---
 
 # צו א

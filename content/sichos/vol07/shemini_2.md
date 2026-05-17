@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 65
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/65_7)
-
 ---
 
 # שמיני ב

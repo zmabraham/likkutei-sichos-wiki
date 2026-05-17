@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/yud-tes-kislev|י ט כסלו]] · **עמ':** 799
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/799_3)
-
 ---
 
 # י"ט כסלו

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/matot|מטות]] · **עמ':** 182
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/182_8)
-
 ---
 
 # מטות א

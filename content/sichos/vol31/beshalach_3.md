@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 85
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/85_31)
-
 ---
 
 # בשלח ג

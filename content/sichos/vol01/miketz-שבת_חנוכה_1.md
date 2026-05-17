@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/miketz--שבת_חנוכה|מקץ — שבת חנוכה]] · **עמ':** 85
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/85_1)
-
 ---
 
 # מקץ - שבת חנוכה

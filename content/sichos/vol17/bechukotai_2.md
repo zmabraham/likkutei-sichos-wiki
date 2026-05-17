@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/bechukotai|בחוקותי]] · **עמ':** 321
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/321_17)
-
 ---
 
 # בחוקותי ב

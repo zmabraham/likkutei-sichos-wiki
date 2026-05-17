@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/pekudei|פקודי]] · **עמ':** 195
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/195_1)
-
 ---
 
 # פקודי

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 136
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/136_36)
-
 ---
 
 # תרומה ג

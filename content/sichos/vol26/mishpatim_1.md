@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 145
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/145_26)
-
 ---
 
 # משפטים א

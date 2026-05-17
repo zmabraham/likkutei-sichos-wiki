@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/miketz|מקץ]] · **עמ':** 202
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/202_5)
-
 ---
 
 # מקץ ב

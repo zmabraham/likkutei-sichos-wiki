@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/vayishlach|וישלח]] · **עמ':** 150
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/150_5)
-
 ---
 
 # וישלח א

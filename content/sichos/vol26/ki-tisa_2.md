@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 238
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/238_26)
-
 ---
 
 # תשא ב

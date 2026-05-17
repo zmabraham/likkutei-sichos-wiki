@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/masei--בין_המצרים|מסעי — בין המצרים]] · **עמ':** 411
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/411_18)
-
 ---
 
 # מסעי - בין המצרים

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/behar-special|בהר-ל ג בעומר]] · **עמ':** 303
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/303_17)
-
 ---
 
 # בהר-ל"ג בעומר

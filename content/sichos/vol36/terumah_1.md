@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 123
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/123_36)
-
 ---
 
 # תרומה א

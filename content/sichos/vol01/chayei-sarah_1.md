@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/chayei-sarah|חיי שרה]] · **עמ':** 31
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/31_1)
-
 ---
 
 # חיי שרה

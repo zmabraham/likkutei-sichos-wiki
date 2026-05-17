@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/masei|מסעי]] · **עמ':** 199
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/199_33)
-
 ---
 
 # מסעי א

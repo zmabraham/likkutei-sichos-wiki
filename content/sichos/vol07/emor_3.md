@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/emor|אמור]] · **עמ':** 158
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/158_7)
-
 ---
 
 # אמור ג

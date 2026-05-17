@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 68
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/68_20)
-
 ---
 
 # וירא ב

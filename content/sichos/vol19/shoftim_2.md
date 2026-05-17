@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 171
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/171_19)
-
 ---
 
 # שופטים ב

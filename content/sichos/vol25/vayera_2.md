@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 79
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/79_25)
-
 ---
 
 # וירא ב

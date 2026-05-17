@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 28
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/28_31)
-
 ---
 
 # וארא ב

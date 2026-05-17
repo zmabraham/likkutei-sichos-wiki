@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 116
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/116_30)
-
 ---
 
 # תולדות ג

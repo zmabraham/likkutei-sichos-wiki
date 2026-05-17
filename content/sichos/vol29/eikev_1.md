@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 49
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/49_29)
-
 ---
 
 # עקב א

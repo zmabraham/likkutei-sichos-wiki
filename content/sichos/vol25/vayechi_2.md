@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 275
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/275_25)
-
 ---
 
 # ויחי ב

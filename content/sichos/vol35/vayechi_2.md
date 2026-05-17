@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 216
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/216_35)
-
 ---
 
 # ויחי ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/devarim-ג_-שבת_חזון|דברים ג (שבת חזון]] · **עמ':** 24
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/24_9)
-
 ---
 
 # דברים ג (שבת חזון

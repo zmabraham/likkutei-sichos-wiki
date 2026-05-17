@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/noach|נח]] · **עמ':** 23
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/23_25)
-
 ---
 
 # נח ב

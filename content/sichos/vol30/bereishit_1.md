@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/bereishit|בראשית]] · **עמ':** 1
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1_30)
-
 ---
 
 # בראשית א

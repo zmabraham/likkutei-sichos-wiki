@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 90
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/90_36)
-
 ---
 
 # יתרו ב

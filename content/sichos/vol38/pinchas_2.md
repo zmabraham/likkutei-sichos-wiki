@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 111
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/111_38)
-
 ---
 
 # פנחס ב

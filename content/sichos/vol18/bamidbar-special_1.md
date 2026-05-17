@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/bamidbar-special|במדבר-ב' סיון]] · **עמ':** 18
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/18_18)
-
 ---
 
 # במדבר-ב' סיון

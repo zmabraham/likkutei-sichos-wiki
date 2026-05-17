@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 123
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/123_8)
-
 ---
 
 # חוקת א

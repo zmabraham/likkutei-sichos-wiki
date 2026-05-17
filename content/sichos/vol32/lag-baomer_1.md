@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/lag-baomer|ל ג בעומר]] · **עמ':** 149
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/149_32)
-
 ---
 
 # ל"ג בעומר

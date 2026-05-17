@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/sukkot|חה ס]] · **עמ':** 211
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/211_34)
-
 ---
 
 # חה"ס

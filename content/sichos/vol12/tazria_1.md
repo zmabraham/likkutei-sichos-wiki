@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 64
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/64_12)
-
 ---
 
 # תזריע א

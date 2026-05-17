@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 82
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/82_8)
-
 ---
 
 # שלח א

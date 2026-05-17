@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 153
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/153_34)
-
 ---
 
 # תבא ב

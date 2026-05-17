@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/chanukah|חנוכה]] · **עמ':** 372
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/372_15)
-
 ---
 
 # חנוכה ב

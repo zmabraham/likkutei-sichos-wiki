@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/haazinu|האזינו]] · **עמ':** 339
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/339_19)
-
 ---
 
 # האזינו ב

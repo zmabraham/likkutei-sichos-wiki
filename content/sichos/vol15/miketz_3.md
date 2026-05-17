@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/miketz|מקץ]] · **עמ':** 359
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/359_15)
-
 ---
 
 # מקץ ג

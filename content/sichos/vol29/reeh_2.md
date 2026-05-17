@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 79
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/79_29)
-
 ---
 
 # ראה ב

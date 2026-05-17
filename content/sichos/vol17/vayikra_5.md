@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/vayikra|ויקרא]] · **עמ':** 34
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/34_17)
-
 ---
 
 # ויקרא ה

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 1035
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1035_4)
-
 ---
 
 # בהעלותך

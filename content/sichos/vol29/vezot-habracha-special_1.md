@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/vezot-habracha-special|ברכה-שמח ת]] · **עמ':** 229
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/229_29)
-
 ---
 
 # ברכה-שמח"ת

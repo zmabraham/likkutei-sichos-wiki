@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 174
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/174_28)
-
 ---
 
 # פנחס א

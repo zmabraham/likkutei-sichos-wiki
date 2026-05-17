@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 887
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/887_3)
-
 ---
 
 # יתרו

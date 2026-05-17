@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/devarim|דברים]] · **עמ':** 357
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/357_2)
-
 ---
 
 # דברים

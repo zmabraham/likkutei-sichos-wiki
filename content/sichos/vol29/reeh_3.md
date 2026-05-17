@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 88
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/88_29)
-
 ---
 
 # ראה ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/chai-elul|ח י אלול]] · **עמ':** 178
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/178_24)
-
 ---
 
 # ח"י אלול

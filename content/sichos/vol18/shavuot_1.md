@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/shavuot|חה ש]] · **עמ':** 28
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/28_18)
-
 ---
 
 # חה"ש א

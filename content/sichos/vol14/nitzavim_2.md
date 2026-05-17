@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/nitzavim|נצבים]] · **עמ':** 114
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/114_14)
-
 ---
 
 # נצבים ב

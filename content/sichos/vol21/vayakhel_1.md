@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/vayakhel|ויקהל]] · **עמ':** 238
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/238_21)
-
 ---
 
 # ויקהל א

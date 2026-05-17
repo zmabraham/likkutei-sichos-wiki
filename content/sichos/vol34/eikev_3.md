@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 67
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/67_34)
-
 ---
 
 # עקב ג

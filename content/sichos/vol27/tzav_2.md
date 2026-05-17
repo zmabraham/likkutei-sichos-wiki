@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-27|כרך 27]] · **פרשה/נושא:** [[topics/tzav|צו]] · **עמ':** 37
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/37_27)
-
 ---
 
 # צו ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 1098
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1098_4)
-
 ---
 
 # עקב

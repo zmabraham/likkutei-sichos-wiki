@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 145
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/145_29)
-
 ---
 
 # תבא א

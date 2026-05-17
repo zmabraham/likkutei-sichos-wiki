@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/bamidbar|במדבר]] · **עמ':** 293
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/293_2)
-
 ---
 
 # במדבר

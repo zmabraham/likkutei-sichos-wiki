@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/matot-masei|מטו מ]] · **עמ':** 348
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/348_2)
-
 ---
 
 # מטו"מ

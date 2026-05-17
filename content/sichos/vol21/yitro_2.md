@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 108
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/108_21)
-
 ---
 
 # יתרו ב

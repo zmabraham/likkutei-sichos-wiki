@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 107
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/107_35)
-
 ---
 
 # תולדות ב

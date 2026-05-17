@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/yud-shvat|יו ד שבט]] · **עמ':** 139
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/139_16)
-
 ---
 
 # יו"ד שבט

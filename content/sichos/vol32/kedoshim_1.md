@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 112
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/112_32)
-
 ---
 
 # קדושים א

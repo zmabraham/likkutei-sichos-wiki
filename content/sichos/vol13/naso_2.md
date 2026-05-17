@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/naso|נשא]] · **עמ':** 20
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/20_13)
-
 ---
 
 # נשא ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 164
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/164_21)
-
 ---
 
 # תרומה ג

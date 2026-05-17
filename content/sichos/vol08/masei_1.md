@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/masei|מסעי]] · **עמ':** 192
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/192_8)
-
 ---
 
 # מסעי א

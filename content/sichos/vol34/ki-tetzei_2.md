@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 129
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/129_34)
-
 ---
 
 # תצא ב

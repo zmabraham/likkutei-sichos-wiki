@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/tu-bishvat|ט ו בשבט]] · **עמ':** 82
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/82_36)
-
 ---
 
 # ט"ו בשבט

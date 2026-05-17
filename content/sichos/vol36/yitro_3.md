@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 96
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/96_36)
-
 ---
 
 # יתרו ג

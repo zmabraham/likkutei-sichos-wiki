@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/yud-tes-kislev|י ט כסלו]] · **עמ':** 170
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/170_30)
-
 ---
 
 # י"ט כסלו

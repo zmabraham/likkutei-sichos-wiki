@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/simchat-torah|וזאת הברכה א — שמח ת]] · **עמ':** 156
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/156_14)
-
 ---
 
 # וזאת הברכה א - שמח"ת

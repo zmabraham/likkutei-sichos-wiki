@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/masei|מסעי]] · **עמ':** 127
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/127_38)
-
 ---
 
 # מסעי ב

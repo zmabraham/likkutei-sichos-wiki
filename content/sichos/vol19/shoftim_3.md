@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 177
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/177_19)
-
 ---
 
 # שופטים ג

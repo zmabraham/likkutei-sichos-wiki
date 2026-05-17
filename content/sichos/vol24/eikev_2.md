@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 73
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/73_24)
-
 ---
 
 # עקב ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/tetzaveh|תצוה]] · **עמ':** 173
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/173_21)
-
 ---
 
 # תצוה א

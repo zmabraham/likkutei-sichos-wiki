@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/emor|אמור]] · **עמ':** 127
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/127_32)
-
 ---
 
 # אמור א

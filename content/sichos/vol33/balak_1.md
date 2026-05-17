@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 149
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/149_33)
-
 ---
 
 # בלק

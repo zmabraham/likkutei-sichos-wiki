@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/lag-baomer|ל ג בעומר]] · **עמ':** 138
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/138_22)
-
 ---
 
 # ל"ג בעומר

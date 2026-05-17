@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/vayeshev|וישב]] · **עמ':** 180
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/180_5)
-
 ---
 
 # וישב א

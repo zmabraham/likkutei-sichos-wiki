@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 253
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/253_1)
-
 ---
 
 # אחרי

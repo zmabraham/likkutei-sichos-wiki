@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 109
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/109_36)
-
 ---
 
 # משפטים ב

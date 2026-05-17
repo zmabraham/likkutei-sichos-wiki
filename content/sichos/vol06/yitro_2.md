@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 119
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/119_6)
-
 ---
 
 # יתרו ב

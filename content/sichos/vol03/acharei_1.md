@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 987
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/987_3)
-
 ---
 
 # אחרי

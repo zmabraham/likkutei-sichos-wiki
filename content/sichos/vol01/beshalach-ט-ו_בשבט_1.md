@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/beshalach--ט-ו_בשבט|בשלח — ט״ו בשבט]] · **עמ':** 139
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/139_1)
-
 ---
 
 # בשלח - ט״ו בשבט

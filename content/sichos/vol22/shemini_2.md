@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 47
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/47_22)
-
 ---
 
 # שמיני ב

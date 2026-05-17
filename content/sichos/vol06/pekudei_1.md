@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/pekudei|פקודי]] · **עמ':** 225
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/225_6)
-
 ---
 
 # פקודי א

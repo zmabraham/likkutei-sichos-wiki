@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/devarim-special|דברים-שבת חזון]] · **עמ':** 9
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/9_29)
-
 ---
 
 # דברים-שבת חזון

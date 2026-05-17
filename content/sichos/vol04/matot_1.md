@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/matot|מטות]] · **עמ':** 1076
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1076_4)
-
 ---
 
 # מטות

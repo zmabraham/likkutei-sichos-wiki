@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 380
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/380_2)
-
 ---
 
 # שופטים

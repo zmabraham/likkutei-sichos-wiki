@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 96
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/96_22)
-
 ---
 
 # אחרי ב

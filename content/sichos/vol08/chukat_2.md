@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 134
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/134_8)
-
 ---
 
 # חוקת ב

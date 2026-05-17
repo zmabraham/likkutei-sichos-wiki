@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 270
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/270_25)
-
 ---
 
 # ויחי א

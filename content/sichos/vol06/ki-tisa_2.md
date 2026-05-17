@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 201
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/201_6)
-
 ---
 
 # תשא ב

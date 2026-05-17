@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 191
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/191_15)
-
 ---
 
 # תולדות א

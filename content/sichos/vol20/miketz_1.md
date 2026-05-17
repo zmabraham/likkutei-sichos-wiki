@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/miketz|מקץ]] · **עמ':** 192
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/192_20)
-
 ---
 
 # מקץ א

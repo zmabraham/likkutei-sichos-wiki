@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/devarim|דברים]] · **עמ':** 15
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/15_19)
-
 ---
 
 # דברים ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 222
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/222_1)
-
 ---
 
 # שמיני

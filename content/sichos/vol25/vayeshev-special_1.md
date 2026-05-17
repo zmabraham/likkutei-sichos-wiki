@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/vayeshev-special|וישב-י ט כסלו]] · **עמ':** 193
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/193_25)
-
 ---
 
 # וישב-י"ט כסלו

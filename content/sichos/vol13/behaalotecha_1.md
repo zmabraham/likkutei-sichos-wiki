@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 24
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/24_13)
-
 ---
 
 # בהעלותך א

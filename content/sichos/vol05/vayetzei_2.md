@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 141
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/141_5)
-
 ---
 
 # ויצא ב

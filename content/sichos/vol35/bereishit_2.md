@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/bereishit|בראשית]] · **עמ':** 7
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/7_35)
-
 ---
 
 # בראשית ב

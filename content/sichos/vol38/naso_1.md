@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/naso|נשא]] · **עמ':** 18
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/18_38)
-
 ---
 
 # נשא א

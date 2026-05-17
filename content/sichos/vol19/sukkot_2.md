@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/sukkot|חה ס]] · **עמ':** 356
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/356_19)
-
 ---
 
 # חה"ס ב

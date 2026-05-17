@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 128
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/128_31)
-
 ---
 
 # משפטים ג

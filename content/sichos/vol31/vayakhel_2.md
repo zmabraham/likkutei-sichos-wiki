@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/vayakhel|ויקהל]] · **עמ':** 203
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/203_31)
-
 ---
 
 # ויקהל ב

@@ -15,13 +15,9 @@ tags:
 
 *(אין שיחות ספציפיות על יום זה בקובץ)*
 
-
-
 ## נושאים קשורים
 
 [[topics/vayishlach--yud-tes-kislev|vayishlach--yud-tes-kislev]], [[topics/yud-tes-kislev|yud-tes-kislev]]
-
-
 
 ---
 

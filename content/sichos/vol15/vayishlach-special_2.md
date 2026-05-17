@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayishlach-special|וישלח-י ט כסלו]] · **עמ':** 274
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/274_15)
-
 ---
 
 # וישלח-י"ט כסלו ב

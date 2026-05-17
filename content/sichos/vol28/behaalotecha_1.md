@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 60
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/60_28)
-
 ---
 
 # בהעלותך א

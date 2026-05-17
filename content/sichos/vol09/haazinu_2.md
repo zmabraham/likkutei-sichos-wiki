@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/haazinu|האזינו]] · **עמ':** 215
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/215_9)
-
 ---
 
 # האזינו ב

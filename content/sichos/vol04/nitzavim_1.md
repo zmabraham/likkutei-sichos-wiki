@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/nitzavim|נצבים]] · **עמ':** 1139
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1139_4)
-
 ---
 
 # נצבים

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/tetzaveh|תצוה]] · **עמ':** 127
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/127_11)
-
 ---
 
 # תצוה א

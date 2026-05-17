@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 787
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/787_3)
-
 ---
 
 # ויצא

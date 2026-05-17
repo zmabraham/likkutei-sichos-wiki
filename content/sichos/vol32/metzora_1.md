@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/metzora|מצורע]] · **עמ':** 91
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/91_32)
-
 ---
 
 # מצורע

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/vayishlach|וישלח]] · **עמ':** 795
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/795_3)
-
 ---
 
 # וישלח

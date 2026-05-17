@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 78
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/78_33)
-
 ---
 
 # שלח א

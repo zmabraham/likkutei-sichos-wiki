@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/chof-dales-tevet|כ ד טבת]] · **עמ':** 35
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/35_6)
-
 ---
 
 # כ"ד טבת

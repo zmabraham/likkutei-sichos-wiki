@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 53
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/53_38)
-
 ---
 
 # שלח ב

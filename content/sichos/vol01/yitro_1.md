@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 148
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/148_1)
-
 ---
 
 # יתרו

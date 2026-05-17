@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 315
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/315_19)
-
 ---
 
 # וילך ג

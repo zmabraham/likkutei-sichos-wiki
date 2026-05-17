@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 38
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/38_19)
-
 ---
 
 # ואתחנן א

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/vayeshev|וישב]] · **עמ':** 204
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/204_25)
-
 ---
 
 # וישב א

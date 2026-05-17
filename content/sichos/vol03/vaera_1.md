@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 854
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/854_3)
-
 ---
 
 # וארא

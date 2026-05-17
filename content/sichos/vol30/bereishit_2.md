@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/bereishit|בראשית]] · **עמ':** 8
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/8_30)
-
 ---
 
 # בראשית ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/bo|בא]] · **עמ':** 42
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/42_11)
-
 ---
 
 # בא ב

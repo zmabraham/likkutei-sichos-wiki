@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-37|כרך 37]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 48
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/48_37)
-
 ---
 
 # אחרי

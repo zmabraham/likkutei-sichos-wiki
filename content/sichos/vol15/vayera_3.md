@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 122
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/122_15)
-
 ---
 
 # וירא ג

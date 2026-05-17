@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/bechukotai|בחוקותי]] · **עמ':** 168
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/168_32)
-
 ---
 
 # בחוקותי א

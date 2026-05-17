@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/reeh-special|ראה-אלול]] · **עמ':** 89
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/89_34)
-
 ---
 
 # ראה-אלול

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/noach|נח]] · **עמ':** 30
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/30_20)
-
 ---
 
 # נח ג

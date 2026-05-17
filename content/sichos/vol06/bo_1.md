@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/bo|בא]] · **עמ':** 57
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/57_6)
-
 ---
 
 # בא א

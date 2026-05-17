@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 162
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/162_9)
-
 ---
 
 # תבא ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/devarim|דברים]] · **עמ':** 20
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/20_24)
-
 ---
 
 # דברים ג

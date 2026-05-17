@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 136
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/136_20)
-
 ---
 
 # ויצא ג

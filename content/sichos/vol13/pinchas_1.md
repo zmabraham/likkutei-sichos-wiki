@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 93
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/93_13)
-
 ---
 
 # פנחס א

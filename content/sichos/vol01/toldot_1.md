@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 45
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/45_1)
-
 ---
 
 # תולדות

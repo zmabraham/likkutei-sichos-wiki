@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-27|כרך 27]] · **פרשה/נושא:** [[topics/vayikra|ויקרא]] · **עמ':** 8
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/8_27)
-
 ---
 
 # ויקרא ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/korach|קרח]] · **עמ':** 196
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/196_18)
-
 ---
 
 # קרח ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/shavuot|חה ש]] · **עמ':** 26
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/26_33)
-
 ---
 
 # חה"ש ב

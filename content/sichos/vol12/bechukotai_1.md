@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/bechukotai|בחוקותי]] · **עמ':** 120
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/120_12)
-
 ---
 
 # בחוקותי א

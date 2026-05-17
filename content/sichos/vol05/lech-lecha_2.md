@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/lech-lecha|לך לך]] · **עמ':** 68
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/68_5)
-
 ---
 
 # לך לך ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/noach|נח]] · **עמ':** 49
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/49_15)
-
 ---
 
 # נח ג

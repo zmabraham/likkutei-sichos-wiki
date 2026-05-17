@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/tetzaveh--פורים_קטן|תצוה — פורים קטן]] · **עמ':** 170
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/170_1)
-
 ---
 
 # תצוה - פורים קטן

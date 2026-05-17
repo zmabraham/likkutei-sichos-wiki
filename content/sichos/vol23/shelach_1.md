@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 92
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/92_23)
-
 ---
 
 # שלח א

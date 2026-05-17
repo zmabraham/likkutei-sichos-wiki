@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/vayikra|ויקרא]] · **עמ':** 16
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/16_17)
-
 ---
 
 # ויקרא ג

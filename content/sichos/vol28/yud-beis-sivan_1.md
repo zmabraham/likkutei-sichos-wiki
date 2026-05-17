@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/yud-beis-sivan|י ב סיון]] · **עמ':** 76
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/76_28)
-
 ---
 
 # י"ב סיון

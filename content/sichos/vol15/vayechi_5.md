@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 459
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/459_15)
-
 ---
 
 # ויחי ה

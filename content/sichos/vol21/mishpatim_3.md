@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 138
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/138_21)
-
 ---
 
 # משפטים ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/bamidbar|במדבר]] · **עמ':** 1019
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1019_4)
-
 ---
 
 # במדבר

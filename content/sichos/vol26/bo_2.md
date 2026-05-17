@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/bo|בא]] · **עמ':** 69
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/69_26)
-
 ---
 
 # בא ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/pinchas--י_ב-י_ג_תמוז|פנחס — י ב-י ג תמוז]] · **עמ':** 318
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/318_18)
-
 ---
 
 # פנחס - י"ב-י"ג תמוז

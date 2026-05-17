@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 99
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/99_13)
-
 ---
 
 # פנחס ב

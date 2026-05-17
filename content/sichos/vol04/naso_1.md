@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/naso|נשא]] · **עמ':** 1032
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1032_4)
-
 ---
 
 # נשא

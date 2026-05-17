@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/chayei-sarah|חיי שרה]] · **עמ':** 94
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/94_35)
-
 ---
 
 # חיי שרה ג

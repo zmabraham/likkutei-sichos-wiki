@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 70
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/70_35)
-
 ---
 
 # וירא ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 33
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/33_36)
-
 ---
 
 # וארא ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 334
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/334_18)
-
 ---
 
 # פנחס ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/chanukah|חנוכה]] · **עמ':** 235
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/235_25)
-
 ---
 
 # חנוכה

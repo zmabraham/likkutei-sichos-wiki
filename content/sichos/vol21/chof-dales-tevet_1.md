@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/chof-dales-tevet|כ ד טבת]] · **עמ':** 52
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/52_21)
-
 ---
 
 # כ"ד טבת

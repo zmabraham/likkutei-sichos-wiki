@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/matot-masei-special|מטו מ-מנ]] · **עמ':** 214
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/214_23)
-
 ---
 
 # מטו"מ-מנ"א

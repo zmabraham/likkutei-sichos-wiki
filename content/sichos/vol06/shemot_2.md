@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/shemot|שמות]] · **עמ':** 13
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/13_6)
-
 ---
 
 # שמות ב

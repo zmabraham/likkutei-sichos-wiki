@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/miketz|מקץ]] · **עמ':** 348
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/348_15)
-
 ---
 
 # מקץ ב

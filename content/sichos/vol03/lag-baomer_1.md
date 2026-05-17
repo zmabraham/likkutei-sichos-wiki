@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/lag-baomer|ל ג בעומר]] · **עמ':** 1002
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1002_3)
-
 ---
 
 # ל"ג בעומר

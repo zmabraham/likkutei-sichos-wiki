@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 231
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/231_15)
-
 ---
 
 # ויצא ב

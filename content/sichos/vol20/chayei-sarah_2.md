@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/chayei-sarah|חיי שרה]] · **עמ':** 86
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/86_20)
-
 ---
 
 # חיי שרה ב

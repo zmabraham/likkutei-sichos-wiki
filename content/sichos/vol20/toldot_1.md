@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 100
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/100_20)
-
 ---
 
 # תולדות א

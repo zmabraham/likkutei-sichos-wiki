@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 172
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/172_36)
-
 ---
 
 # תשא א

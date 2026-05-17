@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/chanukah|חנוכה]] · **עמ':** 810
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/810_3)
-
 ---
 
 # חנוכה

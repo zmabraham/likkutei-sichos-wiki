@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 106
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/106_32)
-
 ---
 
 # אחרי ב

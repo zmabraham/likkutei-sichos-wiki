@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 197
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/197_24)
-
 ---
 
 # וילך א

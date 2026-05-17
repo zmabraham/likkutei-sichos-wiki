@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-10|כרך 10]] · **פרשה/נושא:** [[topics/vayishlach-special|וישלח-י ט כסלו]] · **עמ':** 100
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/100_10)
-
 ---
 
 # וישלח-י"ט כסלו

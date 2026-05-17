@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/chayei-sarah|חיי שרה]] · **עמ':** 99
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/99_25)
-
 ---
 
 # חיי שרה ב

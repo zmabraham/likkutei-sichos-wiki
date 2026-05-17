@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/vayakhel|ויקהל]] · **עמ':** 443
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/443_16)
-
 ---
 
 # ויקהל ג

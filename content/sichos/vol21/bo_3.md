@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/bo|בא]] · **עמ':** 68
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/68_21)
-
 ---
 
 # בא ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 363
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/363_2)
-
 ---
 
 # ואתחנן

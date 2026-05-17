@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/vayakhel|ויקהל]] · **עמ':** 211
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/211_31)
-
 ---
 
 # ויקהל ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/masei|מסעי]] · **עמ':** 200
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/200_8)
-
 ---
 
 # מסעי ב

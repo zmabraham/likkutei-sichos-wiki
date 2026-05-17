@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 43
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/43_26)
-
 ---
 
 # וארא א

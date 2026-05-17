@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 94
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/94_1)
-
 ---
 
 # ויגש

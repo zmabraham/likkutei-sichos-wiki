@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 139
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/139_7)
-
 ---
 
 # קדושים ב

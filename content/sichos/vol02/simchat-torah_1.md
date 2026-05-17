@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/simchat-torah|ש ת]] · **עמ':** 409
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/409_2)
-
 ---
 
 # ש"ת

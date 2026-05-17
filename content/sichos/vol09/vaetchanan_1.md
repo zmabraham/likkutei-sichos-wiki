@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 33
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/33_9)
-
 ---
 
 # ואתחנן א

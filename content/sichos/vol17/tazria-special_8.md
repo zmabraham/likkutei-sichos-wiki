@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/tazria-special|תזריע-פה]] · **עמ':** 148
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/148_17)
-
 ---
 
 # תזריע-פה"ח

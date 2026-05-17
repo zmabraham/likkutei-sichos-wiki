@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 253
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/253_18)
-
 ---
 
 # חוקת ג

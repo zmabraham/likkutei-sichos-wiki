@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/tzav|צו]] · **עמ':** 28
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/28_32)
-
 ---
 
 # צו

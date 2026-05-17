@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 150
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/150_8)
-
 ---
 
 # בלק ב

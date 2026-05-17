@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/tzav|צו]] · **עמ':** 39
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/39_7)
-
 ---
 
 # צו ב

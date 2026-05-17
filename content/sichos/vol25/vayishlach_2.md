@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/vayishlach|וישלח]] · **עמ':** 177
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/177_25)
-
 ---
 
 # וישלח ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayeshev|וישב]] · **עמ':** 318
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/318_15)
-
 ---
 
 # וישב ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/bo|בא]] · **עמ':** 114
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/114_16)
-
 ---
 
 # בא ג

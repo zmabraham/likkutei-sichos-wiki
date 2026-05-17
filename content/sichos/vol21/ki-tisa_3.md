@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 232
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/232_21)
-
 ---
 
 # תשא ג

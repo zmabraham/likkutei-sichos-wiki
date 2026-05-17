@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 76
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/76_30)
-
 ---
 
 # וירא ג

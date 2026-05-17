@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/pesach|חה פ]] · **עמ':** 71
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/71_17)
-
 ---
 
 # חה"פ א

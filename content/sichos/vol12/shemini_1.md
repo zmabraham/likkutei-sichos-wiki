@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 49
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/49_12)
-
 ---
 
 # שמיני א

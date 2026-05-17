@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 143
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/143_22)
-
 ---
 
 # בהר א

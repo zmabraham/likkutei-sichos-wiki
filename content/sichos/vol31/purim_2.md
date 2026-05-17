@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/purim|פורים]] · **עמ':** 177
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/177_31)
-
 ---
 
 # פורים ב

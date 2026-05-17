@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/shabbat-hagadol|שבת הגדול]] · **עמ':** 33
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/33_12)
-
 ---
 
 # שבת הגדול

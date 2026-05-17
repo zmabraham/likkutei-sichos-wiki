@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/haazinu|האזינו]] · **עמ':** 206
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/206_34)
-
 ---
 
 # האזינו

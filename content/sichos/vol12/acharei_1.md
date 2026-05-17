@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 83
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/83_12)
-
 ---
 
 # אחרי

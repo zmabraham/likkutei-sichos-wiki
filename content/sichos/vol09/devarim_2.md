@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/devarim|דברים]] · **עמ':** 14
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/14_9)
-
 ---
 
 # דברים ב

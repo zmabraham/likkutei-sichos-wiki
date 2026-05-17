@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 71
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/71_33)
-
 ---
 
 # בהעלותך ג

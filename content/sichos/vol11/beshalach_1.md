@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 52
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/52_11)
-
 ---
 
 # בשלח א

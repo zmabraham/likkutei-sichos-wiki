@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-27|כרך 27]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 141
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/141_27)
-
 ---
 
 # קדושים א

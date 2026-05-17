@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/nitzavim|נצבים]] · **עמ':** 188
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/188_24)
-
 ---
 
 # נצבים

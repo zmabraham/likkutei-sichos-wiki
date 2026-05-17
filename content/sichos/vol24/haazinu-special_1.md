@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/haazinu-special|האזינו-ש ת]] · **עמ':** 229
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/229_24)
-
 ---
 
 # האזינו-ש"ת

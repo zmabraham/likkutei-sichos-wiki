@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 407
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/407_2)
-
 ---
 
 # וילך

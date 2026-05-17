@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 993
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/993_3)
-
 ---
 
 # קדושים

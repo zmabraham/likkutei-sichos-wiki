@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 55
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/55_19)
-
 ---
 
 # ואתחנן ג

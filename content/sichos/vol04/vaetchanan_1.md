@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 1092
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1092_4)
-
 ---
 
 # ואתחנן

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/chukat-special|חוקת-בלק — י ב-י ג תמוז]] · **עמ':** 300
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/300_18)
-
 ---
 
 # חוקת-בלק - י"ב-י"ג תמוז

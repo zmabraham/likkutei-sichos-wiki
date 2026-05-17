@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/purim|פורים]] · **עמ':** 189
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/189_6)
-
 ---
 
 # פורים

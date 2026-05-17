@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/tetzaveh-special|תצוה-ז' אדר]] · **עמ':** 342
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/342_16)
-
 ---
 
 # תצוה-ז' אדר

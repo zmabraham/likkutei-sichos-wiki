@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 167
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/167_24)
-
 ---
 
 # תבא ב

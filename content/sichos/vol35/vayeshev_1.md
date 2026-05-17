@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/vayeshev|וישב]] · **עמ':** 156
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/156_35)
-
 ---
 
 # וישב א

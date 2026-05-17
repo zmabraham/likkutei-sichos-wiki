@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/emor|אמור]] · **עמ':** 122
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/122_22)
-
 ---
 
 # אמור ב

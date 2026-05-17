@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/korach|קרח]] · **עמ':** 123
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/123_23)
-
 ---
 
 # קרח ב

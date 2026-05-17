@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/parshat-zachor-special|פ' זכור-פורים]] · **עמ':** 219
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/219_26)
-
 ---
 
 # פ' זכור-פורים

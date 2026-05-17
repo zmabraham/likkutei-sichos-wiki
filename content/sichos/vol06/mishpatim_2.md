@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 143
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/143_6)
-
 ---
 
 # משפטים ב

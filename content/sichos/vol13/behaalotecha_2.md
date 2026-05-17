@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 30
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/30_13)
-
 ---
 
 # בהעלותך ב

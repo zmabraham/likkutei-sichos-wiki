@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/lech-lecha|לך לך]] · **עמ':** 45
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/45_20)
-
 ---
 
 # לך לך ב

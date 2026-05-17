@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 198
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/198_23)
-
 ---
 
 # פנחס ג

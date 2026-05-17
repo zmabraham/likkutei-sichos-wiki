@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 243
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/243_15)
-
 ---
 
 # ויצא ג

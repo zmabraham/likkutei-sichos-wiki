@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/emor|אמור]] · **עמ':** 153
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/153_7)
-
 ---
 
 # אמור ב

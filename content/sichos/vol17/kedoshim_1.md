@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 205
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/205_17)
-
 ---
 
 # קדושים א

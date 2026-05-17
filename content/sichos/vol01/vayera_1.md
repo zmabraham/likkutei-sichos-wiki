@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 23
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/23_1)
-
 ---
 
 # וירא

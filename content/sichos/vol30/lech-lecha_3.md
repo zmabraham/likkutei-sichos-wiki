@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/lech-lecha|לך לך]] · **עמ':** 53
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/53_30)
-
 ---
 
 # לך לך ג

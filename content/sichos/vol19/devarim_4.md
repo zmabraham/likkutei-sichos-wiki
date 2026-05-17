@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/devarim|דברים]] · **עמ':** 24
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/24_19)
-
 ---
 
 # דברים ד

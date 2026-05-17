@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-37|כרך 37]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 55
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/55_37)
-
 ---
 
 # קדושים

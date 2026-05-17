@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 214
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/214_21)
-
 ---
 
 # תשא א

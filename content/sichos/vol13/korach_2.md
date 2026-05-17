@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/korach|קרח]] · **עמ':** 56
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/56_13)
-
 ---
 
 # קרח ב

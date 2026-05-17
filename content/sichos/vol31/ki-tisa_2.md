@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 191
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/191_31)
-
 ---
 
 # תשא ב

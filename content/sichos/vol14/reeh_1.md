@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 45
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/45_14)
-
 ---
 
 # ראה א

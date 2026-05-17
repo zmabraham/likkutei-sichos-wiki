@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/bereishit|בראשית]] · **עמ':** 16
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/16_5)
-
 ---
 
 # בראשית ב

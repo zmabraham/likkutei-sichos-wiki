@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 212
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/212_20)
-
 ---
 
 # ויגש א

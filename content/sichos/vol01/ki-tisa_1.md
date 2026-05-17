@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/ki-tisa|תשא]] · **עמ':** 178
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/178_1)
-
 ---
 
 # תשא

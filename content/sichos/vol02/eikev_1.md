@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 371
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/371_2)
-
 ---
 
 # עקב

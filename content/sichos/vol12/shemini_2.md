@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 57
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/57_12)
-
 ---
 
 # שמיני ב

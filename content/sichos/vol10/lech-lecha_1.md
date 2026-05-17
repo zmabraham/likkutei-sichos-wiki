@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-10|כרך 10]] · **פרשה/נושא:** [[topics/lech-lecha|לך לך]] · **עמ':** 37
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/37_10)
-
 ---
 
 # לך לך א

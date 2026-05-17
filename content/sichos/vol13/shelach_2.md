@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 44
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/44_13)
-
 ---
 
 # שלח ב

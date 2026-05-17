@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/pekudei|פקודי]] · **עמ':** 933
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/933_3)
-
 ---
 
 # פקודי

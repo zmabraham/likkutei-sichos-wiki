@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 1121
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1121_4)
-
 ---
 
 # תצא

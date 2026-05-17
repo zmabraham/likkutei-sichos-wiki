@@ -13,7 +13,7 @@ tags: [likkutei-sichos, index]
 
 ### [[volumes/index|כרכים]]
 ### [[parshiyot/index|פרשיות השבוע]] · [[yomim-tovim/index|ימים טובים]] · [[sfarim/bereishit|חמשה חומשי תורה]]
- · [[topics/index|נושאים]] · [dach.dev](https://dach.dev/book/likkutei-sichos)
+ · [[topics/index|נושאים]]
 
 ---
 
@@ -48,4 +48,3 @@ tags: [likkutei-sichos, index]
 
 ---
 
-*[Browse full corpus on dach.dev](https://dach.dev/book/likkutei-sichos)*

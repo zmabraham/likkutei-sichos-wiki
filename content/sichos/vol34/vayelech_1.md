@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 187
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/187_34)
-
 ---
 
 # וילך א

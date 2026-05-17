@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 222
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/222_30)
-
 ---
 
 # ויגש ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 170
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/170_7)
-
 ---
 
 # בהר א

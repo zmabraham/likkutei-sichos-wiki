@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/chanukah|חנוכה]] · **עמ':** 209
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/209_30)
-
 ---
 
 # חנוכה ב

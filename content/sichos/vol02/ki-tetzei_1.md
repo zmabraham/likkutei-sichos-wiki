@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 384
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/384_2)
-
 ---
 
 # תצא

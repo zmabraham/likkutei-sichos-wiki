@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/pesach|חה פ]] · **עמ':** 39
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/39_12)
-
 ---
 
 # חה"פ

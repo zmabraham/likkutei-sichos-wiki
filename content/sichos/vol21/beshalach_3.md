@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 89
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/89_21)
-
 ---
 
 # בשלח ג

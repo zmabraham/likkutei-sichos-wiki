@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/korach|קרח]] · **עמ':** 326
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/326_2)
-
 ---
 
 # קרח

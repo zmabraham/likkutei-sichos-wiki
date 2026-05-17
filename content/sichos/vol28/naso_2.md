@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/naso|נשא]] · **עמ':** 40
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/40_28)
-
 ---
 
 # נשא ב

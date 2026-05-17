@@ -34,7 +34,6 @@ tags:
 
 *[[index|← חזרה לדף הראשי]] · [[volumes/index|כרכים]]*
 
-
 ---
 
 *[[yomim-tovim/index|← כל ימי השנה]] · [[index|ראשי]]*

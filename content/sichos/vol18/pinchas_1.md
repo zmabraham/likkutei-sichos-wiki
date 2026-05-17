@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 326
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/326_18)
-
 ---
 
 # פנחס א

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 41
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/41_29)
-
 ---
 
 # ואתחנן ג

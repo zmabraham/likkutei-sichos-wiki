@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-27|כרך 27]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 133
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/133_27)
-
 ---
 
 # אחרי ג

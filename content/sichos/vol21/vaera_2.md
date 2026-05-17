@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 38
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/38_21)
-
 ---
 
 # וארא ב

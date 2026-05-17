@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/miketz|מקץ]] · **עמ':** 220
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/220_25)
-
 ---
 
 # מקץ א

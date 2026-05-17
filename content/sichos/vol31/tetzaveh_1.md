@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/tetzaveh|תצוה]] · **עמ':** 156
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/156_31)
-
 ---
 
 # תצוה א

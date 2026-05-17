@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 321
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/321_19)
-
 ---
 
 # וילך ד

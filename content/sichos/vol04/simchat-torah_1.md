@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/simchat-torah|שמח ת]] · **עמ':** 1165
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1165_4)
-
 ---
 
 # שמח"ת

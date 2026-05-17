@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/tzav|צו]] · **עמ':** 30
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/30_7)
-
 ---
 
 # צו א

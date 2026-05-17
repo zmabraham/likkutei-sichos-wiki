@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/sukkot|חה ס]] · **עמ':** 211
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/211_29)
-
 ---
 
 # חה"ס

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 14
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/14_11)
-
 ---
 
 # וארא א

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/tzav|צו]] · **עמ':** 50
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/50_17)
-
 ---
 
 # צו ב

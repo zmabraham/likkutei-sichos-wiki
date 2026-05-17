@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 119
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/119_1)
-
 ---
 
 # וארא

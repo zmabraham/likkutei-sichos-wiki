@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 64
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/64_14)
-
 ---
 
 # שופטים א

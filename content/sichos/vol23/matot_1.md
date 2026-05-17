@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/matot|מטות]] · **עמ':** 206
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/206_23)
-
 ---
 
 # מטות

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 243
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/243_20)
-
 ---
 
 # ויחי ג

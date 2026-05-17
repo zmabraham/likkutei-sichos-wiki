@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/purim|פורים]] · **עמ':** 916
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/916_3)
-
 ---
 
 # פורים

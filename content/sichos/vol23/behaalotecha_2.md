@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 73
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/73_23)
-
 ---
 
 # בהעלותך ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-10|כרך 10]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 80
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/80_10)
-
 ---
 
 # תולדות ב

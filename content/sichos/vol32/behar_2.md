@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 161
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/161_32)
-
 ---
 
 # בהר ב

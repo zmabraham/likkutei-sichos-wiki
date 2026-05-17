@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 32
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/32_34)
-
 ---
 
 # ואתחנן ב

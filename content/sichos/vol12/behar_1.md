@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 108
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/108_12)
-
 ---
 
 # בהר א

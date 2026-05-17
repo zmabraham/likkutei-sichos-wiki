@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/shabbat-parshat-special|שש פ]] · **עמ':** 966
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/966_3)
-
 ---
 
 # שש"פ

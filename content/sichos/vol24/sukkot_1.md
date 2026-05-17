@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/sukkot|חה ס]] · **עמ':** 246
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/246_24)
-
 ---
 
 # חה"ס

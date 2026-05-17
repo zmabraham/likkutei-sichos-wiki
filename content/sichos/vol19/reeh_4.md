@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 153
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/153_19)
-
 ---
 
 # ראה ד

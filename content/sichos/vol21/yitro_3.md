@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 119
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/119_21)
-
 ---
 
 # יתרו ג

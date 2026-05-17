@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 192
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/192_35)
-
 ---
 
 # ויגש א

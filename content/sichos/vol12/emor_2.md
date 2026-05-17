@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/emor|אמור]] · **עמ':** 103
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/103_12)
-
 ---
 
 # אמור ב

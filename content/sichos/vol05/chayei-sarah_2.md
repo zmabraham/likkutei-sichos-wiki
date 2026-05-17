@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/chayei-sarah|חיי שרה]] · **עמ':** 105
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/105_5)
-
 ---
 
 # חיי שרה ב

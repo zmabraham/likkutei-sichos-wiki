@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/pinchas|פנחס]] · **עמ':** 342
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/342_2)
-
 ---
 
 # פנחס

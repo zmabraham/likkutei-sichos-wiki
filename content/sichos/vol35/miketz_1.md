@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/miketz|מקץ]] · **עמ':** 176
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/176_35)
-
 ---
 
 # מקץ א

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/shemot|שמות]] · **עמ':** 15
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/15_31)
-
 ---
 
 # שמות ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 75
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/75_34)
-
 ---
 
 # ראה א

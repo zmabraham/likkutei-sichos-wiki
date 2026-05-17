@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/shemot-special|שמות-כ ד טבת]] · **עמ':** 33
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/33_16)
-
 ---
 
 # שמות-כ"ד טבת

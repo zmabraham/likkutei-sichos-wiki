@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 131
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/131_28)
-
 ---
 
 # חוקת א

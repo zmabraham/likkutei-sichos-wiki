@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/devarim|דברים]] · **עמ':** 12
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/12_24)
-
 ---
 
 # דברים ב

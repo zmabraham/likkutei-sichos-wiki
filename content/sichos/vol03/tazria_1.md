@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 979
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/979_3)
-
 ---
 
 # תזריע

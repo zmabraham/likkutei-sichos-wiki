@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-21|כרך 21]] · **פרשה/נושא:** [[topics/parshat-zachor|פ' זכור]] · **עמ':** 190
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/190_21)
-
 ---
 
 # פ' זכור

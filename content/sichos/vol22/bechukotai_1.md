@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/bechukotai|בחוקותי]] · **עמ':** 166
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/166_22)
-
 ---
 
 # בחוקותי

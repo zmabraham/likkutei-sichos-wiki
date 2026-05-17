@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 149
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/149_31)
-
 ---
 
 # תרומה ג

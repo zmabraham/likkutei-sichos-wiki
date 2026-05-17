@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/purim-קטן|פורים קטן]] · **עמ':** 209
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/209_26)
-
 ---
 
 # פורים קטן

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 127
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/127_14)
-
 ---
 
 # וילך א

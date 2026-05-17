@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/behar-special|בהר-בחוקותי]] · **עמ':** 159
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/159_22)
-
 ---
 
 # בהר-בחוקותי

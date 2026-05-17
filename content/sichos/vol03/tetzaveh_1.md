@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/tetzaveh|תצוה]] · **עמ':** 910
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/910_3)
-
 ---
 
 # תצוה

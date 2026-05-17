@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-37|כרך 37]] · **פרשה/נושא:** [[topics/emor|אמור]] · **עמ':** 67
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/67_37)
-
 ---
 
 # אמור ב

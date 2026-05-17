@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 95
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/95_6)
-
 ---
 
 # בשלח ב

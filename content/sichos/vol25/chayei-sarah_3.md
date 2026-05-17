@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/chayei-sarah|חיי שרה]] · **עמ':** 106
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/106_25)
-
 ---
 
 # חיי שרה ג

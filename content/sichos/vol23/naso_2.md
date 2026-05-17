@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/naso|נשא]] · **עמ':** 53
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/53_23)
-
 ---
 
 # נשא ב

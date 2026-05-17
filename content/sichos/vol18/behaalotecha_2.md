@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 104
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/104_18)
-
 ---
 
 # בהעלותך ב

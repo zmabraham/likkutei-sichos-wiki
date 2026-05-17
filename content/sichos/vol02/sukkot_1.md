@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/sukkot|חה ס]] · **עמ':** 417
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/417_2)
-
 ---
 
 # חה"ס

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 106
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/106_34)
-
 ---
 
 # שופטים ב

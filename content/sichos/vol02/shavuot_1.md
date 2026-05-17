@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/shavuot|חה ש]] · **עמ':** 301
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/301_2)
-
 ---
 
 # חה"ש

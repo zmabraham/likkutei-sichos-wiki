@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 143
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/143_9)
-
 ---
 
 # תצא ב

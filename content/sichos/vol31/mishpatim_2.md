@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 119
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/119_31)
-
 ---
 
 # משפטים ב

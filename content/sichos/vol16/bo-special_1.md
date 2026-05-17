@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/bo-special|בא-יו ד שבט]] · **עמ':** 129
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/129_16)
-
 ---
 
 # בא-יו"ד שבט

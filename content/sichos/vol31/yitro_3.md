@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/yitro|יתרו]] · **עמ':** 106
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/106_31)
-
 ---
 
 # יתרו ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 229
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/229_30)
-
 ---
 
 # ויגש ג

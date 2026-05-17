@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/haazinu|האזינו]] · **עמ':** 1154
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1154_4)
-
 ---
 
 # האזינו

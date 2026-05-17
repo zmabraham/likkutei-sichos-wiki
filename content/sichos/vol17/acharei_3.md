@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 193
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/193_17)
-
 ---
 
 # אחרי ג

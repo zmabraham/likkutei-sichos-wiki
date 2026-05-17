@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/noach|נח]] · **עמ':** 31
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/31_35)
-
 ---
 
 # נח ג

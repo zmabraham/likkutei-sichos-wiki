@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-26|כרך 26]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 183
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/183_26)
-
 ---
 
 # תרומה ג

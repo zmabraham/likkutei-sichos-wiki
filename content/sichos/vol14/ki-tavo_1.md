@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 93
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/93_14)
-
 ---
 
 # תבא א

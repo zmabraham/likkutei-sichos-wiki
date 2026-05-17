@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/vayakhel|ויקהל]] · **עמ':** 221
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/221_6)
-
 ---
 
 # ויקהל ב

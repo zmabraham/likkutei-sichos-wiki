@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/shavuot|חה ש]] · **עמ':** 27
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/27_23)
-
 ---
 
 # חה"ש ב

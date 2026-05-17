@@ -15,13 +15,9 @@ tags:
 
 *(אין שיחות ספציפיות על יום זה בקובץ)*
 
-
-
 ## נושאים קשורים
 
 [[topics/rosh-hashana-special|rosh-hashana-special]]
-
-
 
 ---
 

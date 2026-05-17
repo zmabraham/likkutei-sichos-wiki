@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-27|כרך 27]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 74
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/74_27)
-
 ---
 
 # שמיני ג

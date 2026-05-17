@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 115
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/115_24)
-
 ---
 
 # שופטים ג

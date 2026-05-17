@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/nitzavim|נצבים]] · **עמ':** 167
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/167_29)
-
 ---
 
 # נצבים

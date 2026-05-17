@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-34|כרך 34]] · **פרשה/נושא:** [[topics/tu-beav|ט ו באב]] · **עמ':** 41
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/41_34)
-
 ---
 
 # ט"ו באב

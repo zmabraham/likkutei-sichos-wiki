@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 137
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/137_24)
-
 ---
 
 # תצא ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 228
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/228_5)
-
 ---
 
 # ויגש א

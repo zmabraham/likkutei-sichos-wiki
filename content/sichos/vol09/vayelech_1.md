@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 193
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/193_9)
-
 ---
 
 # וילך א

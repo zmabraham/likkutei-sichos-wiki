@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 80
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/80_7)
-
 ---
 
 # תזריע ב

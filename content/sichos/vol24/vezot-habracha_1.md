@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/vezot-habracha|ברכה]] · **עמ':** 253
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/253_24)
-
 ---
 
 # ברכה

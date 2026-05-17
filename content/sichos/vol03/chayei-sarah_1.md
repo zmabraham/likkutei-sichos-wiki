@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/chayei-sarah|חיי שרה]] · **עמ':** 772
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/772_3)
-
 ---
 
 # חיי שרה

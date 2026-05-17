@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/purim|פורים]] · **עמ':** 170
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/170_31)
-
 ---
 
 # פורים א

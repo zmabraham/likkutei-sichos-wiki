@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-05|כרך 5]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 112
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/112_5)
-
 ---
 
 # תולדות א

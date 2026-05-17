@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 236
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/236_30)
-
 ---
 
 # ויחי א

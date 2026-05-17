@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/masei|מסעי]] · **עמ':** 219
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/219_28)
-
 ---
 
 # מסעי

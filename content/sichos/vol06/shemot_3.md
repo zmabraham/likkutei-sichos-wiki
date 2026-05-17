@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/shemot|שמות]] · **עמ':** 26
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/26_6)
-
 ---
 
 # שמות ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 92
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/92_17)
-
 ---
 
 # שמיני א

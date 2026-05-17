@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 84
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/84_32)
-
 ---
 
 # תזריע ב

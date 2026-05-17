@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 157
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/157_28)
-
 ---
 
 # בלק א

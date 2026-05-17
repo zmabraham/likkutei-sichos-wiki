@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/vayakhel-אדר|ויקהל -אדר]] · **עמ':** 187
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/187_1)
-
 ---
 
 # ויקהל

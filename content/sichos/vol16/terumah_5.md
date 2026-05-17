@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 322
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/322_16)
-
 ---
 
 # תרומה ה

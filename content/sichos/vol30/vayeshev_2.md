@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayeshev|וישב]] · **עמ':** 184
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/184_30)
-
 ---
 
 # וישב ב

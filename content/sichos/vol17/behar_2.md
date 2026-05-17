@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 286
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/286_17)
-
 ---
 
 # בהר ב

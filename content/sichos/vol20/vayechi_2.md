@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 235
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/235_20)
-
 ---
 
 # ויחי ב

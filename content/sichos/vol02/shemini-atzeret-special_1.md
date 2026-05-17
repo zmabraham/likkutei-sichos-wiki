@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/shemini-atzeret-special|שמע צ-שמח ת]] · **עמ':** 433
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/433_2)
-
 ---
 
 # שמע"צ-שמח"ת

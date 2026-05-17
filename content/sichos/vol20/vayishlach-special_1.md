@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayishlach-special|וישלח-י ט כסלו]] · **עמ':** 166
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/166_20)
-
 ---
 
 # וישלח-י"ט כסלו

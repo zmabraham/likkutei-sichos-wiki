@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/eikev-א_-_כ_ף_אב|עקב א — כ ף אב]] · **עמ':** 30
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/30_14)
-
 ---
 
 # עקב א - כ"ף אב

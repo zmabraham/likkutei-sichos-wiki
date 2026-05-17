@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/yud-tes-kislev|י ט כסלו]] · **עמ':** 186
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/186_25)
-
 ---
 
 # י"ט כסלו

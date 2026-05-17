@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/metzora|מצורע]] · **עמ':** 157
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/157_17)
-
 ---
 
 # מצורע א

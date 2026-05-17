@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/yud-tes-kislev|י ט כסלו]] · **עמ':** 171
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/171_20)
-
 ---
 
 # י"ט כסלו א

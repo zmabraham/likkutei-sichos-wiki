@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 139
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/139_25)
-
 ---
 
 # ויצא א

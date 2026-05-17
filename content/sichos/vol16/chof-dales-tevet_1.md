@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/chof-dales-tevet|כ ד טבת]] · **עמ':** 41
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/41_16)
-
 ---
 
 # כ"ד טבת

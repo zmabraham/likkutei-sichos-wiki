@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/shoftim|שופטים]] · **עמ':** 1114
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1114_4)
-
 ---
 
 # שופטים

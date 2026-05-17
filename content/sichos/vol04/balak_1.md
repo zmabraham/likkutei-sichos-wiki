@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 1067
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1067_4)
-
 ---
 
 # בלק

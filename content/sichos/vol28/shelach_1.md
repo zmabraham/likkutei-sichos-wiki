@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 85
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/85_28)
-
 ---
 
 # שלח א

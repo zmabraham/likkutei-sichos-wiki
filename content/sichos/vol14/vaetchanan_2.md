@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/vaetchanan|ואתחנן]] · **עמ':** 21
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/21_14)
-
 ---
 
 # ואתחנן ב

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 221
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/221_19)
-
 ---
 
 # תצא ד

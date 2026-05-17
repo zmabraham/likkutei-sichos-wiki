@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/rosh-hashana-special|ר ה-ו' תשרי]] · **עמ':** 291
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/291_19)
-
 ---
 
 # ר"ה-ו' תשרי

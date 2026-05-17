@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 227
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/227_19)
-
 ---
 
 # תבא א

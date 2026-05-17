@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/chof-dales-tevet|כ ד טבת]] · **עמ':** 852
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/852_3)
-
 ---
 
 # כ"ד טבת

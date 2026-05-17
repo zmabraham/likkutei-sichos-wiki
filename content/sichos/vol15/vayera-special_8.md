@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-15|כרך 15]] · **פרשה/נושא:** [[topics/vayera-special|וירא-כ' מ]] · **עמ':** 129
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/129_15)
-
 ---
 
 # וירא-כ' מ"ח

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/masei|מסעי]] · **עמ':** 399
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/399_18)
-
 ---
 
 # מסעי ב

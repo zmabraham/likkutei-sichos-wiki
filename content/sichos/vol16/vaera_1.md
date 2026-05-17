@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/vaera|וארא]] · **עמ':** 47
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/47_16)
-
 ---
 
 # וארא א

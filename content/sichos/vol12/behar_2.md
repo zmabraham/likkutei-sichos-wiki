@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-12|כרך 12]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 115
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/115_12)
-
 ---
 
 # בהר ב

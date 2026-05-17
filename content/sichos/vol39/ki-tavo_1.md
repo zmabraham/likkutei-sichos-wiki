@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-39|כרך 39]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 37
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/37_39)
-
 ---
 
 # תבא

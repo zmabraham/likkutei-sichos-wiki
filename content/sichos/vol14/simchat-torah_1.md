@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/simchat-torah|האזינו א — ש ת]] · **עמ':** 143
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/143_14)
-
 ---
 
 # האזינו א - ש"ת

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 85
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/85_33)
-
 ---
 
 # שלח ב

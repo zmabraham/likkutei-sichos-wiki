@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-09|כרך 9]] · **פרשה/נושא:** [[topics/haazinu|האזינו]] · **עמ':** 204
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/204_9)
-
 ---
 
 # האזינו א

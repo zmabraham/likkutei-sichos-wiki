@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/metzora|מצורע]] · **עמ':** 105
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/105_7)
-
 ---
 
 # מצורע ב

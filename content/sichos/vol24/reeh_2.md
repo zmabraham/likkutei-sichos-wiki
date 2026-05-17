@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-24|כרך 24]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 87
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/87_24)
-
 ---
 
 # ראה ב

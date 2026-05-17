@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/matot|מטות]] · **עמ':** 186
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/186_33)
-
 ---
 
 # מטות

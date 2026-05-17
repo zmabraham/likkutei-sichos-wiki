@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/metzora--shabbat-hagadol|מצורע — שבת הגדול]] · **עמ':** 239
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/239_1)
-
 ---
 
 # מצורע

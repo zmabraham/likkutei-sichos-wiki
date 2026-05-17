@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 225
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/225_17)
-
 ---
 
 # קדושים ג

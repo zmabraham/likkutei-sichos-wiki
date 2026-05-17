@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-38|כרך 38]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 72
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/72_38)
-
 ---
 
 # חוקת א

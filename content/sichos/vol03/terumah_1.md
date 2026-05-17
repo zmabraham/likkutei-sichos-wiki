@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 902
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/902_3)
-
 ---
 
 # תרומה

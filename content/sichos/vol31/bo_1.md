@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-31|כרך 31]] · **פרשה/נושא:** [[topics/bo|בא]] · **עמ':** 46
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/46_31)
-
 ---
 
 # בא א

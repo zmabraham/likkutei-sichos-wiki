@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/vezot-habracha|וזאת הברכה]] · **עמ':** 164
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/164_14)
-
 ---
 
 # וזאת הברכה ב

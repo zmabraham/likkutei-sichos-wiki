@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 298
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/298_16)
-
 ---
 
 # תרומה ג

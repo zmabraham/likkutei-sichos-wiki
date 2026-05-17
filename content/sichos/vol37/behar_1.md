@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-37|כרך 37]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 72
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/72_37)
-
 ---
 
 # בהר

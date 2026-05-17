@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 109
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/109_17)
-
 ---
 
 # שמיני ג

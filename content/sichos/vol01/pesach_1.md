@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/pesach|חה פ]] · **עמ':** 244
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/244_1)
-
 ---
 
 # חה"פ

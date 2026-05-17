@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-28|כרך 28]] · **פרשה/נושא:** [[topics/korach|קרח]] · **עמ':** 98
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/98_28)
-
 ---
 
 # קרח א

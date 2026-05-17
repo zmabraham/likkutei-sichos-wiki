@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 117
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/117_18)
-
 ---
 
 # בהעלותך ג

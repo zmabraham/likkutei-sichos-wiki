@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 124
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/124_20)
-
 ---
 
 # ויצא א

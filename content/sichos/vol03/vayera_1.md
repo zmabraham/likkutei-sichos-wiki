@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/vayera|וירא]] · **עמ':** 765
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/765_3)
-
 ---
 
 # וירא

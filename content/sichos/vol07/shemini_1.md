@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/shemini|שמיני]] · **עמ':** 54
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/54_7)
-
 ---
 
 # שמיני א

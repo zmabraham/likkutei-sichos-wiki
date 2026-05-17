@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/bamidbar|במדבר]] · **עמ':** 6
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/6_18)
-
 ---
 
 # במדבר ב

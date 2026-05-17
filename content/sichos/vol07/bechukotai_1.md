@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-07|כרך 7]] · **פרשה/נושא:** [[topics/bechukotai|בחוקותי]] · **עמ':** 188
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/188_7)
-
 ---
 
 # בחוקותי א

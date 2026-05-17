@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/mishpatim|משפטים]] · **עמ':** 275
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/275_16)
-
 ---
 
 # משפטים ה

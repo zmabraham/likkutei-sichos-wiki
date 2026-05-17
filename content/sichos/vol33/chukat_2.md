@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-33|כרך 33]] · **פרשה/נושא:** [[topics/chukat|חוקת]] · **עמ':** 131
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/131_33)
-
 ---
 
 # חוקת ב

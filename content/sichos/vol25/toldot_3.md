@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-25|כרך 25]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 131
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/131_25)
-
 ---
 
 # תולדות ג

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-14|כרך 14]] · **פרשה/נושא:** [[topics/eikev|עקב]] · **עמ':** 37
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/37_14)
-
 ---
 
 # עקב ב

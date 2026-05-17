@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/reeh|ראה]] · **עמ':** 1108
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1108_4)
-
 ---
 
 # ראה

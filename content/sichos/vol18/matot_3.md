@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-18|כרך 18]] · **פרשה/נושא:** [[topics/matot|מטות]] · **עמ':** 371
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/371_18)
-
 ---
 
 # מטות ג

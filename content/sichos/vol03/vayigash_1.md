@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 823
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/823_3)
-
 ---
 
 # ויגש

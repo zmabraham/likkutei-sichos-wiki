@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 125
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/125_35)
-
 ---
 
 # ויצא ב

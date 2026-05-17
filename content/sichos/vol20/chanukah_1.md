@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/chanukah|חנוכה]] · **עמ':** 207
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/207_20)
-
 ---
 
 # חנוכה

@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-27|כרך 27]] · **פרשה/נושא:** [[topics/bechukotai|בחוקותי]] · **עמ':** 217
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/217_27)
-
 ---
 
 # בחוקותי ג

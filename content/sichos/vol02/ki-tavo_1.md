@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/ki-tavo|תבא]] · **עמ':** 390
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/390_2)
-
 ---
 
 # תבא

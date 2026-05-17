@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-23|כרך 23]] · **פרשה/נושא:** [[topics/masei|מסעי]] · **עמ':** 224
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/224_23)
-
 ---
 
 # מסעי א

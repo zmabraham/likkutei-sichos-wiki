@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-11|כרך 11]] · **פרשה/נושא:** [[topics/terumah|תרומה]] · **עמ':** 109
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/109_11)
-
 ---
 
 # תרומה א

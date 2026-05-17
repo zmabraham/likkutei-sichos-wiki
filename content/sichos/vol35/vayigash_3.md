@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/vayigash|ויגש]] · **עמ':** 206
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/206_35)
-
 ---
 
 # ויגש ג

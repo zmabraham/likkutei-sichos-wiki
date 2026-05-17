@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-01|כרך 1]] · **פרשה/נושא:** [[topics/bo--יו-ד_שבט|בא — יו״ד שבט]] · **עמ':** 127
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/127_1)
-
 ---
 
 # בא - יו״ד שבט

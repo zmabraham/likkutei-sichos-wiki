@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-32|כרך 32]] · **פרשה/נושא:** [[topics/tazria|תזריע]] · **עמ':** 77
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/77_32)
-
 ---
 
 # תזריע א

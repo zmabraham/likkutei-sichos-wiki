@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-19|כרך 19]] · **פרשה/נושא:** [[topics/ki-tavo-special|תבא-ח י אלול]] · **עמ':** 244
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/244_19)
-
 ---
 
 # תבא-ח"י אלול

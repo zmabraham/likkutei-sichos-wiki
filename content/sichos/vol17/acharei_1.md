@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-17|כרך 17]] · **פרשה/נושא:** [[topics/acharei|אחרי]] · **עמ':** 172
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/172_17)
-
 ---
 
 # אחרי א

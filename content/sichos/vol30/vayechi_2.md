@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayechi|ויחי]] · **עמ':** 241
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/241_30)
-
 ---
 
 # ויחי ב

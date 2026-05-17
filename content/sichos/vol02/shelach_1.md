@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-02|כרך 2]] · **פרשה/נושא:** [[topics/shelach|שלח]] · **עמ':** 320
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/320_2)
-
 ---
 
 # שלח

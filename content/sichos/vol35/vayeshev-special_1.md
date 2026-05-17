@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-35|כרך 35]] · **פרשה/נושא:** [[topics/vayeshev-special|וישב-חנוכה]] · **עמ':** 169
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/169_35)
-
 ---
 
 # וישב-חנוכה

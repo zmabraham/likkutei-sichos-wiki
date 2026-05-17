@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/tzav|צו]] · **עמ':** 948
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/948_3)
-
 ---
 
 # צו

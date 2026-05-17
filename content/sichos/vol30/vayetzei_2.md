@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-30|כרך 30]] · **פרשה/נושא:** [[topics/vayetzei|ויצא]] · **עמ':** 134
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/134_30)
-
 ---
 
 # ויצא ב

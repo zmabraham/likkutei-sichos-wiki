@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-08|כרך 8]] · **פרשה/נושא:** [[topics/behaalotecha|בהעלותך]] · **עמ':** 75
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/75_8)
-
 ---
 
 # בהעלותך ב

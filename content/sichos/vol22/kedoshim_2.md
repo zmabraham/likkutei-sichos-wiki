@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-22|כרך 22]] · **פרשה/נושא:** [[topics/kedoshim|קדושים]] · **עמ':** 108
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/108_22)
-
 ---
 
 # קדושים ב

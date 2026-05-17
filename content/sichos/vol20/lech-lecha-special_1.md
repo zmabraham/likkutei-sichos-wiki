@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/lech-lecha-special|לך לך-ז' חשון]] · **עמ':** 54
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/54_20)
-
 ---
 
 # לך לך-ז' חשון

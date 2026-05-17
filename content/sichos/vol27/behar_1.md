@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-27|כרך 27]] · **פרשה/נושא:** [[topics/behar|בהר]] · **עמ':** 176
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/176_27)
-
 ---
 
 # בהר א

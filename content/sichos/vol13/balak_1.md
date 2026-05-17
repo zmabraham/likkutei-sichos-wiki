@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-13|כרך 13]] · **פרשה/נושא:** [[topics/balak|בלק]] · **עמ':** 78
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/78_13)
-
 ---
 
 # בלק א

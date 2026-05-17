@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-20|כרך 20]] · **פרשה/נושא:** [[topics/vayishlach|וישלח]] · **עמ':** 144
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/144_20)
-
 ---
 
 # וישלח א

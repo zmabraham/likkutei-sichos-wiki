@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-16|כרך 16]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 161
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/161_16)
-
 ---
 
 # בשלח ב

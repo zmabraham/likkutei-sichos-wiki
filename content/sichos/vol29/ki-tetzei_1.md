@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/ki-tetzei|תצא]] · **עמ':** 122
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/122_29)
-
 ---
 
 # תצא א

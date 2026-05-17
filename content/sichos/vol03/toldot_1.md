@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-03|כרך 3]] · **פרשה/נושא:** [[topics/toldot|תולדות]] · **עמ':** 780
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/780_3)
-
 ---
 
 # תולדות

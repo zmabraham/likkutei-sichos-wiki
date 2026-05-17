@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-36|כרך 36]] · **פרשה/נושא:** [[topics/beshalach|בשלח]] · **עמ':** 70
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/70_36)
-
 ---
 
 # בשלח ב

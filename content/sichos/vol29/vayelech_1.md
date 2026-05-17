@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-29|כרך 29]] · **פרשה/נושא:** [[topics/vayelech|וילך]] · **עמ':** 189
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/189_29)
-
 ---
 
 # וילך

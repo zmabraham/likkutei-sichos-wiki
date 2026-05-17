@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-06|כרך 6]] · **פרשה/נושא:** [[topics/tetzaveh|תצוה]] · **עמ':** 179
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/179_6)
-
 ---
 
 # תצוה ב

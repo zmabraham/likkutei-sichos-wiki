@@ -10,8 +10,6 @@ tags:
 
 > **כרך:** [[volumes/volume-04|כרך 4]] · **פרשה/נושא:** [[topics/devarim|דברים]] · **עמ':** 1087
 
-[Browse on dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1087_4)
-
 ---
 
 # דברים
