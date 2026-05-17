@@ -3,7 +3,7 @@ title: 'רש"י — ליקוטי שיחות'
 tags:
   - concept
   - rashi
-  - פרשנים
+  - אישים
   - likkutei-sichos
 ---
 
@@ -11,182 +11,64 @@ tags:
 
 > **Rashi**
 >
-> פירוש רש"י על התורה
+> רש"י — פרשנות תורה תלמוד
 
-**168 שיחות** דנות בנושא זה
+**1172 שיחות** עוסקות בנושא זה בליקוטי שיחות _(מוצגות 50 ראשונות)_
 
-## שיחות העוסקות ברש"י
+## עיקרי הנושא בליקוטי שיחות
 
-| כרך | שיחה | עמ' |
-|-----|------|-----|
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/shemot_1|שמות]] | 111 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/beshalach-ט-ו_בשבט_1|בשלח — ט״ו בשבט]] | 139 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/haazinu_1|האזינו]] | 1154 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/yitro_2|יתרו]] | 119 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/bo_1|בא]] | 34 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/bo_2|בא]] | 42 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/chayei-sarah_3|חיי שרה]] | 163 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/chayei-sarah_4|חיי שרה]] | 174 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayeshev_3|וישב]] | 318 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/miketz_2|מקץ]] | 348 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/shemot_3|שמות]] | 20 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/vaera_2|וארא]] | 58 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/bo_3|בא]] | 114 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/beshalach_4|בשלח]] | 183 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/yitro_4|יתרו]] | 223 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/mishpatim_2|משפטים]] | 251 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/terumah_5|תרומה]] | 322 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/tetzaveh_2|תצוה]] | 336 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/ki-tisa_4|תשא]] | 408 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/metzora_1|מצורע]] | 157 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/behar-special_1|בהר-ל ג בעומר]] | 303 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/bechukotai_2|בחוקותי]] | 321 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/shelach_5|שלח]] | 178 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/devarim_3|דברים]] | 15 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/tu-beav_1|ט ו באב]] | 80 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/vayelech_4|וילך]] | 321 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/bereishit_2|בראשית]] | 7 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/lech-lecha_2|לך לך]] | 45 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayera_2|וירא]] | 68 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/toldot_2|תולדות]] | 108 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayetzei_2|ויצא]] | 129 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayishlach_2|וישלח]] | 154 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/miketz_1|מקץ]] | 192 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayigash_1|ויגש]] | 212 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayechi_3|ויחי]] | 243 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/beshalach_3|בשלח]] | 89 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_2|יתרו]] | 108 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_3|יתרו]] | 119 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/mishpatim_2|משפטים]] | 133 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/terumah_3|תרומה]] | 164 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/vayikra_2|ויקרא]] | 7 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/tzav_2|צו]] | 21 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/metzora_1|מצורע]] | 81 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/acharei_1|אחרי]] | 89 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/acharei_2|אחרי]] | 96 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/kedoshim_1|קדושים]] | 103 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/behar_2|בהר]] | 150 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/bamidbar_2|במדבר]] | 8 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/behaalotecha_1|בהעלותך]] | 62 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/shelach_2|שלח]] | 96 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/shelach_3|שלח]] | 104 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/korach_1|קרח]] | 113 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/pinchas_1|פנחס]] | 182 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/devarim_2|דברים]] | 12 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/vaetchanan_1|ואתחנן]] | 28 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/vaetchanan_2|ואתחנן]] | 36 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/tu-beav_1|ט ו באב]] | 47 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/tu-beav_2|ט ו באב]] | 57 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/eikev_2|עקב]] | 73 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/reeh_2|ראה]] | 87 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/shoftim_4|שופטים]] | 121 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/ki-tavo_1|תבא]] | 157 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/vayelech_1|וילך]] | 197 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/vayelech_3|וילך]] | 216 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/ר_5|ר]] | 222 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/haazinu-special_1|האזינו-ש ת]] | 229 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/vezot-habracha_1|ברכה]] | 253 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/bereishit_1|בראשית]] | 1 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/vaera_1|וארא]] | 43 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/yitro_2|יתרו]] | 124 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/mishpatim_2|משפטים]] | 153 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/terumah_1|תרומה]] | 167 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/terumah_2|תרומה]] | 175 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/tetzaveh_1|תצוה]] | 191 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/ki-tisa_2|תשא]] | 238 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/vayakhel_1|ויקהל]] | 254 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/pekudei_1|פקודי]] | 272 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/naso_2|נשא]] | 40 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/chukat_2|חוקת]] | 138 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/masei_1|מסעי]] | 219 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/noach_1|נח]] | 16 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/noach_3|נח]] | 31 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/lech-lecha_1|לך לך]] | 36 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayera_3|וירא]] | 76 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/chayei-sarah_1|חיי שרה]] | 82 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayetzei_3|ויצא]] | 141 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayishlach_2|וישלח]] | 155 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayeshev_2|וישב]] | 184 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayigash_3|ויגש]] | 229 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayechi_1|ויחי]] | 236 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayechi_2|ויחי]] | 241 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayechi_3|ויחי]] | 249 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/shemot_3|שמות]] | 15 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/vaera_2|וארא]] | 28 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/vaera_4|וארא]] | 41 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/bo_2|בא]] | 53 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/bo_3|בא]] | 61 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/beshalach_2|בשלח]] | 77 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/beshalach_3|בשלח]] | 85 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/yitro_3|יתרו]] | 106 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/mishpatim_2|משפטים]] | 119 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/terumah_1|תרומה]] | 135 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/terumah_2|תרומה]] | 142 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/tetzaveh_2|תצוה]] | 165 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/ki-tisa_1|תשא]] | 184 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/vayakhel_1|ויקהל]] | 200 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/vayakhel_2|ויקהל]] | 203 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/vayakhel_3|ויקהל]] | 211 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/pekudei_1|פקודי]] | 218 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/shemini_1|שמיני]] | 54 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/shemini_2|שמיני]] | 58 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/tazria_1|תזריע]] | 77 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/tazria_2|תזריע]] | 84 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/metzora_1|מצורע]] | 91 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/kedoshim_2|קדושים]] | 120 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/behar_2|בהר]] | 161 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/bechukotai_1|בחוקותי]] | 168 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/naso_2|נשא]] | 50 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/behaalotecha_3|בהעלותך]] | 71 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shelach_1|שלח]] | 78 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/korach_1|קרח]] | 105 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/chukat_2|חוקת]] | 131 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/balak_1|בלק]] | 149 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/pinchas_2|פנחס]] | 170 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/pinchas_3|פנחס]] | 176 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/matot_1|מטות]] | 186 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/devarim_1|דברים]] | 1 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/devarim_2|דברים]] | 9 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/devarim_3|דברים]] | 17 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vaetchanan_2|ואתחנן]] | 32 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/eikev_2|עקב]] | 59 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/reeh_1|ראה]] | 75 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/shoftim_1|שופטים]] | 98 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/ki-tetzei_1|תצא]] | 123 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/ki-tetzei_2|תצא]] | 129 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/ki-tavo_1|תבא]] | 145 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/ki-tavo_3|תבא]] | 160 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/nitzavim_1|נצבים]] | 167 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vayelech_2|וילך]] | 194 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/haazinu_1|האזינו]] | 206 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vezot-habracha_1|ברכה]] | 217 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/chayei-sarah_2|חיי שרה]] | 89 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/toldot_3|תולדות]] | 113 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayetzei_1|ויצא]] | 119 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayetzei_3|ויצא]] | 131 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayishlach_3|וישלח]] | 150 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayeshev_1|וישב]] | 156 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayeshev_2|וישב]] | 163 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/miketz_1|מקץ]] | 176 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayigash_3|ויגש]] | 206 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/vaera_1|וארא]] | 26 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/bo_1|בא]] | 45 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/beshalach_1|בשלח]] | 65 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/beshalach_2|בשלח]] | 70 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/yitro_1|יתרו]] | 86 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/mishpatim_1|משפטים]] | 102 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/mishpatim_3|משפטים]] | 115 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/terumah_3|תרומה]] | 136 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/tetzaveh_1|תצוה]] | 146 |
-| [[volumes/volume-37|כרך 37]] | [[sichos/vol37/tzav_1|צו]] | 1 |
-| [[volumes/volume-37|כרך 37]] | [[sichos/vol37/emor_2|אמור]] | 67 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/behaalotecha_1|בהעלותך]] | 33 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/shelach_2|שלח]] | 53 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/chukat_2|חוקת]] | 78 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/balak_2|בלק]] | 90 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/pinchas_2|פנחס]] | 111 |
-| [[volumes/volume-39|כרך 39]] | [[sichos/vol39/devarim_1|דברים]] | 1 |
-| [[volumes/volume-39|כרך 39]] | [[sichos/vol39/vaetchanan_1|ואתחנן]] | 14 |
+| כרך | שיחה | עמ' | תוכן |
+|-----|------|-----|------|
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/acharei_1|אחרי]] | 253 | 2) רש״י שבת כג, א. וראה רמב״ם ריש הלכות ממרים. בסהמ״צ שורש א׳ ומ״ע קעד. |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bechukotai-special_1|בחוקותי-ל ג בעומר]] | 281 | וועט מען עס פארשטיין לויט ווי עס ווערט דערקלערט אין תניא[13]), אז יסורים זיינען טוב פון עלמא דאתכסיא, בחינת י־ה, דערפאר קומט עס איצטער אראפ "בבחינת צל... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/behar_1|בהר]] | 273 | א. אין אנהויב סדרה שטייט, וידבר הוי׳ אל משה בהר סיני גו׳ ושבתה הארץ שבת להוי׳. זאגט אויף דעם רש״י בשם תורת כהנים: מה ענין שמיטה אצל הר סיני והלא כל המ... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bereishit_1|בראשית]] | 1 | ג. דערמיט וועט מען פאַרשטיין פאַרוואָס שבת בראשית איז נוגע צו אַ גאַנץ יאָר, ווייל געדענקען דעם ״בראשית ברא" איז דער יסוד פון דער עבודה פון אַ גאַגץ י... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/beshalach-ט-ו_בשבט_1|בשלח — ט״ו בשבט]] | 139 | ז. דערמיט וועט מען אויך פאַרשטיין וואָס עס שטייט אין מדרש (תנחומא) אויפן פסוק ותען להם מרים, וואָס אין פלוג איז ניט פאַרשטאַנדיק דער לשון להם, וואָס ד... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bo-יו-ד_שבט_1|בא — יו״ד שבט]] | 127 | צדקה איז דאך כללות המצות[11]), וועט מען פארשטיין דעם ענין אין מצות הצדקה און פון דעם אין אלע מצות. |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/chayei-sarah_1|חיי שרה]] | 31 | ווען אליעזר האט דערציילט ווי אברהם האט אים געשיקט קיין ארם נהרים, און ווי ער איז אהין געקומען, האט ער געזאגט: ואבוא היום, אז היינט איז ער געקומען. טיי... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/emor_1|אמור]] | 263 | לויט דעם וועט מען אויך פארשטיין דעם טעם וואס מנחת העומר קומט פון שעורים, מאכל בהמה, וויילע דער ענין פון עומר איז דער בירור פון נפש הבהמית. |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/kedoshim_1|קדושים]] | 260 | דער רבי האט גערעדט דעמאלט בענין עסק התורה והמצוות. דאס זעלבע איז אויך בהנוגע התעסקות אין אהבת ישראל. מען דארף לייגן כל המיני השתדלות אויף טאן א אידן א... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/ki-tisa_1|תשא]] | 178 | לויט דעם דאַרף מען פאַרשטיין, ווי אַזוי איז ביי משה רבינו געווארן פאַרענטפערט דער ענין ווי איז שייך כפר נפשו דורך דעם וואָס דער אויבערשטער האָט אים בא... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/lech-lecha_1|לך לך]] | 15 | ח. אברהם אבינו איז דאַן אַלט געווען 99 יאָר. צענדליקער יאָרן האָט ער געדינט דעם אויבערשטן און דורכגעגאַנגען אַ סך נסיונות. איז דאָך פאַרשטאַנדיק אַז א... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/metzora-shabbat-hagadol_1|מצורע — שבת הגדול]] | 239 | ז. לויט דעם אויבנגעזאגטן וועט מען אויך פארשטיין דעם מאמר רז״ל[11]): רוח צפונית אינה מסובבת. שטייט[12]) דער טעם דערויף, בכדי צו באווייזן דעם פלא שבבריא... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/miketz-שבת_חנוכה_1|מקץ — שבת חנוכה]] | 85 | די מעלה פון נס מיטן פך השמן אויף אלע ניסים, ובכללם אויך דער נס פון נצחון אין דער מלחמה, וועט מען פארשטיין נאך א פריערדיקער דערקלערונג אז אין די הנהגות... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/mishpatim_1|משפטים]] | 155 | פון דעם איז פאַרשטאַנדיק אַז דער נתינת כוח קומט פון אַזאַ אָרט וואָס דאָרטן רירט ניט אָן עבודת הנבראים, בחינת אדון יחיד שרש השרשים[19]. ווי ער זאָגט[2... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/noach_1|נח]] | 4 | ג. איז וויבאַלד אַז די אמת'ע כוונה איז ניט אים צו באַשטראָפן ח"ו, נאָר בכדי אַראָפּצושווענקען און אָפּרייניקן פון אים די ניט-גוטע זאַכן - במילא פאַרשט... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pekudei_1|פקודי]] | 195 | ה. פונדעסטוועגן, ניט געקוקט אויף דעם גרויסן אונטערשייד פון דעם "בכח" און דעם "בפועל", איז ווען האט זיך אויסגעפירט דער תכלית הרצון פון דעם אויבערשטן או... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pesach_1|חה פ]] | 244 | אין תורה איז דאך אבער יעדער ענין בדיוק, איז וויבאלד אז מען שטעלט פארט דעם רשע לעבן דעם חכם, מוז מען זאגן אז עס איז צווישן זיי דא א שייכות, ובפרט אז ער... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/purim-tzav_1|פורים — צו]] | 213 | ה. דערמיט וועט מען אויך פארשטיין וואס עס שטייט אין ירושלמי[11]), "שמאמין בחי העולמים וזורע" (ער זייט ווייל ער גלויבט און פארלאזט זיך אויף דעם אויבערשט... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/shemini_1|שמיני]] | 222 | דאַרף מען פאַרשטיין די שייכות פון מעלת גרה ומפרסת פרסה צו טהרה. ובפרט אַז בפנימיות הענין, - אַפילו מען וועט זאָגן אַז די סימנים זיינען ניט מער ווי מבר... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/shemot_1|שמות]] | 111 | נאר ווי מען האט גערעדט וועט מען עס פארשטיין, ווייל מצד נביעת המוחין איז שווער אפצושטעלן זיך און מכריע זיין בהחלט. עס קומט גלייך נאך א טיפערע העמקה ווא... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/tazria_1|תזריע]] | 231 | ד. על דרך זה וועט מען פארשטיין דעם ענין אויך ווי ער איז לעתיד לבא: וויבאלד לעתיד וועט זיין התגלות העצמות, וועלן אראפגיין אלע הגבלות, וועט אויך זיין, ו... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/terumah_1|תרומה]] | 162 | דאַרף מען פארשטיין, פאַרוואָס זיינען תרומת קרבנות און תרומת אדנים אַנדערש פון דער תרומה פאַר די איבעריקע באַדערפענישן פון דעם משכן? |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/tetzaveh-פורים_קטן_1|תצוה — פורים קטן]] | 170 | ז. וועט מען עס פאַרשטיין דערקלערנדיק פריער דעם ענין פון משכן וכליו אין אַלגעמיין. |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/toldot_1|תולדות]] | 45 | בשעת אַ איד באַטראַכט זיך וואו ער געפינט זיך: ער געפינט זיך אין אַן עולם וואָס מעשיו קשים ורעים והרשעים גוברים בו[20], (אַ וועלט וואָס זיינע מעשים זיי... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vaera_1|וארא]] | 119 | דערמיט וועט מען אויך פארשטיין וואָס ביים אָנהויב שטייט[10]), אַז דאָס וואַסער איז איבערגעאַנדערשט געווארן לדם "ביבשת", ולכאורה, וואָס איז נוגע צו מוסי... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayakhel-אדר_1|ויקהל -אדר]] | 187 | ד) רש״י זאגט (און אזוי שטייט אויך אין גמרא, מדרש[1]) און זהר) אז ויקהל משה איז געווען אויף מארגן נאך יום כיפור, בשעת משה רבינו איז אראפגעקומען פון הר ... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayechi_1|ויחי]] | 102 | א. די ברכה מיט וועלכער יעקב אבינו האט געבענטשט זיין זון' אשר איז: מאשר שמנה לחמו. זאגט אויף דעם רש״י אז דאס מיינט, אז ביי אים זאל זיין א סך בוימל, און... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayera_1|וירא]] | 23 | ג. פון דעם רבי׳נס וויינען אויף דעם וואָס דער אויבערשטער האָט זיך ניט באַוויזן צו אים, קאָן מען אָפלערנען, אַז יעדער איד – אין וועלכן מצב ער זאָל זיך נ... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayetzei_1|ויצא]] | 60 | א. היינטיקע סדרה הויבט זיך אן: ויצא יעקב מבאר שבע וילך חרנה. דאָס איז - ווי רש"י זאָגט - אַן איבערדערציילונג פון דעם סיום פון פאָריקער סדרה. |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayigash_1|ויגש]] | 94 | ג. אויפ׳ן פסוק ואת יהודה שלח גו׳ להורות לפניו גשנה, ברענגט רש״י אין נאָמען פון מדרש ״לתקן לו בית תלמוד שמשם תצא הוראה׳׳. |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayikra-parshat-zachor_1|ויקרא — זכור]] | 205 | און דאן קען זיין די הקרבה, אז דער גוף און נפש הבהמית זאלן נכלל ווערן אין ג־טלעכן פייער וואס אין דער נשמה, אזוי ווי עס שטייט, רשפי׳ רשפי אש שלהבת י־ה, ... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayishlach-yud-tes-kislev_1|וישלח — י ט כסלו]] | 68 | א. אויפן פסוק עם לבן גרתי, זאָגט רש"י, ותרי"ג מצות שמרתי. איז ניט פאַרשטאנדיק אין דעם: א) די שייכות פון דעם דרש אויפן פסוק - ותרי"ג (אותיות גרתי)[1] מ... |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/yitro_1|יתרו]] | 148 | ח. זעלבסטפאַרשטענדלעך אַז בשעת איינער וועט זיך ניט וועלן נוצן מיט דער רפואה מצד די טענות: א) רפואה איז אַן ענין פוך פאַרברייטערן און פאַרשטאַרקן דעם מ... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/balak_1|בלק]] | 337 | 13) פירוש רש״י אנפאנג בראשית. ספר הלקוטים להאריז״ל בתחילתו ובכמה מקומות. און זע מדרש ילמדנו געבראכט אין ספר תלמוד תורה*. |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/bamidbar_1|במדבר]] | 293 | מנין (צאל) איז א זאך וואס איז ניט פארבונדן און ווייזט אינגאנצן ניט אן אויף דעם תוכן פון דער זאך וואס ווערט געציילט, ווארום אין מנין ציילט מען אלעמען ג... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/behaalotecha_1|בהעלותך]] | 314 | ווי ס׳איז ידוע, אַז רצון קען מען ניט פאַנאַנדערטיילן. וואָס דאָס איז דער אונטערשייד פון שכל מיט רצון[14]: אין שכל און פארשטאנד איז מעגלעך צו פאַרשטיין... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/chukat_1|חוקת]] | 331 | ג. מען האט גערעדט פדיער אז תורה איז מלשון הוראה, ד. ה. אז תורה לערנט די הנהגה ווי צו פירן זיך אין לעבן. דאס איז וואס תורה גיט אין א פנימיות — אזוי ווי... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/devarim_1|דברים]] | 357 | לויט דעם וועט מען פאַרשטיין די שייכות פון שבת חזון צו פרשת דברים, וואָס די קביעות פון שבת חזון איז אַלעמאָל פ' דברים . |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/eikev_1|עקב]] | 371 | מען געפינט זיך דאָך איצטער אין גלות, איז בכדי צו דערקלערן דעם ענין הגאולה, גיט מען פריער צו פאַרשטיין דעם גלות מיט דער סיבה פון דעם גלות, און בשעת מען... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/haazinu_1|האזינו]] | 415 | דער אונטערשייד איז נאר, וואס ס׳איז עיקר ענינם, אז אין דעם קו דארף מען מער מהדר זיין, אבער ביי ביידן דארפן זיין ביידע קוין[12]). |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/ki-tavo_1|תבא]] | 390 | די דערקלערונג אין דעם וועט מען פארשטיין פון דעם חילוק וואס איז פאראן צווישן די דוגמאות וועלכע די גמרא ברענגט אויף די צוויי דערמאנטע לשונות. |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/ki-tetzei_1|תצא]] | 384 | פון דעם פארשטייט מען אויף וויפל עס איז נויטיק דער ענין פון זכירת עמלק, אז אלע זיינען מחוייב אין דעם. |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/matot-masei_1|מטו מ]] | 348 | אויך דארף מען פארשטיין דעם ענין פון די מ״ב מסעות וועלכע זיינען געווען זינט די אידן זיינען ארויס פון מצרים ביז זיי זיינען געקומען קיין ארץ ישראל, ארץ ט... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/naso_1|נשא]] | 311 | אבער באמת דארף מען דאס גופא פארשטיין, ווארום עס זיינען דאך פאראן א סך מאמרי רז״ל וואס מען ברענגט ניט אויף זיי קיין ראיות פון פסוק. מוז מען זאגן, אז דע... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/nitzavim_1|נצבים]] | 398 | בשעת עס קומט דער "היום", דער טאג פון ראש השנה, דעמאלט דארף זיין אתם נצבים כולכם, אלע נשמות דארפן זיך צושטעלן, לפני הוי׳ אלקיכם, און דאס איז אין אלע נש... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/pinchas_1|פנחס]] | 342 | — דאס איז וואס מען זאגט, ותן חלקנו בתורתך[6]), וואס דאס מיינט ניט נאר אין פארשטיין תורה, נאר אויך אין מחדש זיין, ווי די גמרא דערציילט אין מנחות[7] אז ... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/reeh_1|ראה]] | 375 | י. עס שטייט אין פּרי עץ חיים[13] אַז, להוי' ויאמרו לאמר אשירה איז ראשי תיבות אלול. דאַרף מען פאַרשטיין, א) וואָס האָט דאָס פאַר אַ שייכות צו אלול. ב) ... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shavuot_1|חה ש]] | 301 | ט. לויט דעם וועט מען אויך פארשטיין וואס עס שטייט אין גמרא[16]), הלל מחייב עניים ור׳ אלעזר בן חרסום מחייב עשירים. אויב עס וועלן קומען עניים און עשירים ... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shelach_1|שלח]] | 320 | א. אויף דעם וואס שטייט אין דער היינטיקער סדרה ויקרא משה להושע בן נון יהושע, ווערט געבראכט אין גמרא[1]), אז משה רבינו האט מתפלל געווען, "י־ה יושיעך מעצ... |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shemini-atzeret-special_1|שמע צ-שמח ת]] | 433 | ולכאורה איז ניט פאַרשטאַנדיק, וויבאַלד אַז סיי ווי וועט מען זיך דאַרפן שפעטער פאַנאַנדערשיידן, איז וואָם איז אַזוי שטאַרק די מעלה אין דעם וואָס מען וו... |
 
 ---
 

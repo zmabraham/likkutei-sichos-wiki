@@ -1,5 +1,5 @@
 ---
-title: 'הפטרה — ליקוטי שיחות'
+title: 'פרשה והפטרה — ליקוטי שיחות'
 tags:
   - concept
   - parasha-haftarah
@@ -7,38 +7,68 @@ tags:
   - likkutei-sichos
 ---
 
-# הפטרה
+# פרשה והפטרה
 
-> **Haftarah**
+> **Parasha and Haftara**
 >
-> קריאת ההפטרה
+> ענין הפרשה וההפטרה — פרשת השבוע
 
-**23 שיחות** דנות בנושא זה _(מוצגות 20 ראשונות)_
+**1191 שיחות** עוסקות בנושא זה בליקוטי שיחות _(מוצגות 50 ראשונות)_
 
-## שיחות העוסקות בהפטרה
+## עיקרי הנושא בליקוטי שיחות
 
-| כרך | שיחה | עמ' |
-|-----|------|-----|
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/eikev_1|עקב]] | 71 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/שבת-נחמו_1|שבת נחמו]] | 67 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/eikev_3|עקב]] | 106 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/reeh_1|ראה]] | 133 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/chayei-sarah_2|חיי שרה]] | 86 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayetzei_3|ויצא]] | 136 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/terumah_2|תרומה]] | 156 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/תזו-מ_1|תזו מ]] | 70 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/shavuot_1|חה ש]] | 17 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayigash_1|ויגש]] | 215 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/tetzaveh_2|תצוה]] | 165 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shavuot_1|חה ש]] | 18 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shelach_1|שלח]] | 78 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/balak_1|בלק]] | 149 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/בין-המצרים-מטות_1|בין המצרים-מטות]] | 194 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/reeh_2|ראה]] | 82 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/chayei-sarah_2|חיי שרה]] | 89 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/chanukah_1|חנוכה]] | 187 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayigash_3|ויגש]] | 206 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/vayechi_2|ויחי]] | 216 |
+| כרך | שיחה | עמ' | תוכן |
+|-----|------|-----|------|
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/acharei_1|אחרי]] | 253 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bechukotai-special_1|בחוקותי-ל ג בעומר]] | 281 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/behar_1|בהר]] | 273 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bereishit_1|בראשית]] | 1 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/beshalach-ט-ו_בשבט_1|בשלח — ט״ו בשבט]] | 139 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bo-יו-ד_שבט_1|בא — יו״ד שבט]] | 127 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/chayei-sarah_1|חיי שרה]] | 31 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/emor_1|אמור]] | 263 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/kedoshim_1|קדושים]] | 260 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/ki-tisa_1|תשא]] | 178 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/lech-lecha_1|לך לך]] | 15 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/metzora-shabbat-hagadol_1|מצורע — שבת הגדול]] | 239 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/miketz-שבת_חנוכה_1|מקץ — שבת חנוכה]] | 85 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/mishpatim_1|משפטים]] | 155 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/noach_1|נח]] | 4 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pekudei_1|פקודי]] | 195 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pesach_1|חה פ]] | 244 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/purim-tzav_1|פורים — צו]] | 213 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/shemini_1|שמיני]] | 222 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/shemot_1|שמות]] | 111 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/tazria_1|תזריע]] | 231 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/terumah_1|תרומה]] | 162 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/tetzaveh-פורים_קטן_1|תצוה — פורים קטן]] | 170 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/toldot_1|תולדות]] | 45 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vaera_1|וארא]] | 119 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayakhel-אדר_1|ויקהל -אדר]] | 187 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayechi_1|ויחי]] | 102 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayera_1|וירא]] | 23 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayeshev-chanukah_1|וישב — חנוכה]] | 76 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayetzei_1|ויצא]] | 60 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayigash_1|ויגש]] | 94 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayikra-parshat-zachor_1|ויקרא — זכור]] | 205 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayishlach-yud-tes-kislev_1|וישלח — י ט כסלו]] | 68 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/yitro_1|יתרו]] | 148 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/balak_1|בלק]] | 337 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/bamidbar_1|במדבר]] | 293 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/behaalotecha_1|בהעלותך]] | 314 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/chukat_1|חוקת]] | 331 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/devarim_1|דברים]] | 357 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/eikev_1|עקב]] | 371 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/haazinu_1|האזינו]] | 415 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/ki-tavo_1|תבא]] | 390 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/ki-tetzei_1|תצא]] | 384 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/korach_1|קרח]] | 326 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/matot-masei_1|מטו מ]] | 348 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/naso_1|נשא]] | 311 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/nitzavim_1|נצבים]] | 398 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/pinchas_1|פנחס]] | 342 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/reeh_1|ראה]] | 375 |  |
+| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shavuot_1|חה ש]] | 301 |  |
 
 ---
 
