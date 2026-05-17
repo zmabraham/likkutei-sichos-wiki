@@ -1,0 +1,392 @@
+{
+  "torah-or": {
+    "he": "תורה אור",
+    "en": "Torah Ohr",
+    "category": "ספרי חסידות",
+    "count": 253
+  },
+  "gehinnom-gan-eden": {
+    "he": "גן עדן וגיהנם",
+    "en": "Paradise and Hell",
+    "category": "עולם הבא",
+    "count": 124
+  },
+  "alef-bet": {
+    "he": "אותיות",
+    "en": "Hebrew Letters",
+    "category": "תורה",
+    "count": 438
+  },
+  "sefirot": {
+    "he": "ספירות",
+    "en": "Sefirot",
+    "category": "קבלה",
+    "count": 91
+  },
+  "galut-geula": {
+    "he": "גלות וגאולה",
+    "en": "Exile and Redemption",
+    "category": "גאולה",
+    "count": 205
+  },
+  "moshiach": {
+    "he": "משיח",
+    "en": "Moshiach",
+    "category": "גאולה",
+    "count": 367
+  },
+  "mitzvot": {
+    "he": "מצוות",
+    "en": "Mitzvot",
+    "category": "עבודת ה'",
+    "count": 183
+  },
+  "ahavat-hashem": {
+    "he": "אהבת ה'",
+    "en": "Love of G-d",
+    "category": "עבודת ה'",
+    "count": 72
+  },
+  "matan-torah": {
+    "he": "מתן תורה",
+    "en": "Giving of the Torah",
+    "category": "תורה",
+    "count": 225
+  },
+  "beit-hamikdash": {
+    "he": "בית המקדש",
+    "en": "Holy Temple",
+    "category": "מקדש",
+    "count": 320
+  },
+  "avoda-zara": {
+    "he": "עבודה זרה",
+    "en": "Idolatry",
+    "category": "הלכה",
+    "count": 349
+  },
+  "avodah-begashmius": {
+    "he": "עבודה בגשמיות",
+    "en": "Divine Service in Physical Life",
+    "category": "עבודת ה'",
+    "count": 237
+  },
+  "chasidut": {
+    "he": "חסידות",
+    "en": "Chassidus",
+    "category": "חסידות",
+    "count": 262
+  },
+  "dira-betachtonim": {
+    "he": "דירה בתחתונים",
+    "en": "Dwelling in the Lower Worlds",
+    "category": "יסודות החסידות",
+    "count": 195
+  },
+  "bittul": {
+    "he": "ביטול",
+    "en": "Nullification / Self-Abnegation",
+    "category": "עבודת ה'",
+    "count": 74
+  },
+  "torah": {
+    "he": "תורה",
+    "en": "Torah Study",
+    "category": "עבודת ה'",
+    "count": 339
+  },
+  "baal-shem-tov": {
+    "he": "הבעש\"ט",
+    "en": "Baal Shem Tov",
+    "category": "נשיאי חסידות",
+    "count": 57
+  },
+  "anavah": {
+    "he": "ענוה",
+    "en": "Humility",
+    "category": "מידות",
+    "count": 48
+  },
+  "chochma-bina-daat": {
+    "he": "חב\"ד",
+    "en": "Chabad — Chochma, Bina, Daat",
+    "category": "קבלה וחסידות",
+    "count": 94
+  },
+  "alter-rebbe": {
+    "he": "אדמו\"ר הזקן",
+    "en": "Alter Rebbe",
+    "category": "נשיאי חב\"ד",
+    "count": 113
+  },
+  "bria-yesh-meayin": {
+    "he": "בריאה יש מאין",
+    "en": "Creation Ex Nihilo",
+    "category": "קבלה",
+    "count": 33
+  },
+  "rashi": {
+    "he": "רש\"י",
+    "en": "Rashi",
+    "category": "פרשנים",
+    "count": 168
+  },
+  "klal-yisrael": {
+    "he": "כלל ישראל",
+    "en": "The Jewish People",
+    "category": "ישראל",
+    "count": 482
+  },
+  "malchut": {
+    "he": "מלכות",
+    "en": "Malchut — Kingship",
+    "category": "קבלה",
+    "count": 102
+  },
+  "nefesh-habehamit": {
+    "he": "נפש הבהמית",
+    "en": "Animal Soul",
+    "category": "נפשות",
+    "count": 123
+  },
+  "teshuvah": {
+    "he": "תשובה",
+    "en": "Teshuvah — Repentance",
+    "category": "עבודת ה'",
+    "count": 135
+  },
+  "tzaddik": {
+    "he": "צדיק",
+    "en": "Tzaddik",
+    "category": "דרגות עבודה",
+    "count": 60
+  },
+  "achdut-hashem": {
+    "he": "אחדות ה'",
+    "en": "Unity of G-d",
+    "category": "אמונה",
+    "count": 65
+  },
+  "teshuva-ilaa": {
+    "he": "תשובה עילאה",
+    "en": "Higher Teshuvah",
+    "category": "עבודת ה'",
+    "count": 15
+  },
+  "ahavat-yisrael": {
+    "he": "אהבת ישראל",
+    "en": "Love of Fellow Jews",
+    "category": "מידות",
+    "count": 204
+  },
+  "tzedakah": {
+    "he": "צדקה",
+    "en": "Charity",
+    "category": "מצוות",
+    "count": 37
+  },
+  "ataph-khafoch": {
+    "he": "אתהפכא",
+    "en": "Ithapcha — transformation of darkness to light",
+    "category": "עבודת ה'",
+    "count": 67
+  },
+  "avodat-habeinonim": {
+    "he": "עבודת הבינונים",
+    "en": "Service of the Beinonim",
+    "category": "עבודת ה'",
+    "count": 274
+  },
+  "hashgacha-pratit": {
+    "he": "השגחה פרטית",
+    "en": "Divine Providence",
+    "category": "אמונה",
+    "count": 55
+  },
+  "lishma": {
+    "he": "לשמה",
+    "en": "Lishmah — For its own sake",
+    "category": "עבודת ה'",
+    "count": 145
+  },
+  "ohr-einsof": {
+    "he": "אור אין סוף",
+    "en": "Ohr Ein Sof — Infinite Light",
+    "category": "קבלה",
+    "count": 35
+  },
+  "tanya": {
+    "he": "תניא",
+    "en": "Tanya",
+    "category": "ספרי חסידות",
+    "count": 216
+  },
+  "avodat-halev": {
+    "he": "עבודת הלב",
+    "en": "Service of the Heart",
+    "category": "עבודת ה'",
+    "count": 51
+  },
+  "four-worlds": {
+    "he": "ד' עולמות",
+    "en": "Four Worlds — ABYA",
+    "category": "קבלה",
+    "count": 43
+  },
+  "rambam": {
+    "he": "רמב\"ם",
+    "en": "Rambam",
+    "category": "פרשנים",
+    "count": 302
+  },
+  "hishtalshelut": {
+    "he": "השתלשלות",
+    "en": "Chain of Being",
+    "category": "קבלה",
+    "count": 40
+  },
+  "memshalah": {
+    "he": "ממשלה",
+    "en": "Dominion / Rule",
+    "category": "קבלה",
+    "count": 42
+  },
+  "tefila": {
+    "he": "תפילה",
+    "en": "Prayer",
+    "category": "עבודת ה'",
+    "count": 63
+  },
+  "atzilut": {
+    "he": "עולם האצילות",
+    "en": "World of Atzilut",
+    "category": "קבלה",
+    "count": 22
+  },
+  "yirat-hashem": {
+    "he": "יראת ה'",
+    "en": "Fear of G-d",
+    "category": "עבודת ה'",
+    "count": 53
+  },
+  "iskafya": {
+    "he": "אתכפיא",
+    "en": "Ithkafya — subduing the animal soul",
+    "category": "עבודת ה'",
+    "count": 57
+  },
+  "keter": {
+    "he": "כתר",
+    "en": "Keter — Crown",
+    "category": "קבלה",
+    "count": 6
+  },
+  "klipot": {
+    "he": "קליפות",
+    "en": "Klipot — Husks / Forces of Evil",
+    "category": "קבלה",
+    "count": 86
+  },
+  "simcha": {
+    "he": "שמחה",
+    "en": "Joy",
+    "category": "עבודת ה'",
+    "count": 31
+  },
+  "shabbat": {
+    "he": "שבת",
+    "en": "Shabbat",
+    "category": "מועדים",
+    "count": 32
+  },
+  "nefesh-hasichlit": {
+    "he": "נפש השכלית",
+    "en": "Intellectual Soul",
+    "category": "נפשות",
+    "count": 6
+  },
+  "beinoni": {
+    "he": "בינוני",
+    "en": "Beinoni — Intermediate Person",
+    "category": "דרגות עבודה",
+    "count": 54
+  },
+  "hiskashrus": {
+    "he": "התקשרות",
+    "en": "Hiskashrus — Attachment to the Rebbe",
+    "category": "חסידות",
+    "count": 29
+  },
+  "iskafya-ishapu": {
+    "he": "כלי ואור",
+    "en": "Vessels and Light",
+    "category": "קבלה",
+    "count": 16
+  },
+  "mmale-sovev": {
+    "he": "ממלא וסובב",
+    "en": "Memale and Sovev",
+    "category": "קבלה",
+    "count": 12
+  },
+  "emuna": {
+    "he": "אמונה",
+    "en": "Faith / Emunah",
+    "category": "אמונה",
+    "count": 23
+  },
+  "kedusha-tumah": {
+    "he": "קדושה וטומאה",
+    "en": "Holiness and Impurity",
+    "category": "קבלה",
+    "count": 38
+  },
+  "tzimtzum": {
+    "he": "צמצום",
+    "en": "Tzimtzum — Divine Contraction",
+    "category": "קבלה",
+    "count": 35
+  },
+  "yechida": {
+    "he": "יחידה",
+    "en": "Yechida — Highest Soul Level",
+    "category": "נפשות",
+    "count": 3
+  },
+  "kavanah": {
+    "he": "כוונה",
+    "en": "Intention / Kavvanah",
+    "category": "עבודת ה'",
+    "count": 14
+  },
+  "pardes": {
+    "he": "פרד\"ס",
+    "en": "PaRDeS — Four Levels of Torah Interpretation",
+    "category": "תורה",
+    "count": 3
+  },
+  "zohar": {
+    "he": "זוהר",
+    "en": "Zohar",
+    "category": "קבלה",
+    "count": 20
+  },
+  "chesed-gevura-tiferet": {
+    "he": "חסד גבורה תפארת",
+    "en": "Chesed, Gevura, Tiferet",
+    "category": "קבלה",
+    "count": 5
+  },
+  "histapkut": {
+    "he": "הסתפקות",
+    "en": "Contentment",
+    "category": "מידות",
+    "count": 3
+  },
+  "penimiyut-chitzoniyut": {
+    "he": "פנימיות וחיצוניות",
+    "en": "Inner and Outer",
+    "category": "קבלה",
+    "count": 4
+  }
+}
