@@ -13,7 +13,7 @@ tags:
 
 | כרך | חלק | עמ' | תוכן |
 |-----|-----|-----|------|
-| [[volumes/volume-01\|כרך 1]] | [[sichos/vol01/vayeshev-chanukah_1\|א]] | 76 |  |
+| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayeshev-chanukah_1|א]] | 76 |  |
 
 ---
 
