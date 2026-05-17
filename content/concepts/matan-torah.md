@@ -11,239 +11,66 @@ tags:
 
 > **Giving of the Torah**
 >
-> מעמד הר סיני — מתן תורה
+> מעמד הר סיני — מתן תורה, קבלת התורה
 
-**225 שיחות** דנות בנושא זה
+**168 שיחות** עוסקות בנושא זה בליקוטי שיחות
 
-## שיחות העוסקות במתן תורה
+> *מוצגות 50 שיחות מתוך 168. מוינו לפי סדר הכרכים.*
 
-| כרך | שיחה | עמ' |
-|-----|------|-----|
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bereishit_1|בראשית]] | 1 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/noach_1|נח]] | 4 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/lech-lecha_1|לך לך]] | 15 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/chayei-sarah_1|חיי שרה]] | 31 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/toldot_1|תולדות]] | 45 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayetzei_1|ויצא]] | 60 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayishlach-yud-tes-kislev_1|וישלח — י ט כסלו]] | 68 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/miketz-שבת_חנוכה_1|מקץ — שבת חנוכה]] | 85 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayechi_1|ויחי]] | 102 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/shemot_1|שמות]] | 111 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bo-יו-ד_שבט_1|בא — יו״ד שבט]] | 127 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/beshalach-ט-ו_בשבט_1|בשלח — ט״ו בשבט]] | 139 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/yitro_1|יתרו]] | 148 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/terumah_1|תרומה]] | 162 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/ki-tisa_1|תשא]] | 178 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayakhel-אדר_1|ויקהל -אדר]] | 187 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/vayikra-parshat-zachor_1|ויקרא — זכור]] | 205 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/tazria_1|תזריע]] | 231 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/pesach_1|חה פ]] | 244 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/kedoshim_1|קדושים]] | 260 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/emor_1|אמור]] | 263 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/behar_1|בהר]] | 273 |
-| [[volumes/volume-01|כרך 1]] | [[sichos/vol01/bechukotai-special_1|בחוקותי-ל ג בעומר]] | 281 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/bamidbar_1|במדבר]] | 293 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shavuot_1|חה ש]] | 301 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shelach_1|שלח]] | 320 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/matot-masei_1|מטו מ]] | 348 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/ki-tavo_1|תבא]] | 390 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/sukkot_1|חה ס]] | 417 |
-| [[volumes/volume-02|כרך 2]] | [[sichos/vol02/shemini-atzeret-special_1|שמע צ-שמח ת]] | 433 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/bereishit_1|בראשית]] | 747 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/lech-lecha_1|לך לך]] | 757 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/vayera_1|וירא]] | 765 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/chayei-sarah_1|חיי שרה]] | 772 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/vaera_1|וארא]] | 854 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/bo_1|בא]] | 864 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/beshalach_1|בשלח]] | 876 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/yitro_1|יתרו]] | 887 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/mishpatim_1|משפטים]] | 895 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/terumah_1|תרומה]] | 902 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/ki-tisa_1|תשא]] | 923 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/shabbat-parshat-special_1|שש פ]] | 966 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/shemini_1|שמיני]] | 973 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/tazria_1|תזריע]] | 979 |
-| [[volumes/volume-03|כרך 3]] | [[sichos/vol03/emor_1|אמור]] | 995 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/bamidbar_1|במדבר]] | 1019 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/shavuot_1|חה ש]] | 1024 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/behaalotecha_1|בהעלותך]] | 1035 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/korach_1|קורח]] | 1048 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/pinchas_1|פנחס]] | 1070 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/masei_1|מסעי]] | 1083 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/vaetchanan_1|ואתחנן]] | 1092 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/chai-elul_1|ח י אלול]] | 1136 |
-| [[volumes/volume-04|כרך 4]] | [[sichos/vol04/simchat-torah_1|שמח ת]] | 1165 |
-| [[volumes/volume-05|כרך 5]] | [[sichos/vol05/bereishit_1|בראשית]] | 1 |
-| [[volumes/volume-05|כרך 5]] | [[sichos/vol05/vayera_1|וירא]] | 77 |
-| [[volumes/volume-05|כרך 5]] | [[sichos/vol05/yud-tes-kislev_1|י ט כסלו]] | 172 |
-| [[volumes/volume-05|כרך 5]] | [[sichos/vol05/vayechi_2|ויחי]] | 261 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/shemot_2|שמות]] | 13 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/chof-dales-tevet_1|כ ד טבת]] | 35 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/vaera_2|וארא]] | 46 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/yitro_1|יתרו]] | 107 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/yitro_2|יתרו]] | 119 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/mishpatim_1|משפטים]] | 130 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/terumah_1|תרומה]] | 152 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/vayakhel_1|ויקהל]] | 210 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/pekudei_1|פקודי]] | 225 |
-| [[volumes/volume-06|כרך 6]] | [[sichos/vol06/pekudei_2|פקודי]] | 235 |
-| [[volumes/volume-07|כרך 7]] | [[sichos/vol07/bechukotai_1|בחוקותי]] | 188 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/bamidbar_1|במדבר]] | 1 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/bamidbar_2|במדבר]] | 8 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/shavuot_1|חה ש]] | 21 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/naso_3|נשא]] | 49 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/korach_1|קרח]] | 102 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/korach_2|קרח]] | 114 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/pinchas_2|פנחס]] | 171 |
-| [[volumes/volume-08|כרך 8]] | [[sichos/vol08/matot_2|מטות]] | 186 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/devarim-ג_-שבת_חזון_1|דברים ג (שבת חזון]] | 24 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/vaetchanan_1|ואתחנן]] | 33 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/vaetchanan_2|ואתחנן]] | 49 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/eikev_1|עקב]] | 71 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/reeh_2|ראה]] | 106 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/ki-tetzei_2|תצא]] | 143 |
-| [[volumes/volume-09|כרך 9]] | [[sichos/vol09/vezot-habracha_2|וזאת הברכה]] | 237 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/shemot_1|שמות]] | 1 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/shemot_2|שמות]] | 8 |
-| [[volumes/volume-11|כרך 11]] | [[sichos/vol11/yitro_1|יתרו]] | 74 |
-| [[volumes/volume-12|כרך 12]] | [[sichos/vol12/acharei_1|אחרי]] | 83 |
-| [[volumes/volume-13|כרך 13]] | [[sichos/vol13/naso_2|נשא]] | 20 |
-| [[volumes/volume-13|כרך 13]] | [[sichos/vol13/matot_1|מטות]] | 105 |
-| [[volumes/volume-13|כרך 13]] | [[sichos/vol13/masei_1|מסעי]] | 114 |
-| [[volumes/volume-14|כרך 14]] | [[sichos/vol14/reeh_1|ראה]] | 45 |
-| [[volumes/volume-14|כרך 14]] | [[sichos/vol14/simchat-torah_156|וזאת הברכה א — שמח ת]] | 156 |
-| [[volumes/volume-14|כרך 14]] | [[sichos/vol14/vezot-habracha_2|וזאת הברכה]] | 164 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/noach_1|נח]] | 34 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/noach_3|נח]] | 49 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/noach_4|נח]] | 58 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/noach_5|נח]] | 63 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/lech-lecha_2|לך לך]] | 75 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/lech-lecha_3|לך לך]] | 83 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayera_3|וירא]] | 122 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/toldot_1|תולדות]] | 191 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/toldot_3|תולדות]] | 211 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayeshev_1|וישב]] | 302 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayeshev-special_4|וישב-חנוכה]] | 324 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/miketz_3|מקץ]] | 359 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayigash_4|ויגש]] | 405 |
-| [[volumes/volume-15|כרך 15]] | [[sichos/vol15/vayechi_4|ויחי]] | 447 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/shemot-special_1|שמות-כ ד טבת]] | 33 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/beshalach_2|בשלח]] | 161 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/yitro_1|יתרו]] | 192 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/mishpatim_1|משפטים]] | 242 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/purim_1|פורים]] | 352 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/purim_2|פורים]] | 365 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/ki-tisa_4|תשא]] | 408 |
-| [[volumes/volume-16|כרך 16]] | [[sichos/vol16/vayakhel_1|ויקהל]] | 424 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/vayikra_1|ויקרא]] | 1 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/pesach_1|חה פ]] | 71 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/kedoshim_2|קדושים]] | 215 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/kedoshim_4|קדושים]] | 232 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/behar_1|בהר]] | 276 |
-| [[volumes/volume-17|כרך 17]] | [[sichos/vol17/bechukotai_1|בחוקותי]] | 313 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/bamidbar-special_1|במדבר-ב' סיון]] | 18 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/shavuot_1|חה ש]] | 28 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/shavuot_2|חה ש]] | 35 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/naso_1|נשא]] | 44 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/naso_5|נשא]] | 83 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/behaalotecha_3|בהעלותך]] | 117 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/behaalotecha_4|בהעלותך]] | 126 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/balak_2|בלק]] | 271 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/balak_3|בלק]] | 285 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/pinchas_3|פנחס]] | 342 |
-| [[volumes/volume-18|כרך 18]] | [[sichos/vol18/masei_2|מסעי]] | 399 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/devarim_1|דברים]] | 1 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/eikev_1|עקב]] | 89 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/shoftim_3|שופטים]] | 177 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/ki-tavo_1|תבא]] | 227 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/chai-elul_1|ח י אלול]] | 250 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/vayelech_1|וילך]] | 298 |
-| [[volumes/volume-19|כרך 19]] | [[sichos/vol19/haazinu_1|האזינו]] | 329 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/chayei-sarah_3|חיי שרה]] | 91 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayetzei_3|ויצא]] | 136 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayishlach-special_1|וישלח-י ט כסלו]] | 166 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/yud-tes-kislev_2|י ט כסלו]] | 180 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/miketz_2|מקץ]] | 200 |
-| [[volumes/volume-20|כרך 20]] | [[sichos/vol20/vayigash_2|ויגש]] | 218 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/vaera_3|וארא]] | 45 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/bo_3|בא]] | 68 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/beshalach_1|בשלח]] | 77 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/beshalach_3|בשלח]] | 89 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_1|יתרו]] | 100 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_2|יתרו]] | 108 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/yitro_3|יתרו]] | 119 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/mishpatim_3|משפטים]] | 138 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/terumah_1|תרומה]] | 146 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/parshat-zachor_1|פ' זכור]] | 190 |
-| [[volumes/volume-21|כרך 21]] | [[sichos/vol21/purim_1|פורים]] | 206 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/vayikra_1|ויקרא]] | 1 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/vayikra_2|ויקרא]] | 7 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/ימים-אחרונים-דחג-הפסח_1|ימים אחרונים דחג הפסח]] | 30 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/tazria_1|תזריע]] | 56 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/emor_1|אמור]] | 114 |
-| [[volumes/volume-22|כרך 22]] | [[sichos/vol22/behar_1|בהר]] | 143 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/bamidbar_2|במדבר]] | 8 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/shavuot_1|חה ש]] | 17 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/shavuot_2|חה ש]] | 27 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/shelach_2|שלח]] | 96 |
-| [[volumes/volume-23|כרך 23]] | [[sichos/vol23/korach_2|קרח]] | 123 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/devarim_2|דברים]] | 12 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/vaetchanan_2|ואתחנן]] | 36 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/tu-beav_2|ט ו באב]] | 57 |
-| [[volumes/volume-24|כרך 24]] | [[sichos/vol24/nitzavim_1|נצבים]] | 188 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/toldot_1|תולדות]] | 116 |
-| [[volumes/volume-25|כרך 25]] | [[sichos/vol25/vayeshev-special_1|וישב-י ט כסלו]] | 193 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/vaera_1|וארא]] | 43 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/bo_3|בא]] | 77 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/yitro_2|יתרו]] | 124 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/yitro_3|יתרו]] | 132 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/mishpatim_2|משפטים]] | 153 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/mishpatim_3|משפטים]] | 160 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/purim-קטן_1|פורים קטן]] | 209 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/ki-tisa_1|תשא]] | 229 |
-| [[volumes/volume-26|כרך 26]] | [[sichos/vol26/vayakhel_2|ויקהל]] | 262 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/ב-ניסן_1|ב' ניסן]] | 24 |
-| [[volumes/volume-27|כרך 27]] | [[sichos/vol27/kedoshim_2|קדושים]] | 149 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/ר-ח-סיון_1|ר ח סיון]] | 7 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/ערב-חג-השבועות_1|ערב חג השבועות]] | 15 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/shavuot_1|חה ש]] | 24 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/naso_3|נשא]] | 49 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/yud-beis-sivan_1|י ב סיון]] | 76 |
-| [[volumes/volume-28|כרך 28]] | [[sichos/vol28/pinchas_1|פנחס]] | 174 |
-| [[volumes/volume-29|כרך 29]] | [[sichos/vol29/יום-הכיפורים_1|יום הכיפורים]] | 203 |
-| [[volumes/volume-29|כרך 29]] | [[sichos/vol29/vezot-habracha-special_1|ברכה-שמח ת]] | 229 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/lech-lecha_3|לך לך]] | 53 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayechi_2|ויחי]] | 241 |
-| [[volumes/volume-30|כרך 30]] | [[sichos/vol30/vayechi_3|ויחי]] | 249 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/vaera_1|וארא]] | 23 |
-| [[volumes/volume-31|כרך 31]] | [[sichos/vol31/yitro_1|יתרו]] | 93 |
-| [[volumes/volume-32|כרך 32]] | [[sichos/vol32/tzav_1|צו]] | 28 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/bamidbar_1|במדבר]] | 1 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/bamidbar_2|במדבר]] | 10 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shavuot_1|חה ש]] | 18 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shavuot_2|חה ש]] | 26 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/shavuot_3|חה ש]] | 34 |
-| [[volumes/volume-33|כרך 33]] | [[sichos/vol33/naso_1|נשא]] | 42 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vaetchanan_1|ואתחנן]] | 24 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/ki-tavo_3|תבא]] | 160 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/nitzavim_1|נצבים]] | 167 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vayelech_1|וילך]] | 187 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/haazinu_1|האזינו]] | 206 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/sukkot_1|חה ס]] | 211 |
-| [[volumes/volume-34|כרך 34]] | [[sichos/vol34/vezot-habracha_1|ברכה]] | 217 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/bereishit_2|בראשית]] | 7 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/noach_1|נח]] | 15 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/noach_2|נח]] | 24 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/lech-lecha_1|לך לך]] | 39 |
-| [[volumes/volume-35|כרך 35]] | [[sichos/vol35/lech-lecha_3|לך לך]] | 53 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/shemot_2|שמות]] | 7 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/yitro_1|יתרו]] | 86 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/yitro_3|יתרו]] | 96 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/purim_2|פורים]] | 167 |
-| [[volumes/volume-36|כרך 36]] | [[sichos/vol36/ki-tisa_1|תשא]] | 172 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/ב-סיון_1|ב' סיון]] | 1 |
-| [[volumes/volume-38|כרך 38]] | [[sichos/vol38/shavuot_1|חה ש]] | 7 |
-| [[volumes/volume-39|כרך 39]] | [[sichos/vol39/ki-tetzei_1|תצא]] | 30 |
+## עיקרי הנושא בליקוטי שיחות
+
+| כרך | שיחה | עמ' | תוכן |
+|-----|------|-----|------|
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/bechukotai-special_1|בחוקותי-ל ג בעומר]] | 281 | יח. עס איז דאך באוואוסט) אז יעדן יאר חזר׳ן זיך איבער די ענינים וואס זיינען געווען דעם ערשטן מאל אין יענעם טאג. אזוי ווי יעדער ט״ו ניסן איז מאיר יציאת מצרים און יעדער שבועות — מתן תורה, איז אויך יעדער … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/behar_1|בהר]] | 273 | אין פשטות קען מען ענטפערן, ווייל מצות שמיטה שטייט שוין בכללות אין פ׳ משפטים (נאך מתן תורה), ובשביעית תשמטנה ונטשתה, און אין פ׳ בהר חזר׳ט זי זיך איבער בדרך פרט. דאס איז אבער נאך ניט גענוגענד, ווייל עס … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/bereishit_1|בראשית]] | 1 | אין פלוג איז ניט פאַרשטאַנדיק: פאַרוואָס עפעס שבת בראשית דוקא? וואָס איז מיטן זמן פון מתן תורה, און וואָס איז בכלל מיט די אַלע סדרות, וואָס די מצוות און ענינים וועלכע ווערן אין זיי דערמאָנט חזר'ן זיך … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/beshalach-ט-ו_בשבט_1|בשלח — ט״ו בשבט]] | 139 | ה. און אַזוי ווי אין דעם גלות וואָס איז געווען פאַר מתן תורה, וואָס דאָס איז גלות מצרים, זיינען די אַלע פריערדיקע גזירות ניט געקומען צו דער גזירה פון כל הבן הילוד היאורה תשליכוהו, אַזוי אויך אין דעם א… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/bo-יו-ד_שבט_1|בא — יו״ד שבט]] | 127 | קריעת ים סוף איז געווען איינע פון די גרעסטע ניסים, כלשון רז״ל), קשה כקריעת ים סוף. קריעת ים סוף איז א הכנה צו מתן תורה און אויך צו דער גאולה העתידה. ווי אזוי איז מען געקומען צו קריעת ים סוף? |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/chayei-sarah_1|חיי שרה]] | 31 | דער תירוץ אויף דעם איז, לויט דעם וואס ס׳איז באוואוסט וועגן דעם אויפטו פון מתן תורה אויף די מצוות וועלכע די אבות האבן מקיים געווען נאך פריער. פאר מתן תורה איז געווען די גזירה אז בני רומי לא ירדו לסוריא… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/emor_1|אמור]] | 263 | ו. אויף יציאת מצרים שטייט, בהוציאך את העם ממצרים תעבדון את האלקים על ההר הזה, דאס הייסט אז דער אויספיר און תכלית פון יציאת מצרים איז מתן תורה. צווישן יציאת מצרים מיט מתן תורה איז ספירת העומר, דאס הייס… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/kedoshim_1|קדושים]] | 260 | מיר געפינען ענלעך דערצו ביי דעם ענין פון מילה. בשעת אברהם אבינו האט געדארפט זוכה זיין צו דעם גילוי פון שם שד־י, האט געמוזט זיין הסרת הערלה הגסה, התהלך לפני והי׳ תמים. צו מתן תורה, וואס דאן האט זיך אוי… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/ki-tisa_1|תשא]] | 178 | און אַזוי ווי עס איז געווען דעמאָלט אַז אַלע אידן האָבן תשובה געטאָן און געזאָגט הוי' הוא האלקים, הוי' הוא האלקים, צוויי מאָל, נאך מער ווי בשעת מתן תורה וואָס עס שטייט אנכי הוי' אלקיך איין מאָל), ווי … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/lech-lecha_1|לך לך]] | 15 | צוליב דעם איז אויסגעקומען נאָך אַן אונטערשייד צווישן ישמעאל'ן מיט יצחק׳ן – דער ענין פון ברית מילה, די איינציקע ספעציעלע מצוה, דורך וועלכער מען האָט דאַן (פאַר מתן תורה) געהאַט אַ פאַרבונד מיטן אויבערש… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/miketz-שבת_חנוכה_1|מקץ — שבת חנוכה]] | 85 | ביי מתן תורה שטייט, אז אויב עס וואלט געווען ששים ריבוא חסר אחד — זעקס הונדערט טויזנט ווייניקער איינער — (ווען דער אחד וואלט ניט געווען) וואלט ניט געגעבן געווארן די תורה חס ושלום אפילו צו משה׳ן. וואס ד… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/noach_1|נח]] | 4 | אַפילו פאַר מתן תורה - וואָס מען האָט געקענט האָבן אַ טעות און מיינען: וואָס גייט מיר אָן פאַר אַ צווייטן - אני את נפשי הצלתי - איז אַפילו דעמאָלט, האָט דער אויבערשטער געזאָגט נח'ן "בא אתה וגו' ואשתך … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/pekudei_1|פקודי]] | 195 | ג) מקום הקבלה איז געווען אין הר סיני, וואס דעמאלט איז משה געשטאנען אויף א העכערער מדריגה ווי ווען ער איז געווען למטה, והראי׳: דארטן איז דאך לחם לא אכל ומים לא שתה (ברויט האט ער ניט געגעסן און וואסער נ… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/pesach_1|חה פ]] | 244 | אזוי ווי עס איז געווען בשעת דער אויבערשטער האט געגעבן די תורה צו אידן, ויחן שם ישראל, לשון יחיד, וואס מתן תורה איז דאך דער תכלית פון יציאת מצרים, ווי עס שטייט: בהוציאך את העם ממצרים תעבדון את האלקים ע… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/shemot_1|שמות]] | 111 | ווערט דערקלערט אין תורה אור), אז ביי מתן תורה איז אנטפלעקט געווארן דער שם הוי׳ (וואס צו די אבות איז ער ניט נתגלה געווארן), ובכדי עס זאל קענען זיין דער גילוי — וידעתם כי אני הוי׳ — האט מען געמוזט האבן … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/tazria_1|תזריע]] | 231 | נאר דער ענין איז: דער אויפטו פון מתן תורה איז אז דורך תורה ומצות פארבינדט מען זיך מיט עצמות ומהות אלקות ווי ער איז העכער פון עולמות. דערפאר איז בהתחלת מתן תורה דערמאנט ער ניט בריאת שמים וארץ נאר יציאת… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/terumah_1|תרומה]] | 162 | עס איז באוואוסט, אַז חטא העגל איז אין דעם סוג פון חטא עץ הדעת. דורך חטא עץ הדעת ירדה זוהמא לעולם, ובשעת מתן תורה פסקה זוהמתן ועל ידי חטא העגל חזרה. דערפון איז מובן, אַז מען קען קלערער פאַרשטיין דעם ענ… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/toldot_1|תולדות]] | 45 | ווארום די גאנצע התהוות — וואס איז דורך די עשרה מאמרות — איז געווען דורך תורה און צוליב תורה, כמאמר89) בראשית בשביל התורה שנק׳ ראשית, און ביז ס׳איז געקומען דער יום הששי, ששי בסיון דער טאג פון מתן תורה … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/vayakhel-אדר_1|ויקהל -אדר]] | 187 | וועט מען עס פארשטיין לויט ווי עס איז באוואוסט אז דער חטא העגל איז דער זעלבער ענין פון חטא עץ הדעת, כמאמר רז״ל אז בשעת חטא עץ הדעת ירדה זוהמא לעולם, ובשעת מתן תורה פסקה זוהמתן, ובשעת חטא העגל חזרה). דע… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/vayechi_1|ויחי]] | 102 | יז. די שייכות פון זוכה זיין צו גוטע קינדער מיט דער עבודה פון קבלת עול, וועט מען פארשטיין מיט דעם וואס עס שטייט אין מדרש), אז פאר מתן תורה האט דער אויבערשטער געפאדערט פון אידן, זיי זאלן צושטעלן ערבות. … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/vayetzei_1|ויצא]] | 60 | פרעגט מען אויף דעם): אין פלוג איז דאך דאס קעגן דעם כלל אז אין למדין מקודם מתן תורה (מען לערנט ניט אפ פון די ענינים וועלכע האבן פאסירט פאר מתן תורה))? נאך מער: אין די צוויי לימודים גופא איז דער דין פון… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/vayikra-parshat-zachor_1|ויקרא — זכור]] | 205 | בשעת אידן זיינען געגאנגען צו מתן תורה, און געוואלט שרייען נעשה קודם לנשמע, צי מען וועט יא פארשטיין צי ניט פארשטיין וועט מען מקיים זיין וואס מען וועט הערן, קומט צו גיין עמלק און קילט אפ. ער טענה׳ט ניט … |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/vayishlach-yud-tes-kislev_1|וישלח — י ט כסלו]] | 68 | דאס הייסט אז אברהם, משה מיט משיח׳ן זיינען א המשך פון דעם זעלבן ענין, אברהם האט אנגעהויבן שני אלפים תורה, משה רבינו האט מקבל געווען די תורה מסיני און איבערגעגעבן צו כל ישראל (הגם דער פסוק וירכיבם על הח… |
+| [[volumes/volume-01|כרך א]] | [[sichos/vol01/yitro_1|יתרו]] | 148 | א. ביי מתן תורה שטייט, וידבר אלקים את כל הדברים האלה לאמר. פרעגן מפרשים, וואָס מיינט "לאמר"? אומעטום וואו עס שטייט "וידבר גו' לאמר" מיינט, אַז מען זאָל דאָס איבערזאָגן צו די אידן וואָס האָבן ניט געהער… |
+| [[volumes/volume-02|כרך ב]] | [[sichos/vol02/bamidbar_1|במדבר]] | 293 | ז. אזוי געפינען מיר אויך ביי מתן תורה, ביי מתן תורה האבן געמוזט זיין ששים רבוא. אויב עס וואלט געווען חסר אחד, אפילו ווען דער אחד וואלט געווען דער פחות פון שבט דן, וואלט דער אויבערשטער חס ושלום די תורה… |
+| [[volumes/volume-02|כרך ב]] | [[sichos/vol02/ki-tavo_1|תבא]] | 390 | דערפאר איז פאר די גילויים פון מתן תורה און פאר די גילויים פון ראש השנה, וואס יעדער ראש השנה ווערט נמשך א המשכה חדשה שלא הי׳ מעולם), ד. ה. אז אפילו בזמן שבית המקדש הי׳ קיים איז נאך ניט געווען אזא המשכה… |
+| [[volumes/volume-02|כרך ב]] | [[sichos/vol02/matot-masei_1|מטו מ]] | 348 | און מה דאך דעמאלט, וואס די אידן זייענדיק אין מצרים זיינען געווען משוקע אין מ״ט שערי טומאה), און ס׳איז אויך געווען פאר מתן תורה, וואס דעמאלט איז נאך געווען די גזירה אז עס קאן ניט זיין דער חיבור פון רומ… |
+| [[volumes/volume-02|כרך ב]] | [[sichos/vol02/shavuot_1|חה ש]] | 301 | א. מתן תורה איז געווען אין חודש סיון, חודש השלישי. דערפון איז פארשטאנדיק אז תורה איז פארבונדן מיט "שלישי". ווארום אויסער דעם וואס אלץ, ובפרט די ענינים פון תורה ומצוות, איז בהשגחה פרטית, געפינען מיר דע… |
+| [[volumes/volume-02|כרך ב]] | [[sichos/vol02/shelach_1|שלח]] | 320 | משה רבינו האט זיך איינגעשטעלט פאר אלע אידן. און הגם אז על פי שכל, על פי טעם ודעת האט ניט קיין ארט מתפלל זיין פאר א חוטא בעגל ובמזיד, דאך האט זיך משה רבינו איינגעשטעלט מיט א שטארקן ווילן און מסירת נפש … |
+| [[volumes/volume-02|כרך ב]] | [[sichos/vol02/shemini-atzeret-special_1|שמע צ-שמח ת]] | 433 | ז. דאס איז אויך אן ענטפער אויף דעם, וואס אידן בכלל זיינען א כבשה אחת בין ע׳ זאבים והיא משתמרת): ווייל די ע׳ זאבים איז יעדער פון זיי א באזונדער מציאות, אבער אידן זיינען אלע צוזאמען, האבן זיי דעריבער א … |
+| [[volumes/volume-02|כרך ב]] | [[sichos/vol02/sukkot_1|חה ס]] | 417 | אַזוי ווי מיר געפינען בשעת מתן תורה, אַז די התחלה איז געווען הקדמת נעשה לנשמע, וואָס דאָס איז דאָך קבלת עול. וואָרום וויבאַלד זיי האָבן נאָך לגמרי ניט געוואוסט וועגן וואָס עס האַנדלט זיך, איז דאָך פאַ… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/beshalach_1|בשלח]] | 876 | (כאטש דאן איז נאך געווען פאר מתן תורה, איידער תפלה האט בכלל געקענט אנגערופן ווערן מצוה, איז אבער דערפון וואס נאך מתן תורה איז זי א מצוה נעלית ביותר, פארשטאנדיק אז אויך פריער איז עם געווען אן ענין נעלה… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/bo_1|בא]] | 864 | דער טעם דערפון איז: מכת בכורות, די לעצטע מכה, איז געווען דער אנ־ הויב פון יציאת מצרים. וואס דער תכלית פון יציאת מצרים איז מתן תורה, ווי עס שטייט: "בהוציאך את העם ממצרים תעבדון את האלקים על ההר הזה", א… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/mishpatim_1|משפטים]] | 895 | און דאס מיינט "ואלה (המשפטים) מוסיף על הראשונים", אז אויך די משפטים פון תורה זיינען געגעבן געווארן פון דעם אויבערשטן אויפן בארג סיני -אויך זיי זיינען געגעבן געווארן מיט דעם גאנצן שטורעם וואם איז געווע… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/shabbat-parshat-special_1|שש פ]] | 966 | איז ניט פארשטאנדיק: צוליב וואס האט מען געדארפט האבן א "חומה", א זכות, וואס זאל באשיצן די אידן פון ביידע זייטן, מימינם ומשמאלם, פארוואס איז ניט געווען גענוג פאר זיי איין זכות? ובפרט דער זכות "מימינם" ו… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/shemini_1|שמיני]] | 973 | וועגן דער מצוה פון ספירת העומר שטייט דער לשון אין תורה: "תספרו חמישים יום". פרעגט מען די קשיא: מען ציילט דאך נאר גיין און פערציק טעג? און מען פארענטפערט עס מיטן ביאור, אז אידן דורך זייער ספירה, דורך ז… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/tetzaveh_1|תצוה]] | 910 | תורה הק׳ וועלכע איז געגעבן גע־ ווארן פון אויבערשטן ית׳ וואם איז אין־סוף, איז אויך אין סוף, און זי גילט מיט די זעלבע שטארקייט אין אלע ער־ טער און אין אלע צייטן. פונקט ווי זי איז געווען שטארק ווען דער א… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/vaera_1|וארא]] | 854 | ה. אויף דעם איז געקומען דער ענט־ פער מלמעלה: "וידבר אלקים אל משה ויאמר אליו אני הוי׳ וגו׳ ושמי הוי׳ לא נודעתי להם״ - פאר מתן תורה איז געווען דער גילוי פון שם אלקים און ניט פון שם הוי׳, "ושמי הוי׳ לא נ… |
+| [[volumes/volume-03|כרך ג]] | [[sichos/vol03/vayera_1|וירא]] | 765 | (ב) דער רמב״ם אליין איז מאריך אין פירוש המשניות, אז אלע מצוות וועלכע מיר זיינען היינט מקיים, טוען מיר זיי נאר צוליב דעם ציווי פון דעם אויבערשטן צו אונז דורך משה רבינו ע״ה אויפן בארג סיני. למשל, דאם וו… |
+| [[volumes/volume-04|כרך ד]] | [[sichos/vol04/behaalotecha_1|בהעלותך]] | 1035 | 12) מכילתא שמות טז, ד. ילקוט שמעוני שם. ועיין גם כן לקוטי תורה עקב (יד, ב) שהמן הוא בחינת משה שקיבל התורה, ולכן כתיב ביה ולא ידעון אבותיך, שהאבות היו קודם מתן תורה. ובקיצורים שם (טז, ב): היה זה המזון … |
+| [[volumes/volume-04|כרך ד]] | [[sichos/vol04/chai-elul_1|ח י אלול]] | 1136 | העצמות דמתן תורה (משיחת כ״ק אדמו״ר (מהורײ״צ) נ״ע ליל ש״ק פ׳ תשא שנת תפר״ח -סה״מ תפר״ח ע׳ רא ואילך). |
+| [[volumes/volume-04|כרך ד]] | [[sichos/vol04/korach_1|קורח]] | 1048 | דארף מען פארשטיין, פארוואס האט קרח אפגעווארט מיט זיין מחלוקת ביז דאן? דער ציווי פון דעם אויבערשטן, אז מען זאל צונעמען די עבודה פון די בכורים און זי איבערגעבן צו אהרן ובניו, איז געווען בשעת מתן תורה אד… |
+| [[volumes/volume-04|כרך ד]] | [[sichos/vol04/masei_1|מסעי]] | 1083 | וכדוגמת חטא העגל, וואס ער איז דער שורש פון די אלע חטאים שלאחריו, איז דאך ידוע, אז דער חטא איז געקומען פון דעם וואס אידן האבן זיך מתבונן געווען אין דער מרכבה (און דעם פני שור שבמרכבה) בשעת מתן תורה. קו… |
+| [[volumes/volume-04|כרך ד]] | [[sichos/vol04/pinchas_1|פנחס]] | 1070 | און דאס וועט זיין דער אויפטו אין דער גאולה העתידה, אז עס וועלן זיין ביידע מעלות: עס וועט מאיר זיין דער אור, ווי ער איז אן הגבלות, אויך דער אור וואס ער איז העכער פון צו קענען נמשך ווערן דורך אתערותא דל… |
+| [[volumes/volume-04|כרך ד]] | [[sichos/vol04/simchat-torah_1|שמח ת]] | 1165 | דער פסוק "תורה צוה לנו משה" רעדט וועגן דער תורה ווי זי איז געקומען פון משה רבינו, וואס ער האט זי מקבל געווען פון סיני, אז די "תורה" וואם "צוה לנו משה", אנטהאלט אין זיך די גאנצע תורה, אויך "כל מה שתלמי… |
+| [[volumes/volume-04|כרך ד]] | [[sichos/vol04/vaetchanan_1|ואתחנן]] | 1092 | א. אויפן פסוק "קול גדול ולא יסף" (אז דער קול פון די עשרת הדברות איז ניט נפסק געווארן), ברענגט דער מדרש דריי פירושים: א) "קול אחד נחלק לז' קולות והם נחלקים לע' לשון" (דער קול איז ניט פארבליבן ביי לשון … |
+| [[volumes/volume-05|כרך ה]] | [[sichos/vol05/vayechi_2|ויחי]] | 261 | ס׳איז דאך ידוע אז די אבות האבן אפגעהיט אלע מצות התורה, הגם זיי האבן דערויף קיין ציווי ניט געהאט. און וויבאלד אז עס שטייט (ביי אב־ רהם׳ען) "למען אשר יצוה את בניו ואת ביתו אחריו", איז די סברא מחייב, אז … |
+| [[volumes/volume-05|כרך ה]] | [[sichos/vol05/כ-מ_8|כ]] | 86 | 23)    אלא שמכל מקום, הציװי אינו מבחי׳ "אנכי הוי׳ אלקיך" כהמצות שלאחרי מ״ת ולהעיר מלקוטי תורה להאריז״ל ר״פ לך ומשנ״ת בזה באוה״ת פ׳ ח״ש עה״פ וה׳ ברך את אברהם. בית האוצר — להרר״י ענגיל — כתחילתו די״ל דה… |
+| [[volumes/volume-06|כרך ו]] | [[sichos/vol06/chof-dales-tevet_1|כ ד טבת]] | 35 | [און דער עילוי פון משה רבינו לגבי די אבות איז געווען אויך מצד זיין מדריגה פון פאר מתן תורה, ווי דער פסוק דא גופא ברענגט דאס ארויס (בנוגע צום זמן פון פאר מ״ת) אז דער גילוי צו די אבות איז געווען דורכן ש… |
+| [[volumes/volume-06|כרך ו]] | [[sichos/vol06/pekudei_2|פקודי]] | 235 | בתחלת הספר ווערט דערציילט וועגן דער ירידה למטה: ווי די "בני ישראל"  זיינען געקומען אין מצרים און וועגן דעם חשך הגלות; און דער־ נאך ווערט דערציילט וועגן דער המשכת אלקות וואס איז נמשך געווארן למטה דורך … |
 
 ---
 
