@@ -1,0 +1,53 @@
+---
+title: "ליקוטי שיחות — כרך 1"
+tags:
+  - volume-1
+  - likkutei-sichos
+---
+
+# ליקוטי שיחות — כרך 1
+
+**34 שיחות** · [Browse volume on dach.dev](https://dach.dev/book/likkutei-sichos/toc?volume=1)
+
+## רשימת השיחות
+
+| שיחה | עמ' | מקור | תוכן |
+|------|-----|------|------|
+| [[sichos/vol01/bereishit_1\|בראשית א]] | 1 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/1_1) | א. עס איז באַוואוסט דער וואָרט וואָס די רביים – נשיאי חב"ד – האָבן געזאָגט[1], אַז שבת בראשית איז נוגע צום גאַנצן יאָר, ... |
+| [[sichos/vol01/noach_1\|נח א]] | 4 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/4_1) | א. אין תורה אור פ' נח ווערט דערקלערט, אַז דער מבול איז געווען ניט נאָר אַ שטראָף, נאָר אויך אַן ענין פון טהרה (רייניקונג... |
+| [[sichos/vol01/lech-lecha_1\|לך לך א]] | 15 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/15_1) | א. עס שטייט עשרה נסיונות נתנסה אברהם אבינו[1] (מיט צען נסיונות איז אברהם אבינו געפרואווט געוואָרן). איינער פון די ערשטע ... |
+| [[sichos/vol01/vayera_1\|וירא א]] | 23 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/23_1) | א. אַזוי ווי היינט איז כ׳ מרחשון – דער יום הולדת (געבורטס־טאָג) פון דעם רבי׳ן אדמו״ר מוהרש׳׳ב נ״ע, – דעם שווערס פאָטער –... |
+| [[sichos/vol01/chayei-sarah_1\|חיי שרה א]] | 31 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/31_1) | א. אין דער היינטיקער סדרה שטייט: "ותמת שרה בקרית ארבע היא חברון בארץ כנען". טייטשט דער זהר אַז שרה איז אַ רמז (אָנדייט) ... |
+| [[sichos/vol01/toldot_1\|תולדות א]] | 45 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/45_1) | א. אויף דעם פּסוק ואלה תולדות יצחק בן אברהם אברהם הוליד את יצחק - פרעגן די מפרשים: פאַרוואָס ווערט איבערגע'חזר'ט טאָפּלט... |
+| [[sichos/vol01/vayetzei_1\|ויצא א]] | 60 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/60_1) | א. היינטיקע סדרה הויבט זיך אן: ויצא יעקב מבאר שבע וילך חרנה. דאָס איז - ווי רש"י זאָגט - אַן איבערדערציילונג פון דעם סיו... |
+| [[sichos/vol01/vayishlach-yud-tes-kislev_1\|וישלח — י ט כסלו א]] | 68 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/68_1) | א. אויפן פסוק עם לבן גרתי, זאָגט רש"י, ותרי"ג מצות שמרתי. איז ניט פאַרשטאנדיק אין דעם: א) די שייכות פון דעם דרש אויפן פס... |
+| [[sichos/vol01/vayeshev-chanukah_1\|וישב — חנוכה א]] | 76 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/76_1) |  |
+| [[sichos/vol01/miketz-שבת_חנוכה_1\|מקץ — שבת חנוכה א]] | 85 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/85_1) | א. אין אנהויב פון פרשת מקץ, און אזוי אויך אין דער פריערדיקער סדרה, וישב, דערציילט די תורה וועגן חלומות: דער חלום פון פרע... |
+| [[sichos/vol01/vayigash_1\|ויגש א]] | 94 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/94_1) | א. אויפ׳ן פסוק ויגש אליו יהודה זאגן רז״ל[1] אז אין דער דאזיקער הגשה (דערנענטערן זיך) צו יוסף׳ן, איז יהודה געווען גרייט א... |
+| [[sichos/vol01/vayechi_1\|ויחי א]] | 102 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/102_1) | א. די ברכה מיט וועלכער יעקב אבינו האט געבענטשט זיין זון' אשר איז: מאשר שמנה לחמו. זאגט אויף דעם רש״י אז דאס מיינט, אז בי... |
+| [[sichos/vol01/shemot_1\|שמות א]] | 111 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/111_1) | א. אויפן פסוק כל הבן הילוד היאורה תשליכוהו וכל הבת תחיון, פרעגט מען[1], צוליב וואָס האָט פרעה געדאַרפט אויספירן: וכל הבת... |
+| [[sichos/vol01/vaera_1\|וארא א]] | 119 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/119_1) | א. ווי מען האָט שוין אַ סך מאל גערעדט, אַז אַלע ענינים פון תורה, ניט נאָר די דינים נאר אויך די סיפורים, ‏זיינען א הוראה ... |
+| [[sichos/vol01/bo-יו-ד_שבט_1\|בא — יו״ד שבט א]] | 127 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/127_1) | א. אין היינטיקער סדרה דערציילט די תורה, אז דער אויבערשטער האט געהייסן מען זאל נעמען א שעפס דעם צענטן טאג אין ניסן, האלטן... |
+| [[sichos/vol01/beshalach-ט-ו_בשבט_1\|בשלח — ט״ו בשבט א]] | 139 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/139_1) | א. מיט צוואַנציק יאָר צוריק - אחרון של פסח חצר"ת, האָט כ"ק מו"ח אדמו"ר גערעדט אין אַ שיחה[1] בנוגע דער הפטורה פון דעם שב... |
+| [[sichos/vol01/yitro_1\|יתרו א]] | 148 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/148_1) | א. ביי מתן תורה שטייט, וידבר אלקים את כל הדברים האלה לאמר. פרעגן מפרשים, וואָס מיינט "לאמר"? אומעטום וואו עס שטייט "וידב... |
+| [[sichos/vol01/mishpatim_1\|משפטים א]] | 155 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/155_1) | א. אין היינטיקער סדרה שטייט, על כל דבר פשע גו' על כל אבידה אשר יאמר כי הוא זה עד האלקים יבא דבר שניהם גו' ישלם שנים לרעה... |
+| [[sichos/vol01/terumah_1\|תרומה א]] | 162 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/162_1) | א. אין אָנהויב פון דער היינטיקער סדרה שטייט דריי מאָל דער וואָרט "תרומה": א) ויקחו לי תרומה; ב) אשר ידבנו לבו תקחו את תר... |
+| [[sichos/vol01/tetzaveh-פורים_קטן_1\|תצוה — פורים קטן א]] | 170 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/170_1) | א. אויפן פסוק ויקחו אליך שמן זית זך כתית למאור גו', זאָגן די רז"ל[1], אַז עס זיינען דאָ דריי סאָרטן שמן, און פאַר דער מנ... |
+| [[sichos/vol01/ki-tisa_1\|תשא א]] | 178 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/178_1) | א. אויפן פסוק זה יתנו גו' זאָגט דער ירושלמי[1]), אמר ר' מאיר כמין מטבע של אש הוציא הקב"ה מתחת כסא כבודו והראהו למשה ואמר... |
+| [[sichos/vol01/vayakhel-אדר_1\|ויקהל -אדר א]] | 187 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/187_1) | א. דער אנהויב פון היינטיקער סדרה איז: ויקהל משה את כל עדת בני ישראל ויאמר אליהם אלה הדברים אשר צוה ה׳ לעשות אותם ששת ימי... |
+| [[sichos/vol01/pekudei_1\|פקודי א]] | 195 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/195_1) | א. אין תורה בכלל, און אין תורה שבכתב בפרט, איז יעדער ווארט און אפילו יערער אות בדיוק און אויסגערעכנט. פיל הלכות ווערן אפ... |
+| [[sichos/vol01/vayikra-parshat-zachor_1\|ויקרא — זכור א]] | 205 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/205_1) | א. אין אנהויב פרשת ויקרא (פ׳ הקרבנות) שטייט, אדם כי יקריב מכם קרבן להוי'. אין פלוג איז ניט פארשטאנדיק: אויב דער פירוש אי... |
+| [[sichos/vol01/purim-tzav_1\|פורים — צו א]] | 213 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/213_1) | א. דער יום טוב פורים איז צוליב דעם נס און הצלה וואס דער אויבערשטער האט געראטעוועט דעם אידישן פאלק פון דער גזירת כלי׳ ר״ל... |
+| [[sichos/vol01/shemini_1\|שמיני א]] | 222 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/222_1) | א. אין היינטיקער סדרה רעדט זיך וועגן די בהמות טהורות וועלכע מען מעג עסן, און די בהמות טמאות וואָס מען טאָר ניט עסן. און ... |
+| [[sichos/vol01/tazria_1\|תזריע א]] | 231 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/231_1) | א. אויפן פסוק אשה כי תזריע וילדה זכר זאגן רז״ל[1]), איש מזריע תחלה יולדת נקבה אשה מזרעת תחלה יולדת זכר. |
+| [[sichos/vol01/metzora-shabbat-hagadol_1\|מצורע — שבת הגדול א]] | 239 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/239_1) | א. היינטיקער שבת, ווי אלע שבתות השנה, איז פארבונדן מיט א געוויסער פרשה פון תורה, |
+| [[sichos/vol01/pesach_1\|חה פ א]] | 244 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/244_1) | א. מה נשתנה: |
+| [[sichos/vol01/acharei_1\|אחרי א]] | 253 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/253_1) | א. אויפן פסוק ושמרתם את משמרתי, זאגט די גמרא[1]): עשו משמרת למשמרתי. דאס איז דער יסוד צו די גדרים וסייגים דרבנן, אזוי או... |
+| [[sichos/vol01/kedoshim_1\|קדושים א]] | 260 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/260_1) | א. די ערשטע דריי ציוויים פון אנהויב פרשה זיינען: א) קדושים תהיו[1]). ב) איש אמו ואביו תיראו. ג) את שבתותי תשמרו. |
+| [[sichos/vol01/emor_1\|אמור א]] | 263 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/263_1) | א. חודש אייר האט א מעלה אויף אלע חדשי השנה, מיט דעם וואס יעדער טאג פון חודש איז פארבונדן מיט א מצוה — די מצוה פון ספירת ... |
+| [[sichos/vol01/behar_1\|בהר א]] | 273 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/273_1) | א. אין אנהויב סדרה שטייט, וידבר הוי׳ אל משה בהר סיני גו׳ ושבתה הארץ שבת להוי׳. זאגט אויף דעם רש״י בשם תורת כהנים: מה עני... |
+| [[sichos/vol01/bechukotai-special_1\|בחוקותי-ל ג בעומר א]] | 281 | [dach.dev](https://dach.dev/book/likkutei-sichos/viewer/281_1) | א. דער אנהויב פון דער סדרה איז, אם בחקותי תלכו. זאגט די גמרא[1]), אין אם אלא לשון תחנונים. ד. ה. אז דער טייטש פון אם דא ... |
+
+---
+
+*[[index|← חזרה לדף הראשי]]*
