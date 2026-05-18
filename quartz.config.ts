@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "he-IL",
-    baseUrl: "likkutei-sichos.pages.dev",
+    baseUrl: "zmabraham.github.io/likkutei-sichos-wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
