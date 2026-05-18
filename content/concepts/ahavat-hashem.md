@@ -1,5 +1,5 @@
 ---
-title: 'אהבת ה' — ליקוטי שיחות'
+title: "אהבת ה' — ליקוטי שיחות"
 tags:
   - concept
   - ahavat-hashem

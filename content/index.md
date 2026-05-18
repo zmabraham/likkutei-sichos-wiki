@@ -13,7 +13,7 @@ tags: [likkutei-sichos, index]
 
 ### [[volumes/index|כרכים]]
 ### [[parshiyot/index|פרשיות השבוע]] · [[yomim-tovim/index|ימים טובים]] · [[sfarim/bereishit|חמשה חומשי תורה]]
- · [[topics/index|נושאים]]
+ · [[topics/index|נושאים]] · [[concepts/index|מפתח מושגים]]
 
 ---
 

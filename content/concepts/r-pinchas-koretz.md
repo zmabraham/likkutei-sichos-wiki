@@ -1,5 +1,5 @@
 ---
-title: 'ר' פינחס מקוריץ — ליקוטי שיחות'
+title: "ר' פינחס מקוריץ — ליקוטי שיחות"
 tags:
   - concept
   - r-pinchas-koretz

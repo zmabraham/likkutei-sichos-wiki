@@ -1,5 +1,5 @@
 ---
-title: 'אחדות ה' — ליקוטי שיחות'
+title: "אחדות ה' — ליקוטי שיחות"
 tags:
   - concept
   - achdut-hashem

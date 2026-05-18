@@ -1,5 +1,5 @@
 ---
-title: 'יראת ה' — ליקוטי שיחות'
+title: "יראת ה' — ליקוטי שיחות"
 tags: [concept, yirat-hashem, עבודת-ה, likkutei-sichos]
 ---
 
