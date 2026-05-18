@@ -9,7 +9,7 @@ tags:
 
 מדריך שיטתי למושגים החסידיים והתורניים המרכזיים בליקוטי שיחות.
 
-**395 מושגים** · **21008 אזכורים**
+**418 מושגים** · **21008 אזכורים**
 
 ## אבות-ואמהות
 
@@ -69,6 +69,7 @@ tags:
 |------|-------|
 | [[concepts/aveilut|אבלות]] | 1076 |
 | [[concepts/avoda-zara|עבודה זרה]] | 349 |
+| [[concepts/mishpat|משפט]] | 170 |
 | [[concepts/giyur|גיור]] | 160 |
 | [[concepts/ben-noach|בן נח]] | 80 |
 | [[concepts/minhag|מנהג]] | 69 |
@@ -221,11 +222,19 @@ tags:
 | מושג | שיחות |
 |------|-------|
 | [[concepts/beit-hamikdash|בית המקדש]] | 320 |
+| [[concepts/korbanos|קרבנות]] | 200 |
+| [[concepts/mizbeach|מזבח]] | 180 |
+| [[concepts/menorah-hamikdash|מנורת המקדש]] | 120 |
+| [[concepts/kohen-gadol|כהן גדול]] | 80 |
+| [[concepts/aron-habrit|ארון הברית]] | 20 |
 ## נפשות
 
 | מושג | שיחות |
 |------|-------|
 | [[concepts/nefesh-habehamit|נפש הבהמית]] | 123 |
+| [[concepts/pintele-yid|פינטעלע יוד]] | 90 |
+| [[concepts/neshama-klolis|נשמות ישראל]] | 60 |
+| [[concepts/ruach-chaya|רוח וחיה]] | 40 |
 | [[concepts/guf|גוף]] | 19 |
 | [[concepts/neshama|נשמה]] | 14 |
 | [[concepts/nefesh-hasichlit|נפש השכלית]] | 6 |
@@ -261,6 +270,9 @@ tags:
 |------|-------|
 | [[concepts/torah-or|תורה אור]] | 253 |
 | [[concepts/tanya|תניא]] | 216 |
+| [[concepts/likkutei-torah-sefer|ליקוטי תורה]] | 130 |
+| [[concepts/hemshech|המשך]] | 85 |
+| [[concepts/sefer-hamaamarim|ספר המאמרים]] | 68 |
 ## עבודת-ה
 
 | מושג | שיחות |
@@ -270,7 +282,7 @@ tags:
 | [[concepts/avodah-begashmius|עבודה בגשמיות]] | 237 |
 | [[concepts/mitzvot|מצוות]] | 183 |
 | [[concepts/lishma|לשמה]] | 145 |
-| [[concepts/teshuvah|תשובה]] | 135 |
+| [[concepts/tshuvah|תשובה]] | 135 |
 | [[concepts/zikaron|זכות]] | 114 |
 | [[concepts/bittul|ביטול]] | 74 |
 | [[concepts/ahavat-hashem|אהבת ה']] | 72 |
@@ -314,6 +326,8 @@ tags:
 |------|-------|
 | [[concepts/gehinnom-gan-eden|גן עדן וגיהנם]] | 124 |
 | [[concepts/olam-haba|עולם הבא]] | 91 |
+| [[concepts/techiyat-hametim-details|תחיית המתים — פרטים]] | 50 |
+| [[concepts/olam-ha-emet|עולם האמת]] | 12 |
 ## ענינים-מיוחדים
 
 | מושג | שיחות |
@@ -474,10 +488,17 @@ tags:
 | מושג | שיחות |
 |------|-------|
 | [[concepts/chochma-bina-daat|חב"ד]] | 94 |
+| [[concepts/da-at|דעת]] | 60 |
+| [[concepts/malchut-sefirah|מלכות — ספירה]] | 45 |
+| [[concepts/netzach-hod-yesod|נצח הוד יסוד]] | 35 |
 ## שבת
 
 | מושג | שיחות |
 |------|-------|
+| [[concepts/shabbat-kodesh|שבת קדש]] | 73 |
+| [[concepts/melacha|מלאכה]] | 60 |
+| [[concepts/oneg-shabbat|ענג שבת]] | 35 |
+| [[concepts/kavod-shabbat|כבוד שבת]] | 23 |
 | [[concepts/neirot-shabbat|נרות שבת]] | 12 |
 | [[concepts/havdalah|הבדלה]] | 6 |
 ## תורה
